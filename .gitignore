@@ -1,0 +1,9 @@
+# Intellij Idea stuff
+.idea
+
+# OSX stuff:
+.DS_store
+
+# Python stuff:
+venv
+__pycache__
