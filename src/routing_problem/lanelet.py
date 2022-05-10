@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 
 from geojson import LineString, Feature
 
@@ -14,6 +14,8 @@ class Lanelet(FigureWithNodes, Serialisable):
         self.lane: int = lane
         self.segment: Segment = segment
 
+        self.next_lanelet: Optional[Lanelet] = None
+
     def __str__(self):
         return f"Lanelet {self.segment.id} {self.lane}/{self.segment.lanes}"
 
@@ -28,3 +30,7 @@ class Lanelet(FigureWithNodes, Serialisable):
                            "next_segments": self.segment.next_segments,
                            "id": self.segment.id
                        })
+
+    def connect_with_next(self, next_lanelet):
+        next_lanelet.nodes[0] = self.nodes[-1]
+        self.next_lanelet = next_lanelet
