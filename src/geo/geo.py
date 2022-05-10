@@ -3,11 +3,10 @@ from typing import Dict, List
 
 from utm import to_latlon, from_latlon, latitude_to_zone_letter, latlon_to_zone_number
 
-from src.json.parsable import Parsable
 from src.json.serialisable import Serialisable
 
 
-class Coordinates(Serialisable, Parsable, ABC):
+class Coordinates(Serialisable, ABC):
     """Coordinates is an abstract class for different types of coordinates."""
 
     @abstractmethod
@@ -49,10 +48,6 @@ class LatLon(Coordinates):
             "lat": self.lat,
             "lon": self.lon
         }
-
-    @staticmethod
-    def from_json(json_message):
-        return LatLon(lat=float(json_message['lat']), lon=float(json_message['lon']))
 
     def update(self, utm, zone_latlon=None):
         if self.lat is not None and self.lon is not None:
@@ -106,7 +101,7 @@ class UTM(Coordinates):
         return f"UTM: north {self.north}, east {self.east}"
 
 
-class Position(Serialisable, Parsable):
+class Position(Serialisable):
     """Position is a container for coordinates. Position can have multiple coordinates-representations"""
 
     def __init__(self, latlon: LatLon = None, utm: UTM = None, zone_latlon: LatLon = None):
@@ -139,11 +134,6 @@ class Position(Serialisable, Parsable):
             "latlon": self.latlon.to_json()
         }
 
-    @staticmethod
-    def from_json(json_message):
-        position = Position(latlon=LatLon.from_json(json_message['latlon']))
-        return position
-
     def update_utm(self):
         if self.latlon is None:
             raise Exception("LatLon is not set")
@@ -167,7 +157,7 @@ class Position(Serialisable, Parsable):
         return UTM(north=north, east=east)
 
 
-class Node(Serialisable, Parsable):
+class Node(Serialisable):
     """Node is a point on map, a part of a segment. Each node has a position."""
 
     def __init__(self, position: Position, attributes: Dict = None):
@@ -197,10 +187,6 @@ class Node(Serialisable, Parsable):
 
     def __hash__(self):
         return hash((self.position.latlon.lat, self.position.latlon.lon))
-
-    @staticmethod
-    def from_json(json_message):
-        return Node(Position.from_json(json_message['position']), json_message['attributes'])
 
 
 def separate_nodes_into_utm_groups(nodes: List[Node]) -> List[List[Node]]:

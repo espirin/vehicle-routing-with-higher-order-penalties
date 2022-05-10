@@ -7,3 +7,9 @@
 # Python stuff:
 venv
 __pycache__
+
+# Jupyter stuff
+.ipynb_checkpoints
+
+# Other stuff
+.env

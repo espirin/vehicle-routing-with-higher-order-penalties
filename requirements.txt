@@ -5,3 +5,5 @@ Shapely
 geojson
 lxml
 notebook
+mapboxgl
+python-dotenv

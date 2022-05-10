@@ -8,11 +8,14 @@ from src.routing_problem.segment import Segment
 
 
 class RoutingProblemParser:
-    def __init__(self, source: str):
-        self.source = source
+    def __init__(self, path: str):
+        self.path: str = path
 
     def parse(self) -> List[Segment]:
-        nodes, ways = find_osm_nodes_and_ways(self.source)
+        with open(self.path) as f:
+            source = f.read()
+
+        nodes, ways = find_osm_nodes_and_ways(source)
 
         segments = self.create_segments(ways)
 
