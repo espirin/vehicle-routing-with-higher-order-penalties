@@ -16,15 +16,20 @@ class RoutingProblemParser:
             source = f.read()
 
         nodes, ways = find_osm_nodes_and_ways(source)
-
         segments = self.create_segments(ways)
-
         self.check_geometry(segments)
+        self.add_references(segments)
+        self.sort_next_segments(segments)
 
         return segments
 
     @staticmethod
-    def check_geometry(geometries: List):
+    def sort_next_segments(segments: List[Segment]):
+        for segment in segments:
+            segment.sort_next_segments()
+
+    @staticmethod
+    def check_geometry(geometries: List[Segment]):
         to_remove = []
 
         for geometry in geometries:
@@ -34,6 +39,19 @@ class RoutingProblemParser:
 
         for geometry in to_remove:
             geometries.remove(geometry)
+
+    @staticmethod
+    def add_references(segments: List[Segment]):
+        segments_dict = {segment.id: segment for segment in segments}
+
+        for segment in segments:
+            for next_segment_id in segment.next_segment_ids:
+                if next_segment_id in segments_dict:
+                    segment.next_segments.append(segments_dict[next_segment_id])
+
+            for previous_segment_id in segment.previous_segment_ids:
+                if previous_segment_id in segments_dict:
+                    segment.previous_segments.append(segments_dict[previous_segment_id])
 
     def create_segments(self, ways: Dict) -> List[Segment]:
         segments = []

@@ -11,4 +11,4 @@ def create_routing_problem(path: str) -> RoutingProblem:
     # Create lanelets by expanding segments
     lanelets = create_lanelets(segments)
 
-    return RoutingProblem(lanelets)
+    return RoutingProblem(lanelets, segments)

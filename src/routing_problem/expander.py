@@ -10,9 +10,18 @@ def create_lanelets(rp_segments: List[Segment]) -> List[Lanelet]:
 
     for segment in rp_segments:
         for i in range(segment.lanes):
-            lanelets.append(Lanelet(nodes=offset_nodes(nodes=segment.nodes,
-                                                       distance=3 * (i + 1)),
-                                    lane=i,
-                                    segment=segment))
+            lanelet = Lanelet(nodes=offset_nodes(nodes=segment.nodes,
+                                                 distance=3 * (i + 1)),
+                              lane=i,
+                              segment=segment)
+            lanelets.append(lanelet)
+            segment.lanelets.append(lanelet)
+
+    for lanelet in lanelets:
+        next_lanelets = []
+        for next_segment in lanelet.segment.next_segments:
+            next_lanelets += next_segment.lanelets
+
+        lanelet.next_lanelets = next_lanelets
 
     return lanelets

@@ -1,3 +1,4 @@
+from math import sqrt, atan2, pi
 from typing import List
 
 from shapely.geometry import LineString, Point
@@ -66,3 +67,20 @@ def cut_line(line: LineString, distance: float):
         if pd > distance:
             cp = line.interpolate(distance)
             return LineString(coords[:i] + [(cp.x, cp.y)]), LineString([(cp.x, cp.y)] + coords[i:])
+
+
+def get_heading(line: List[Node]) -> float:
+    if len(line) != 2:
+        raise Exception("Line should have exactly 2 nodes")
+
+    heading = [line[1].position.latlon.lon - line[0].position.latlon.lon,
+               line[1].position.latlon.lat - line[0].position.latlon.lat]
+    norm = sqrt(heading[0] ** 2 + heading[1] ** 2)
+    heading = [heading[0] / norm, heading[1] / norm]
+
+    angle = 90.0 - (atan2(heading[1], heading[0]) * 180.0 / pi)
+
+    if angle < 0:
+        angle = 360 + angle
+
+    return angle

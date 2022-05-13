@@ -14,6 +14,7 @@ class Lanelet(FigureWithNodes, Serialisable):
         self.lane: int = lane
         self.segment: Segment = segment
 
+        self.next_lanelets: List[Lanelet] = []
         self.next_lanelet: Optional[Lanelet] = None
 
     def __str__(self):
@@ -26,9 +27,12 @@ class Lanelet(FigureWithNodes, Serialisable):
         return Feature(geometry=LineString(coordinates=self.get_coordinates_list(reverse_lat_lon=True)),
                        properties={
                            "lane": self.lane,
-                           "previous_segments": self.segment.previous_segments,
-                           "next_segments": self.segment.next_segments,
-                           "id": self.segment.id
+                           "previous_segments": self.segment.previous_segment_ids,
+                           "next_segments": self.segment.next_segment_ids,
+                           "next_segments_sorted": [segment.id for segment in self.segment.next_segments],
+                           "id": self.segment.id,
+                           "heading head": round(self.segment.heading_head, 1),
+                           "heading tail": round(self.segment.heading_tail, 1),
                        })
 
     def connect_with_next(self, next_lanelet):
