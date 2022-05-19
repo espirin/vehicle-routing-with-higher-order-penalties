@@ -2603,7 +2603,7 @@
     <tag k='is_forward' v='true' />
     <tag k='is_startpoint' v='true' />
     <tag k='is_tiny' v='false' />
-    <tag k='lanes' v='2' />
+    <tag k='lanes' v='3' />
     <tag k='length' v='471.05747199999996' />
     <tag k='name' v='' />
     <tag k='name_id' v='372035' />

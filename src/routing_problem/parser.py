@@ -26,7 +26,7 @@ class RoutingProblemParser:
     @staticmethod
     def sort_next_segments(segments: List[Segment]):
         for segment in segments:
-            segment.sort_next_segments()
+            segment.next_segments_left, segment.next_segments_forward, segment.next_segments_right = segment.sort_next_segments()
 
     @staticmethod
     def check_geometry(geometries: List[Segment]):

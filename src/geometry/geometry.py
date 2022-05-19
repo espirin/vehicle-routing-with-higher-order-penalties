@@ -107,10 +107,13 @@ def round_corners(nodes: List[Node], tolerance: float) -> List[Node]:
     return new_nodes
 
 
-def shorten_line(nodes: List[Node], distance: float) -> List[Node]:
+def shorten_line(nodes: List[Node], distance: float, cut_beginning: bool) -> List[Node]:
     line_string = create_linestring(nodes)
 
-    new_line = cut_line(line_string, line_string.length - distance)[0]
+    if cut_beginning:
+        new_line = cut_line(line_string, distance)[1]
+    else:
+        new_line = cut_line(line_string, line_string.length - distance)[0]
     new_nodes = create_nodes(new_line, nodes[0].position.latlon)
 
     return new_nodes

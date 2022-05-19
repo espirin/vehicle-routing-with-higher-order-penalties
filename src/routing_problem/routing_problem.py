@@ -1,7 +1,5 @@
 from typing import List
 
-from geojson import FeatureCollection
-
 from src.json.serialisable import Serialisable
 from src.routing_problem.lanelet import Lanelet
 from src.routing_problem.segment import Segment
@@ -13,4 +11,4 @@ class RoutingProblem(Serialisable):
         self.segments: List[Segment] = segments
 
     def to_json(self):
-        return FeatureCollection(features=[lanelet.to_json() for lanelet in self.lanelets])
+        return [lanelet.to_json() for lanelet in self.lanelets]
