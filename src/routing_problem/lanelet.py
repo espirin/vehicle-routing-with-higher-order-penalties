@@ -4,6 +4,7 @@ from geojson import LineString, Feature
 
 from src.entities.figure_with_nodes import FigureWithNodes
 from src.geo.geo import Node
+from src.geometry.geometry import offset_nodes
 from src.json.serialisable import Serialisable
 from src.routing_problem.segment import Segment
 
@@ -16,6 +17,7 @@ class Lanelet(FigureWithNodes, Serialisable):
 
         self.next_lanelets: List[Lanelet] = []
         self.next_lanelet: Optional[Lanelet] = None
+        self.previous_lanelets: List[Lanelet] = []
 
     def __str__(self):
         return f"Lanelet {self.segment.id} {self.lane}/{self.segment.lanes}"
@@ -33,8 +35,12 @@ class Lanelet(FigureWithNodes, Serialisable):
                            "id": self.segment.id,
                            "heading head": round(self.segment.heading_head, 1),
                            "heading tail": round(self.segment.heading_tail, 1),
+                           "next_lanelet": self.next_lanelet.segment.id if self.next_lanelet else "-",
+                           "previous_lanelets": [lanelet.segment.id for lanelet in self.previous_lanelets]
                        })
 
     def connect_with_next(self, next_lanelet):
-        next_lanelet.nodes[0] = self.nodes[-1]
+        self.nodes.append(next_lanelet.nodes[0])
+        # self.nodes = offset_nodes(self.nodes, distance=0.1)
         self.next_lanelet = next_lanelet
+        next_lanelet.previous_lanelets.append(self)
