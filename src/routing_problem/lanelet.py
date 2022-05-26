@@ -18,6 +18,9 @@ class Lanelet(FigureWithNodes, Serialisable):
         self.next_lanelet: Optional[Lanelet] = None
         self.previous_lanelets: List[Lanelet] = []
 
+        self.has_incoming_connection: bool = False
+        self.has_outgoing_connection: bool = False
+
     def __str__(self):
         return f"Lanelet {self.segment.id} {self.lane}/{self.segment.lanes}"
 
@@ -30,7 +33,7 @@ class Lanelet(FigureWithNodes, Serialisable):
                            "lane": self.lane,
                            "previous_segments": self.segment.previous_segment_ids,
                            "next_segments": self.segment.next_segment_ids,
-                           "next_maneuvers": [maneuver.type.name for maneuver in self.segment.next_maneuvers.values()],
+                           "next_maneuvers": [f"{maneuver.type.name} -> {to_id}" for (_, to_id), maneuver in self.segment.next_maneuvers.items()],
                            "id": self.segment.id,
                            "length": round(self.get_length()),
                            "type": 0

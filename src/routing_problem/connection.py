@@ -13,6 +13,9 @@ class LaneletConnection(Serialisable, FigureWithNodes):
         self.lanelet_to: Lanelet = lanelet_to
         self.maneuver: Maneuver = maneuver
 
+        lanelet_to.has_incoming_connection = True
+        lanelet_from.has_outgoing_connection = True
+
     def to_json(self):
         return Feature(geometry=LineString(coordinates=self.get_coordinates_list(reverse_lat_lon=True)),
                        properties={

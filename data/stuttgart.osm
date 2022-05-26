@@ -1306,7 +1306,7 @@
     <tag k='type' v='segment' />
     <tag k='weight' v='12.0' />
   </way>
-  <way id='-163556' visible='true'>
+  <way id='-163556' action='modify' visible='true'>
     <nd ref='-475159' />
     <nd ref='-475160' />
     <nd ref='-475161' />
@@ -1318,7 +1318,7 @@
     <tag k='is_forward' v='true' />
     <tag k='is_startpoint' v='true' />
     <tag k='is_tiny' v='false' />
-    <tag k='lanes' v='1' />
+    <tag k='lanes' v='2' />
     <tag k='length' v='73.844293' />
     <tag k='name' v='Hauptstraße' />
     <tag k='name_id' v='110700' />
@@ -3133,7 +3133,7 @@
     <tag k='type' v='segment' />
     <tag k='weight' v='295.0' />
   </way>
-  <way id='-163601' visible='true'>
+  <way id='-163601' action='modify' visible='true'>
     <nd ref='-476024' />
     <nd ref='-476025' />
     <nd ref='-476026' />
@@ -3143,7 +3143,7 @@
     <tag k='is_forward' v='true' />
     <tag k='is_startpoint' v='true' />
     <tag k='is_tiny' v='false' />
-    <tag k='lanes' v='1' />
+    <tag k='lanes' v='2' />
     <tag k='length' v='89.652047' />
     <tag k='name' v='' />
     <tag k='name_id' v='1585' />
@@ -3231,7 +3231,7 @@
     <tag k='is_forward' v='true' />
     <tag k='is_startpoint' v='true' />
     <tag k='is_tiny' v='false' />
-    <tag k='lanes' v='4' />
+    <tag k='lanes' v='3' />
     <tag k='length' v='1106.9574249999998' />
     <tag k='name' v='' />
     <tag k='name_id' v='26900' />
@@ -3486,7 +3486,7 @@
     <tag k='is_forward' v='true' />
     <tag k='is_startpoint' v='true' />
     <tag k='is_tiny' v='false' />
-    <tag k='lanes' v='3' />
+    <tag k='lanes' v='2' />
     <tag k='length' v='359.66672099999994' />
     <tag k='name' v='' />
     <tag k='name_id' v='0' />
