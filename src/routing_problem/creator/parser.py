@@ -1,9 +1,11 @@
 import json
-import traceback
-from typing import Dict, List
+from typing import Dict, List, Tuple
 
 from src.geo.geo import Node, Position, LatLon
 from src.osmio.parser import find_osm_nodes_and_ways
+from src.routing_problem.maneuver.maneuver import Maneuver
+from src.routing_problem.maneuver.maneuver_type import ManeuverType
+from src.routing_problem.maneuver.modifier import ManeuverModifier
 from src.routing_problem.segment import Segment
 
 
@@ -19,14 +21,8 @@ class RoutingProblemParser:
         segments = self.create_segments(ways)
         self.check_geometry(segments)
         self.add_references(segments)
-        self.sort_next_segments(segments)
 
         return segments
-
-    @staticmethod
-    def sort_next_segments(segments: List[Segment]):
-        for segment in segments:
-            segment.next_segments_left, segment.next_segments_forward, segment.next_segments_right = segment.sort_next_segments()
 
     @staticmethod
     def check_geometry(geometries: List[Segment]):
@@ -63,23 +59,18 @@ class RoutingProblemParser:
                                  json.loads(way['attributes']['nodes'])]
                     else:
                         raise Exception(f"No nodes attribute for way: {way}")
-                    try:
-                        segment_id, lanes, previous_segments, next_segments, parts, is_forward, connected_component = \
-                            self.create_segment_attributes(way['attributes'])
-                    except Exception:
-                        tb = traceback.format_exc()
-                        raise Exception(f"{tb} Either segment_id or lanes attribute is missing for segment "
-                                        f"{way['attributes']['segment_id'] if 'segment_id' in way['attributes'] else way['attributes']}")
+
+                    segment_id, lanes, previous_segments, next_segments, parts, is_forward, connected_component, \
+                    next_maneuvers = self.create_segment_attributes(way['attributes'])
 
                     segment = Segment(segment_id, nodes, lanes, previous_segments, next_segments, parts,
-                                      is_forward, connected_component)
+                                      is_forward, connected_component, next_maneuvers)
                     segments.append(segment)
             else:
                 raise Exception(f"No type specified for way: {way}")
         return segments
 
-    @staticmethod
-    def create_segment_attributes(attributes: Dict):
+    def create_segment_attributes(self, attributes: Dict):
         segment_id = attributes['segment_id']
         lanes = int(attributes['lanes'])
         previous_segments = attributes['previous_segments'].split(",")
@@ -91,5 +82,26 @@ class RoutingProblemParser:
         parts = int(attributes['parts'])
         is_forward = attributes['is_forward'] == "true"
         connected_component = attributes['component_id']
+        next_maneuvers = json.loads(attributes['next_maneuvers'])
+        next_maneuvers = self.parse_next_maneuvers(next_maneuvers)
 
-        return segment_id, lanes, previous_segments, next_segments, parts, is_forward, connected_component
+        return segment_id, lanes, previous_segments, next_segments, parts, is_forward, connected_component, \
+               next_maneuvers
+
+    @staticmethod
+    def parse_next_maneuvers(next_maneuvers: Dict) -> Dict[Tuple[str, str], Maneuver]:
+        parsed_maneuvers = dict()
+        for maneuver in next_maneuvers:
+            maneuver_type = ManeuverType(maneuver['type'])
+            modifier = ManeuverModifier(maneuver['modifier'])
+
+            parsed_maneuvers[(maneuver['from']), (maneuver['to'])] = Maneuver(from_id=maneuver['from'],
+                                                                              to_id=maneuver['to'],
+                                                                              in_angle=maneuver['in_angle'],
+                                                                              turn_angle=maneuver['turn_angle'],
+                                                                              duration=maneuver['duration'],
+                                                                              weight=maneuver['weight'],
+                                                                              maneuver_type=maneuver_type,
+                                                                              modifier=modifier)
+
+        return parsed_maneuvers

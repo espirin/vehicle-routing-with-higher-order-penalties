@@ -17,11 +17,4 @@ def create_lanelets(rp_segments: List[Segment]) -> List[Lanelet]:
             lanelets.append(lanelet)
             segment.lanelets.append(lanelet)
 
-    for lanelet in lanelets:
-        next_lanelets = []
-        for next_segment in lanelet.segment.next_segments:
-            next_lanelets += next_segment.lanelets
-
-        lanelet.next_lanelets = next_lanelets
-
     return lanelets

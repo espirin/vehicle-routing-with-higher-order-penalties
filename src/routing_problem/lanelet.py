@@ -29,9 +29,8 @@ class Lanelet(FigureWithNodes, Serialisable):
                        properties={
                            "lane": self.lane,
                            "previous_segments": self.segment.previous_segment_ids,
-                           "next_segments_left": [segment.id for segment in self.segment.next_segments_left],
-                           "next_segments_forward": [segment.id for segment in self.segment.next_segments_forward],
-                           "next_segments_right": [segment.id for segment in self.segment.next_segments_right],
+                           "next_segments": self.segment.next_segment_ids,
+                           "next_maneuvers": [maneuver.type.name for maneuver in self.segment.next_maneuvers.values()],
                            "id": self.segment.id,
                            "length": round(self.get_length()),
                            "type": 0
