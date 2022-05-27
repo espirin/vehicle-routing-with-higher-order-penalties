@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List, Optional, Dict
 
 from geojson import LineString, Feature
 
@@ -33,8 +33,13 @@ class Lanelet(FigureWithNodes, Serialisable):
                            "lane": self.lane,
                            "previous_segments": self.segment.previous_segment_ids,
                            "next_segments": self.segment.next_segment_ids,
-                           "next_maneuvers": [f"{maneuver.type.name} -> {to_id}" for (_, to_id), maneuver in self.segment.next_maneuvers.items()],
+                           "next_maneuvers": [f"{maneuver.type.name} -> {to_id}" for (_, to_id), maneuver in
+                                              self.segment.next_maneuvers.items()],
                            "id": self.segment.id,
                            "length": round(self.get_length()),
                            "type": 0
                        })
+
+    def get_distance_to(self, lanelet, matrix: Dict[str, Dict[str, int]]) -> int:
+        # TODO: add logic here
+        return matrix[self.segment.id][lanelet.segment.id]
