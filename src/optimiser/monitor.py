@@ -15,8 +15,7 @@ class RoutingMonitor:
         if current_objective < self.best_objective:
             self.best_objective = current_objective
 
-        if self.last_reading_time is None or (datetime.now() - self.last_reading_time).total_seconds() > 1:
+        if self.last_reading_time is None or (datetime.now() - self.last_reading_time).total_seconds() > 0.5:
             self.last_reading_time = datetime.now()
-            time_from_start = datetime.now() - self.start_time
-            time_from_start = math.floor(time_from_start.total_seconds())
-            self.optimization_history[str(time_from_start)] = self.best_objective
+            time_from_start = (datetime.now() - self.start_time).total_seconds()
+            self.optimization_history[str(round(time_from_start, 1))] = self.best_objective

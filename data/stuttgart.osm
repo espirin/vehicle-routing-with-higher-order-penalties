@@ -2508,7 +2508,7 @@
     <tag k='type' v='segment' />
     <tag k='weight' v='369.0' />
   </way>
-  <way id='-163585' visible='true'>
+  <way id='-163585' action='modify' visible='true'>
     <nd ref='-475751' />
     <nd ref='-475752' />
     <nd ref='-475753' />
@@ -2517,7 +2517,7 @@
     <tag k='is_forward' v='true' />
     <tag k='is_startpoint' v='true' />
     <tag k='is_tiny' v='false' />
-    <tag k='lanes' v='1' />
+    <tag k='lanes' v='2' />
     <tag k='length' v='31.730541' />
     <tag k='name' v='Hauptstraße' />
     <tag k='name_id' v='110700' />

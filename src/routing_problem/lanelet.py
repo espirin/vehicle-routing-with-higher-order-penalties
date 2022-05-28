@@ -2,6 +2,7 @@ from typing import List, Optional, Dict
 
 from geojson import LineString, Feature
 
+from src.config import OPTIMISER_INFINITY
 from src.entities.figure_with_nodes import FigureWithNodes
 from src.geo.geo import Node
 from src.json.serialisable import Serialisable
@@ -40,6 +41,14 @@ class Lanelet(FigureWithNodes, Serialisable):
                            "type": 0
                        })
 
-    def get_distance_to(self, lanelet, matrix: Dict[str, Dict[str, int]]) -> int:
-        # TODO: add logic here
+    def get_distance_to(self, lanelet, matrix: Dict[str, Dict[str, int]],
+                        lanelet_connections: Dict) -> int:
+        # If pair is connected, check lanelet connections
+        if lanelet.segment.id in self.segment.next_segment_ids:
+            if (self, lanelet) in lanelet_connections:
+                return lanelet_connections[(self, lanelet)].maneuver.duration
+            else:
+                return OPTIMISER_INFINITY
+
+        # If not, return duration from matrix
         return matrix[self.segment.id][lanelet.segment.id]

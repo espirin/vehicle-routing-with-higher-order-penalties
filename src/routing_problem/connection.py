@@ -20,6 +20,7 @@ class LaneletConnection(Serialisable, FigureWithNodes):
         return Feature(geometry=LineString(coordinates=self.get_coordinates_list(reverse_lat_lon=True)),
                        properties={
                            "modifier": self.maneuver.modifier.name,
+                           "duration": self.maneuver.duration,
                            "maneuver type": self.maneuver.type.name,
                            "segment_from": self.lanelet_from.segment.id,
                            "segment_to": self.lanelet_to.segment.id,

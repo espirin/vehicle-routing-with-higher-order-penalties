@@ -10,9 +10,10 @@ class Optimiser:
     def __init__(self, lanelets: List[Lanelet], matrix: Dict[str, Dict[str, int]],
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,
                  first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy,
-                 max_optimisation_duration: int):
+                 max_optimisation_duration: int, connections: Dict):
         self.lanelets = lanelets
         self.matrix: Dict[str, Dict[str, int]] = matrix
+        self.connections: Dict = connections
 
         # Create routing model
         self.manager = pywrapcp.RoutingIndexManager(len(self.lanelets), 1, [0],
@@ -28,7 +29,7 @@ class Optimiser:
 
             from_lanelet = self.lanelets[from_element_index]
             to_lanelet = self.lanelets[to_element_index]
-            return from_lanelet.get_distance_to(to_lanelet, matrix)
+            return from_lanelet.get_distance_to(to_lanelet, matrix, self.connections)
 
         transit_callback_index = self.routing.RegisterTransitCallback(distance_callback)
         self.routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)
@@ -45,8 +46,8 @@ class Optimiser:
             raise Exception(f"Routing failed. Routing status {self.routing.status()}. Please get in touch with the "
                             f"AtlaRoute development team.")
         optimal_order = self.format_solution(assignment)
-        optimization_history = self.monitor.optimization_history
-        return optimal_order, optimization_history
+        optimisation_history = self.monitor.optimization_history
+        return optimal_order, optimisation_history
 
     def format_solution(self, assignment) -> List[Lanelet]:
         index = self.routing.Start(0)
