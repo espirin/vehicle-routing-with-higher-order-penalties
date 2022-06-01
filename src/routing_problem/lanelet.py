@@ -41,14 +41,20 @@ class Lanelet(FigureWithNodes, Serialisable):
                            "type": 0
                        })
 
-    def get_distance_to(self, lanelet, matrix: Dict[str, Dict[str, int]],
-                        lanelet_connections: Dict) -> int:
+    def get_cost_to(self, lanelet, matrix: Dict[str, Dict[str, int]],
+                    lanelet_connections: Dict) -> int:
         # If pair is connected, check lanelet connections
         if lanelet.segment.id in self.segment.next_segment_ids:
             if (self, lanelet) in lanelet_connections:
-                return lanelet_connections[(self, lanelet)].maneuver.duration
+                return 0
             else:
                 return OPTIMISER_INFINITY
 
-        # If not, return duration from matrix
+        # If not, check if it's the same segment
+        if self.segment.id == lanelet.segment.id:
+            return OPTIMISER_INFINITY
+
+        if self.has_outgoing_connection:
+            return matrix[self.segment.id][lanelet.segment.id] + 300
+
         return matrix[self.segment.id][lanelet.segment.id]

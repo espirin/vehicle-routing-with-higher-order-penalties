@@ -29,7 +29,7 @@ class Optimiser:
 
             from_lanelet = self.lanelets[from_element_index]
             to_lanelet = self.lanelets[to_element_index]
-            return from_lanelet.get_distance_to(to_lanelet, matrix, self.connections)
+            return from_lanelet.get_cost_to(to_lanelet, matrix, self.connections)
 
         transit_callback_index = self.routing.RegisterTransitCallback(distance_callback)
         self.routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)
@@ -43,8 +43,7 @@ class Optimiser:
     def optimise(self) -> Tuple[List[Lanelet], Dict]:
         assignment = self.routing.SolveWithParameters(self.search_parameters)
         if self.routing.status() != 1:
-            raise Exception(f"Routing failed. Routing status {self.routing.status()}. Please get in touch with the "
-                            f"AtlaRoute development team.")
+            raise Exception(f"Routing failed. Routing status {self.routing.status()}")
         optimal_order = self.format_solution(assignment)
         optimisation_history = self.monitor.optimization_history
         return optimal_order, optimisation_history
@@ -61,6 +60,5 @@ class Optimiser:
         optimal_order.append(self.manager.IndexToNode(index))
         optimal_order = [self.lanelets[i] for i in optimal_order]
         if route_objective == 0:
-            raise Exception("Optimiser error. Route objective 0. Please get in touch with the AtlaRoute development "
-                            "team.")
+            raise Exception("Optimiser error. Route objective 0. ")
         return optimal_order
