@@ -6,7 +6,7 @@ from src.optimiser.monitor import RoutingMonitor
 from src.routing_problem.lanelet import Lanelet
 
 
-class Optimiser:
+class LaneletsOptimiser:
     def __init__(self, lanelets: List[Lanelet], matrix: Dict[str, Dict[str, int]],
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,
                  first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy,

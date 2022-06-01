@@ -13,11 +13,11 @@ class OSRMInterface:
             "origins": sources,
             "destinations": destinations,
             "osrm_file_path": osrm_file_path
-        }).json()
+        }, timeout=1).json()
 
     @staticmethod
     def request_route(segments: List[Tuple[int, int]], osrm_file_path: str) -> Dict:
         return requests.get(f"{OSRM_ADDRESS}/route", json={
             "segments": segments,
             "osrm_file_path": osrm_file_path
-        }).json()
+        }, timeout=1).json()
