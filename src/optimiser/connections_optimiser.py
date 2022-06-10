@@ -2,16 +2,21 @@ from typing import List, Dict, Tuple
 
 from ortools.constraint_solver import pywrapcp, routing_enums_pb2
 
+from src.config import OPTIMISER_INFINITY
 from src.optimiser.monitor import RoutingMonitor
 from src.routing_problem.connections.complete import CompleteConnection
 
 
 class ConnectionsOptimiser:
-    def __init__(self, connections: List[CompleteConnection], matrix: Dict[str, Dict[str, int]],
+    def __init__(self,
+                 connections: List[CompleteConnection],
+                 disjunctions: List[List[int]],
+                 matrix: Dict[str, Dict[str, int]],
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,
                  first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy,
                  max_optimisation_duration: int):
-        self.connections = connections
+        self.connections: List[CompleteConnection] = connections
+        self.disjunctions: List[List[int]] = disjunctions
         self.matrix: Dict[str, Dict[str, int]] = matrix
 
         # Create routing model
@@ -32,6 +37,10 @@ class ConnectionsOptimiser:
 
         transit_callback_index = self.routing.RegisterTransitCallback(distance_callback)
         self.routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)
+
+        # Add disjunctions
+        for pack in disjunctions:
+            self.routing.AddDisjunction([self.manager.NodeToIndex(i) for i in pack], OPTIMISER_INFINITY)
 
         # Set routing parameters
         self.search_parameters = pywrapcp.DefaultRoutingSearchParameters()

@@ -15,10 +15,10 @@ class CompleteConnection:
         self.maneuver: Optional[Maneuver] = maneuver
 
     def get_cost_to(self, connection, matrix: Dict[str, Dict[str, int]]):
-        if self.segment_to.id == connection.segment_from.id:
+        if self.segment_to.id == connection.lanelet_from.id:
             cost = 0
         else:
-            cost = matrix[self.segment_to.id][connection.segment_from.id]
+            cost = matrix[self.segment_to.id][connection.lanelet_from.id]
 
         if cost > CONNECTIONS_COST_CUTOFF:
             return OPTIMISER_INFINITY
