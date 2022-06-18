@@ -1,27 +1,29 @@
 from typing import Optional, Dict
 
-from src.config import STRAIGHT_NON_STRAIGHT_MANEUVER_PENALTY, NON_STRAIGHT_STRAIGHT_MANEUVER_PENALTY, \
-    CONNECTIONS_COST_CUTOFF, OPTIMISER_INFINITY
+from src.config import STRAIGHT_NON_STRAIGHT_MANEUVER_PENALTY, NON_STRAIGHT_STRAIGHT_MANEUVER_PENALTY
+from src.routing_problem.lanelet import Lanelet
 from src.routing_problem.maneuver.maneuver import Maneuver
 from src.routing_problem.maneuver.modifier import ManeuverModifier
-from src.routing_problem.segment import Segment
 
 
 class CompleteConnection:
-    def __init__(self, segment_from: Segment, segment_to: Segment, maneuver: Optional[Maneuver]):
-        self.segment_from: Segment = segment_from
-        self.segment_to: Segment = segment_to
+    def __init__(self, lanelet_from: Lanelet, lanelet_to: Lanelet, maneuver: Optional[Maneuver]):
+        self.lanelet_from: Lanelet = lanelet_from
+        self.lanelet_to: Lanelet = lanelet_to
 
         self.maneuver: Optional[Maneuver] = maneuver
 
     def get_cost_to(self, connection, matrix: Dict[str, Dict[str, int]]):
-        if self.segment_to.id == connection.lanelet_from.id:
+        if isinstance(connection, LastConnection) or isinstance(connection, FirstConnection):
+            return 0
+
+        if self.lanelet_to.segment.id == connection.lanelet_from.segment.id:
             cost = 0
         else:
-            cost = matrix[self.segment_to.id][connection.lanelet_from.id]
+            cost = matrix[self.lanelet_to.segment.id][connection.lanelet_from.segment.id]
 
-        if cost > CONNECTIONS_COST_CUTOFF:
-            return OPTIMISER_INFINITY
+        # if cost > CONNECTIONS_COST_CUTOFF:
+        #     return OPTIMISER_INFINITY
 
         if self.maneuver is not None and connection.maneuver is not None:
             if self.maneuver.modifier == ManeuverModifier.Straight:
@@ -36,3 +38,19 @@ class CompleteConnection:
                     pass
 
         return cost
+
+
+class LastConnection(CompleteConnection):
+    def __init__(self):
+        super().__init__(None, None, None)
+
+    def get_cost_to(self, connection, matrix: Dict[str, Dict[str, int]]):
+        return 0
+
+
+class FirstConnection(CompleteConnection):
+    def __init__(self):
+        super().__init__(None, None, None)
+
+    def get_cost_to(self, connection, matrix: Dict[str, Dict[str, int]]):
+        return 0

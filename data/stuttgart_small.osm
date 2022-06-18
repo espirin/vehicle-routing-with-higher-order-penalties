@@ -1,0 +1,1435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-477267' action='modify' visible='true' lat='48.72916703741' lon='9.07986949888' />
+  <node id='-477268' action='modify' visible='true' lat='48.73246255149' lon='9.08923000065' />
+  <node id='-477269' action='modify' visible='true' lat='48.73154070383' lon='9.09135512708' />
+  <node id='-477270' action='modify' visible='true' lat='48.73180296056' lon='9.09071247406' />
+  <node id='-477271' action='modify' visible='true' lat='48.72954764174' lon='9.08535514271' />
+  <node id='-477273' action='modify' visible='true' lat='48.73463905811' lon='9.09287367914' />
+  <node id='-477274' action='modify' visible='true' lat='48.73119458228' lon='9.0924576058' />
+  <node id='-477276' action='modify' visible='true' lat='48.73080685709' lon='9.09175980778' />
+  <node id='-477277' action='modify' visible='true' lat='48.73286677097' lon='9.09185634586' />
+  <node id='-477278' action='modify' visible='true' lat='48.73165961451' lon='9.09235715901' />
+  <node id='-477279' action='modify' visible='true' lat='48.73076321821' lon='9.09105818567' />
+  <node id='-477281' action='modify' visible='true' lat='48.73284331632' lon='9.08970382435' />
+  <node id='-477282' action='modify' visible='true' lat='48.7303370587' lon='9.08867516786' />
+  <node id='-477283' action='modify' visible='true' lat='48.73036442401' lon='9.08816760749' />
+  <node id='-477284' action='modify' visible='true' lat='48.73072659401' lon='9.09065128663' />
+  <node id='-477285' action='modify' visible='true' lat='48.7310867565' lon='9.09224155718' />
+  <node id='-477286' action='modify' visible='true' lat='48.73295038955' lon='9.09074910286' />
+  <node id='-477288' action='modify' visible='true' lat='48.73141399311' lon='9.09016178828' />
+  <node id='-477289' action='modify' visible='true' lat='48.73058102127' lon='9.09083995548' />
+  <node id='-477290' action='modify' visible='true' lat='48.73377938739' lon='9.09255864304' />
+  <node id='-477291' action='modify' visible='true' lat='48.73127555463' lon='9.09217768717' />
+  <node id='-477292' action='modify' visible='true' lat='48.73137049418' lon='9.092002831' />
+  <node id='-477295' action='modify' visible='true' lat='48.73268751913' lon='9.08937258726' />
+  <node id='-477296' action='modify' visible='true' lat='48.73029677056' lon='9.08749188035' />
+  <node id='-477297' action='modify' visible='true' lat='48.72920302378' lon='9.0810910628' />
+  <node id='-477298' action='modify' visible='true' lat='48.72974909075' lon='9.08655957128' />
+  <node id='-477299' action='modify' visible='true' lat='48.73104723185' lon='9.09190102155' />
+  <node id='-477300' action='modify' visible='true' lat='48.73220562566' lon='9.09078512921' />
+  <node id='-477302' action='modify' visible='true' lat='48.73180188245' lon='9.09071110158' />
+  <node id='-477303' action='modify' visible='true' lat='48.73060626482' lon='9.09108655971' />
+  <node id='-477304' action='modify' visible='true' lat='48.73101525223' lon='9.09019125465' />
+  <node id='-477305' action='modify' visible='true' lat='48.73222560822' lon='9.08980246843' />
+  <node id='-477308' action='modify' visible='true' lat='48.73099029161' lon='9.09247274474' />
+  <node id='-477309' action='modify' visible='true' lat='48.72928210714' lon='9.08307982002' />
+  <node id='-477310' action='modify' visible='true' lat='48.7323719971' lon='9.08966655733' />
+  <node id='-477311' action='modify' visible='true' lat='48.73202655641' lon='9.09028667064' />
+  <node id='-477312' action='modify' visible='true' lat='48.73115520828' lon='9.09214686785' />
+  <node id='-477313' action='modify' visible='true' lat='48.73239538717' lon='9.0914039604' />
+  <node id='-477314' action='modify' visible='true' lat='48.729548715' lon='9.08421115828' />
+  <node id='-477315' action='modify' visible='true' lat='48.72968293665' lon='9.08600461495' />
+  <node id='-477316' action='modify' visible='true' lat='48.73147087107' lon='9.09038654111' />
+  <node id='-477318' action='modify' visible='true' lat='48.73317249801' lon='9.09183401536' />
+  <node id='-477320' action='modify' visible='true' lat='48.73065425482' lon='9.09132993995' />
+  <node id='-477321' action='modify' visible='true' lat='48.73341676843' lon='9.09230018372' />
+  <node id='-477322' action='modify' visible='true' lat='48.73196092886' lon='9.09011431594' />
+  <node id='-477323' action='modify' visible='true' lat='48.73149563921' lon='9.09117284418' />
+  <node id='-477324' action='modify' visible='true' lat='48.72908315704' lon='9.07839849154' />
+  <node id='-477327' action='modify' visible='true' lat='48.73149526447' lon='9.09131487017' />
+  <node id='-477328' action='modify' visible='true' lat='48.72933897695' lon='9.07995280564' />
+  <node id='-477330' action='modify' visible='true' lat='48.72972509076' lon='9.08617757141' />
+  <node id='-477333' action='modify' visible='true' lat='48.73076860588' lon='9.09167807265' />
+  <node id='-477334' action='modify' visible='true' lat='48.73465118976' lon='9.09316888966' />
+  <node id='-477335' action='modify' visible='true' lat='48.73100909035' lon='9.0914011313' />
+  <node id='-477339' action='modify' visible='true' lat='48.73294428657' lon='9.08978864918' />
+  <node id='-477340' action='modify' visible='true' lat='48.73014327167' lon='9.08758020089' />
+  <node id='-477341' action='modify' visible='true' lat='48.72923303727' lon='9.08209749259' />
+  <node id='-477343' action='modify' visible='true' lat='48.72992535072' lon='9.0869203014' />
+  <node id='-477344' action='modify' visible='true' lat='48.73306218822' lon='9.09039937013' />
+  <node id='-477345' action='modify' visible='true' lat='48.73180159363' lon='9.09087157381' />
+  <node id='-477346' action='modify' visible='true' lat='48.73091926522' lon='9.09196161374' />
+  <node id='-477347' action='modify' visible='true' lat='48.73086829434' lon='9.08923561623' />
+  <node id='-477348' action='modify' visible='true' lat='48.73063596845' lon='9.09124875771' />
+  <node id='-477349' action='modify' visible='true' lat='48.73138868421' lon='9.09222273912' />
+  <node id='-477351' action='modify' visible='true' lat='48.73399144005' lon='9.09242923327' />
+  <node id='-477352' action='modify' visible='true' lat='48.73147104076' lon='9.09126410672' />
+  <node id='-477353' action='modify' visible='true' lat='48.73558170781' lon='9.0939933079' />
+  <node id='-477354' action='modify' visible='true' lat='48.72936328924' lon='9.08407477165' />
+  <node id='-477355' action='modify' visible='true' lat='48.73117222426' lon='9.09210334103' />
+  <node id='-477356' action='modify' visible='true' lat='48.73282787346' lon='9.09090732967' />
+  <node id='-477358' action='modify' visible='true' lat='48.73099097329' lon='9.09235318696' />
+  <node id='-477359' action='modify' visible='true' lat='48.72938697251' lon='9.08160365286' />
+  <node id='-477360' action='modify' visible='true' lat='48.73126644983' lon='9.09223031283' />
+  <node id='-477361' action='modify' visible='true' lat='48.73540487958' lon='9.09351026529' />
+  <node id='-477362' action='modify' visible='true' lat='48.7315365326' lon='9.09157373221' />
+  <node id='-477363' action='modify' visible='true' lat='48.73249925488' lon='9.09120264462' />
+  <node id='-477365' action='modify' visible='true' lat='48.73069680558' lon='9.0914828433' />
+  <node id='-477366' action='modify' visible='true' lat='48.73250448498' lon='9.0889887845' />
+  <node id='-477367' action='modify' visible='true' lat='48.7314995736' lon='9.0911659938' />
+  <node id='-477368' action='modify' visible='true' lat='48.72918402597' lon='9.08036316642' />
+  <node id='-477369' action='modify' visible='true' lat='48.73246430049' lon='9.08922552077' />
+  <node id='-477370' action='modify' visible='true' lat='48.73160470383' lon='9.09136212711' />
+  <node id='-477371' action='modify' visible='true' lat='48.73188283128' lon='9.09080632219' />
+  <node id='-477372' action='modify' visible='true' lat='48.72927491639' lon='9.0787254717' />
+  <node id='-477373' action='modify' visible='true' lat='48.72954778001' lon='9.08535587047' />
+  <node id='-477375' action='modify' visible='true' lat='48.73463847248' lon='9.09287325562' />
+  <node id='-477378' action='modify' visible='true' lat='48.73045091689' lon='9.08836882227' />
+  <node id='-477379' action='modify' visible='true' lat='48.73085885707' lon='9.09185980777' />
+  <node id='-477380' action='modify' visible='true' lat='48.73286700074' lon='9.09185655' />
+  <node id='-477381' action='modify' visible='true' lat='48.73140441629' lon='9.09140841245' />
+  <node id='-477382' action='modify' visible='true' lat='48.73071944986' lon='9.09090897539' />
+  <node id='-477384' action='modify' visible='true' lat='48.7301334134' lon='9.0879075317' />
+  <node id='-477385' action='modify' visible='true' lat='48.73197392721' lon='9.09059463386' />
+  <node id='-477386' action='modify' visible='true' lat='48.72972609061' lon='9.0861842828' />
+  <node id='-477387' action='modify' visible='true' lat='48.73072092148' lon='9.09091755545' />
+  <node id='-477388' action='modify' visible='true' lat='48.73290017733' lon='9.09082442121' />
+  <node id='-477390' action='modify' visible='true' lat='48.73141460831' lon='9.09016271575' />
+  <node id='-477391' action='modify' visible='true' lat='48.73056183205' lon='9.09022887642' />
+  <node id='-477395' action='modify' visible='true' lat='48.73282850749' lon='9.08957808008' />
+  <node id='-477396' action='modify' visible='true' lat='48.73077768547' lon='9.08864927485' />
+  <node id='-477397' action='modify' visible='true' lat='48.72921502148' lon='9.08160196472' />
+  <node id='-477398' action='modify' visible='true' lat='48.72975044628' lon='9.08656764749' />
+  <node id='-477399' action='modify' visible='true' lat='48.73098436419' lon='9.09180573777' />
+  <node id='-477400' action='modify' visible='true' lat='48.7324289482' lon='9.09095974949' />
+  <node id='-477403' action='modify' visible='true' lat='48.73060669709' lon='9.09108944343' />
+  <node id='-477404' action='modify' visible='true' lat='48.73081383645' lon='9.09038761617' />
+  <node id='-477405' action='modify' visible='true' lat='48.73506791472' lon='9.09320737175' />
+  <node id='-477406' action='modify' visible='true' lat='48.73227284395' lon='9.08963123891' />
+  <node id='-477408' action='modify' visible='true' lat='48.73210244392' lon='9.09009096109' />
+  <node id='-477409' action='modify' visible='true' lat='48.73247156523' lon='9.08961242325' />
+  <node id='-477411' action='modify' visible='true' lat='48.73101386911' lon='9.09208447404' />
+  <node id='-477412' action='modify' visible='true' lat='48.73239592108' lon='9.091404528' />
+  <node id='-477413' action='modify' visible='true' lat='48.72987892282' lon='9.08608272483' />
+  <node id='-477414' action='modify' visible='true' lat='48.72968309063' lon='9.08600528285' />
+  <node id='-477415' action='modify' visible='true' lat='48.73156297784' lon='9.09049449424' />
+  <node id='-477416' action='modify' visible='true' lat='48.73122148796' lon='9.09238884687' />
+  <node id='-477419' action='modify' visible='true' lat='48.73067425481' lon='9.09140693993' />
+  <node id='-477420' action='modify' visible='true' lat='48.73341731586' lon='9.09230059206' />
+  <node id='-477421' action='modify' visible='true' lat='48.73199754396' lon='9.09015630166' />
+  <node id='-477422' action='modify' visible='true' lat='48.73147063922' lon='9.09123484416' />
+  <node id='-477424' action='modify' visible='true' lat='48.73295003426' lon='9.08979657925' />
+  <node id='-477425' action='modify' visible='true' lat='48.73040480138' lon='9.08898200236' />
+  <node id='-477426' action='modify' visible='true' lat='48.72933896103' lon='9.07995234669' />
+  <node id='-477427' action='modify' visible='true' lat='48.73197062562' lon='9.09059112929' />
+  <node id='-477429' action='modify' visible='true' lat='48.73567962594' lon='9.09379804775' />
+  <node id='-477430' action='modify' visible='true' lat='48.73058115124' lon='9.09084239921' />
+  <node id='-477431' action='modify' visible='true' lat='48.73397338736' lon='9.09269564311' />
+  <node id='-477432' action='modify' visible='true' lat='48.73132038358' lon='9.09136909835' />
+  <node id='-477435' action='modify' visible='true' lat='48.73098802046' lon='9.09248508006' />
+  <node id='-477437' action='modify' visible='true' lat='48.73202652424' lon='9.09028675394' />
+  <node id='-477438' action='modify' visible='true' lat='48.73015222108' lon='9.08706720397' />
+  <node id='-477439' action='modify' visible='true' lat='48.72923304445' lon='9.0820976783' />
+  <node id='-477441' action='modify' visible='true' lat='48.72992576526' lon='9.08692171629' />
+  <node id='-477442' action='modify' visible='true' lat='48.73303808721' lon='9.09003254773' />
+  <node id='-477444' action='modify' visible='true' lat='48.7310122652' lon='9.09208261375' />
+  <node id='-477445' action='modify' visible='true' lat='48.73074026321' lon='9.0889935982' />
+  <node id='-477446' action='modify' visible='true' lat='48.73065396845' lon='9.09132875768' />
+  <node id='-477447' action='modify' visible='true' lat='48.73108704473' lon='9.09017330656' />
+  <node id='-477448' action='modify' visible='true' lat='48.73135502214' lon='9.09154184675' />
+  <node id='-477450' action='modify' visible='true' lat='48.73382751873' lon='9.09231528805' />
+  <node id='-477452' action='modify' visible='true' lat='48.73077429168' lon='9.09305774461' />
+  <node id='-477453' action='modify' visible='true' lat='48.735036151' lon='9.09347168528' />
+  <node id='-477454' action='modify' visible='true' lat='48.73202754397' lon='9.09026230169' />
+  <node id='-477455' action='modify' visible='true' lat='48.72931610713' lon='9.08357281985' />
+  <node id='-477456' action='modify' visible='true' lat='48.73274564714' lon='9.09096087244' />
+  <node id='-477458' action='modify' visible='true' lat='48.7309140943' lon='9.09195029833' />
+  <node id='-477459' action='modify' visible='true' lat='48.72948185852' lon='9.0835386021' />
+  <node id='-477460' action='modify' visible='true' lat='48.73135238497' lon='9.09226428724' />
+  <node id='-477461' action='modify' visible='true' lat='48.73540449004' lon='9.09350988924' />
+  <node id='-477463' action='modify' visible='true' lat='48.73310288632' lon='9.09177434823' />
+  <node id='-477464' action='modify' visible='true' lat='48.73072080557' lon='9.09155784329' />
+  <node id='-477465' action='modify' visible='true' lat='48.73195499423' lon='9.09011047971' />
+  <node id='-477466' action='modify' visible='true' lat='48.73138943108' lon='9.0913029278' />
+  <node id='-477467' action='modify' visible='true' lat='48.729120098' lon='9.07888671126' />
+  <node id='-477468' action='modify' visible='true' lat='48.73294422033' lon='9.08978850585' />
+  <node id='-477469' action='modify' visible='true' lat='48.73153226447' lon='9.09135087018' />
+  <node id='-477470' action='modify' visible='true' lat='48.72927483748' lon='9.07872441694' />
+  <node id='-477471' action='modify' visible='true' lat='48.72949143483' lon='9.08504287414' />
+  <node id='-477473' action='modify' visible='true' lat='48.73485340993' lon='9.09303595273' />
+  <node id='-477476' action='modify' visible='true' lat='48.7304512633' lon='9.0883695983' />
+  <node id='-477477' action='modify' visible='true' lat='48.73076931785' lon='9.09167971553' />
+  <node id='-477478' action='modify' visible='true' lat='48.7347499261' lon='9.09324031113' />
+  <node id='-477479' action='modify' visible='true' lat='48.7314043011' lon='9.09140871897' />
+  <node id='-477480' action='modify' visible='true' lat='48.73088797791' lon='9.09130597158' />
+  <node id='-477482' action='modify' visible='true' lat='48.73021834986' lon='9.08821929847' />
+  <node id='-477483' action='modify' visible='true' lat='48.73022627164' lon='9.08780620084' />
+  <node id='-477484' action='modify' visible='true' lat='48.7307169943' lon='9.09085177524' />
+  <node id='-477485' action='modify' visible='true' lat='48.73303910588' lon='9.09052728472' />
+  <node id='-477487' action='modify' visible='true' lat='48.73118829425' lon='9.08980461619' />
+  <node id='-477488' action='modify' visible='true' lat='48.7305650549' lon='9.09027507148' />
+  <node id='-477489' action='modify' visible='true' lat='48.73136168421' lon='9.09221173913' />
+  <node id='-477492' action='modify' visible='true' lat='48.73256048496' lon='9.08918478445' />
+  <node id='-477493' action='modify' visible='true' lat='48.73061497332' lon='9.08828891241' />
+  <node id='-477494' action='modify' visible='true' lat='48.72941928922' lon='9.08454977149' />
+  <node id='-477495' action='modify' visible='true' lat='48.732327086' lon='9.09090154257' />
+  <node id='-477496' action='modify' visible='true' lat='48.73111122424' lon='9.09198434101' />
+  <node id='-477499' action='modify' visible='true' lat='48.73058827117' lon='9.0909276158' />
+  <node id='-477500' action='modify' visible='true' lat='48.73085943663' lon='9.09032111592' />
+  <node id='-477501' action='modify' visible='true' lat='48.73506740996' lon='9.09320695265' />
+  <node id='-477502' action='modify' visible='true' lat='48.73153662609' lon='9.0915734877' />
+  <node id='-477503' action='modify' visible='true' lat='48.73223593652' lon='9.09091638576' />
+  <node id='-477505' action='modify' visible='true' lat='48.7321690706' lon='9.08992588606' />
+  <node id='-477506' action='modify' visible='true' lat='48.72919002045' lon='9.08063091981' />
+  <node id='-477507' action='modify' visible='true' lat='48.73115006263' lon='9.09214440641' />
+  <node id='-477508' action='modify' visible='true' lat='48.73253730051' lon='9.08898952071' />
+  <node id='-477509' action='modify' visible='true' lat='48.7310468691' lon='9.09211847404' />
+  <node id='-477510' action='modify' visible='true' lat='48.73188736962' lon='9.09013353541' />
+  <node id='-477511' action='modify' visible='true' lat='48.7321557038' lon='9.09113916682' />
+  <node id='-477512' action='modify' visible='true' lat='48.72973629402' lon='9.08543341471' />
+  <node id='-477513' action='modify' visible='true' lat='48.72962577998' lon='9.08574587035' />
+  <node id='-477514' action='modify' visible='true' lat='48.73121903981' lon='9.09019531246' />
+  <node id='-477515' action='modify' visible='true' lat='48.73440947794' lon='9.0927152595' />
+  <node id='-477516' action='modify' visible='true' lat='48.73072492339' lon='9.09107172197' />
+  <node id='-477517' action='modify' visible='true' lat='48.73122160231' lon='9.09238855038' />
+  <node id='-477520' action='modify' visible='true' lat='48.73085959321' lon='9.09186113425' />
+  <node id='-477521' action='modify' visible='true' lat='48.73303300071' lon='9.09200155005' />
+  <node id='-477522' action='modify' visible='true' lat='48.73199481743' lon='9.090149576' />
+  <node id='-477523' action='modify' visible='true' lat='48.73137885136' lon='9.09227506986' />
+  <node id='-477526' action='modify' visible='true' lat='48.73046053693' lon='9.08928058564' />
+  <node id='-477527' action='modify' visible='true' lat='48.73176107132' lon='9.09030982676' />
+  <node id='-477531' action='modify' visible='true' lat='48.73058815124' lon='9.09092639918' />
+  <node id='-477532' action='modify' visible='true' lat='48.7339736319' lon='9.09269581245' />
+  <node id='-477533' action='modify' visible='true' lat='48.73124126614' lon='9.09140627406' />
+  <node id='-477536' action='modify' visible='true' lat='48.73284015789' lon='9.08959506081' />
+  <node id='-477537' action='modify' visible='true' lat='48.73001458944' lon='9.08660344524' />
+  <node id='-477538' action='modify' visible='true' lat='48.72921503728' lon='9.08160249277' />
+  <node id='-477539' action='modify' visible='true' lat='48.72996744621' lon='9.08733864728' />
+  <node id='-477540' action='modify' visible='true' lat='48.73306023007' lon='9.09015192666' />
+  <node id='-477541' action='modify' visible='true' lat='48.73088177797' lon='9.09161634786' />
+  <node id='-477543' action='modify' visible='true' lat='48.7307409522' lon='9.08899498907' />
+  <node id='-477544' action='modify' visible='true' lat='48.73062266199' lon='9.09117425696' />
+  <node id='-477545' action='modify' visible='true' lat='48.73115204954' lon='9.09017808636' />
+  <node id='-477546' action='modify' visible='true' lat='48.73120341761' lon='9.09195140427' />
+  <node id='-477547' action='modify' visible='true' lat='48.7323755185' lon='9.08941147945' />
+  <node id='-477550' action='modify' visible='true' lat='48.73077316383' lon='9.09306141771' />
+  <node id='-477551' action='modify' visible='true' lat='48.73532144889' lon='9.09372506186' />
+  <node id='-477552' action='modify' visible='true' lat='48.72931618909' lon='9.08357382606' />
+  <node id='-477553' action='modify' visible='true' lat='48.7325708013' lon='9.08958737342' />
+  <node id='-477554' action='modify' visible='true' lat='48.7309718798' lon='9.09219040705' />
+  <node id='-477556' action='modify' visible='true' lat='48.73261692104' lon='9.09163052805' />
+  <node id='-477557' action='modify' visible='true' lat='48.7294359363' lon='9.08285575865' />
+  <node id='-477558' action='modify' visible='true' lat='48.73157044646' lon='9.09049966157' />
+  <node id='-477559' action='modify' visible='true' lat='48.73554762591' lon='9.09365204777' />
+  <node id='-477561' action='modify' visible='true' lat='48.73293226585' lon='9.09162767457' />
+  <node id='-477562' action='modify' visible='true' lat='48.73067459124' lon='9.09140814867' />
+  <node id='-477563' action='modify' visible='true' lat='48.73357831584' lon='9.09241559212' />
+  <node id='-477564' action='modify' visible='true' lat='48.73194854585' lon='9.09011005647' />
+  <node id='-477566' action='modify' visible='true' lat='48.72914805515' lon='9.07937795832' />
+  <node id='-477567' action='modify' visible='true' lat='48.7329993707' lon='9.08990865489' />
+  <node id='-477568' action='modify' visible='true' lat='48.73153630734' lon='9.09135379961' />
+  <node id='-477569' action='modify' visible='true' lat='48.72931696102' lon='9.0794063465' />
+  <node id='-477570' action='modify' visible='true' lat='48.72949164176' lon='9.08504414281' />
+  <node id='-477572' action='modify' visible='true' lat='48.73485305814' lon='9.09303567907' />
+  <node id='-477573' action='modify' visible='true' lat='48.73127894185' lon='9.09217959355' />
+  <node id='-477575' action='modify' visible='true' lat='48.73080631784' lon='9.09175871552' />
+  <node id='-477576' action='modify' visible='true' lat='48.73489151957' lon='9.0933529877' />
+  <node id='-477577' action='modify' visible='true' lat='48.73080078871' lon='9.09116704376' />
+  <node id='-477580' action='modify' visible='true' lat='48.72996762309' lon='9.08733925504' />
+  <node id='-477581' action='modify' visible='true' lat='48.73022642405' lon='9.08780660757' />
+  <node id='-477582' action='modify' visible='true' lat='48.72925304444' lon='9.08258667812' />
+  <node id='-477584' action='modify' visible='true' lat='48.73006376522' lon='9.08735871618' />
+  <node id='-477585' action='modify' visible='true' lat='48.73299761406' lon='9.09065369006' />
+  <node id='-477587' action='modify' visible='true' lat='48.73118899317' lon='9.08980578828' />
+  <node id='-477588' action='modify' visible='true' lat='48.73050930357' lon='9.08961996163' />
+  <node id='-477589' action='modify' visible='true' lat='48.73136155464' lon='9.09221168713' />
+  <node id='-477591' action='modify' visible='true' lat='48.73382739278' lon='9.09231520138' />
+  <node id='-477592' action='modify' visible='true' lat='48.73256452409' lon='9.08919359444' />
+  <node id='-477593' action='modify' visible='true' lat='48.73126642844' lon='9.08956288653' />
+  <node id='-477594' action='modify' visible='true' lat='48.72941943486' lon='9.0845508743' />
+  <node id='-477595' action='modify' visible='true' lat='48.73110868322' lon='9.09198031361' />
+  <node id='-477596' action='modify' visible='true' lat='48.73263835904' lon='9.09099276896' />
+  <node id='-477598' action='modify' visible='true' lat='48.73059726797' lon='9.09100658776' />
+  <node id='-477600' action='modify' visible='true' lat='48.73074666664' lon='9.09056239358' />
+  <node id='-477601' action='modify' visible='true' lat='48.73524249001' lon='9.09335788928' />
+  <node id='-477602' action='modify' visible='true' lat='48.73162162612' lon='9.09134848766' />
+  <node id='-477603' action='modify' visible='true' lat='48.73197334728' lon='9.09059389033' />
+  <node id='-477605' action='modify' visible='true' lat='48.73072157767' lon='9.09156000187' />
+  <node id='-477606' action='modify' visible='true' lat='48.72919002655' lon='9.08063116084' />
+  <node id='-477607' action='modify' visible='true' lat='48.73221870276' lon='9.08981490661' />
+  <node id='-477608' action='modify' visible='true' lat='48.73149536974' lon='9.09117353519' />
+  <node id='-477609' action='modify' visible='true' lat='48.73215638722' lon='9.09113996035' />
+  <node id='-477610' action='modify' visible='true' lat='48.72962593667' lon='9.08574661503' />
+  <node id='-477611' action='modify' visible='true' lat='48.73134098497' lon='9.09027043074' />
+  <node id='-477612' action='modify' visible='true' lat='48.7342054834' lon='9.09257426338' />
+  <node id='-477613' action='modify' visible='true' lat='48.73072098062' lon='9.0909189398' />
+  <node id='-477614' action='modify' visible='true' lat='48.73101976712' lon='9.0929261104' />
+  <node id='-477617' action='modify' visible='true' lat='48.7309175932' lon='9.09195913424' />
+  <node id='-477618' action='modify' visible='true' lat='48.73303376849' lon='9.09200218359' />
+  <node id='-477619' action='modify' visible='true' lat='48.73164838995' lon='9.092408841' />
+  <node id='-477621' action='modify' visible='true' lat='48.73275160978' lon='9.0896306542' />
+  <node id='-477622' action='modify' visible='true' lat='48.73027526418' lon='9.08843097982' />
+  <node id='-477623' action='modify' visible='true' lat='48.73150971647' lon='9.08995872802' />
+  <node id='-477624' action='modify' visible='true' lat='48.7307169943' lon='9.09075784343' />
+  <node id='-477626' action='modify' visible='true' lat='48.73114272747' lon='9.09210562768' />
+  <node id='-477628' action='modify' visible='true' lat='48.73057602513' lon='9.09062512129' />
+  <node id='-477629' action='modify' visible='true' lat='48.73377934089' lon='9.09255861008' />
+  <node id='-477630' action='modify' visible='true' lat='48.73128649415' lon='9.09221783104' />
+  <node id='-477633' action='modify' visible='true' lat='48.7328979895' lon='9.08968915971' />
+  <node id='-477634' action='modify' visible='true' lat='48.73052830608' lon='9.08808768506' />
+  <node id='-477635' action='modify' visible='true' lat='48.72922667453' lon='9.08192251046' />
+  <node id='-477636' action='modify' visible='true' lat='48.72972635078' lon='9.0861853016' />
+  <node id='-477637' action='modify' visible='true' lat='48.73075502001' lon='9.09129404856' />
+  <node id='-477638' action='modify' visible='true' lat='48.73220664049' lon='9.09078603341' />
+  <node id='-477640' action='modify' visible='true' lat='48.73166688248' lon='9.09052510157' />
+  <node id='-477641' action='modify' visible='true' lat='48.73063562865' lon='9.09124706977' />
+  <node id='-477642' action='modify' visible='true' lat='48.73092488205' lon='9.09025278323' />
+  <node id='-477643' action='modify' visible='true' lat='48.73238562566' lon='9.0893898465' />
+  <node id='-477644' action='modify' visible='true' lat='48.73420536103' lon='9.09257417963' />
+  <node id='-477646' action='modify' visible='true' lat='48.73222375107' lon='9.08980757743' />
+  <node id='-477647' action='modify' visible='true' lat='48.72928208114' lon='9.08307941354' />
+  <node id='-477648' action='modify' visible='true' lat='48.73126306261' lon='9.09222840645' />
+  <node id='-477649' action='modify' visible='true' lat='48.73266119716' lon='9.08959795171' />
+  <node id='-477651' action='modify' visible='true' lat='48.73105420828' lon='9.0921228678' />
+  <node id='-477652' action='modify' visible='true' lat='48.73261777102' lon='9.09163134578' />
+  <node id='-477653' action='modify' visible='true' lat='48.72962753766' lon='9.08477389226' />
+  <node id='-477654' action='modify' visible='true' lat='48.73167544645' lon='9.09053166163' />
+  <node id='-477655' action='modify' visible='true' lat='48.7355468796' lon='9.09365126525' />
+  <node id='-477656' action='modify' visible='true' lat='48.73128660233' lon='9.09221755034' />
+  <node id='-477657' action='modify' visible='true' lat='48.73342104453' lon='9.09202366921' />
+  <node id='-477658' action='modify' visible='true' lat='48.73069659123' lon='9.09148214865' />
+  <node id='-477659' action='modify' visible='true' lat='48.73357834093' lon='9.09241561' />
+  <node id='-477660' action='modify' visible='true' lat='48.73199092886' lon='9.09014431593' />
+  <node id='-477663' action='modify' visible='true' lat='48.73149004076' lon='9.09130710672' />
+  <node id='-477664' action='modify' visible='true' lat='48.72931691641' lon='9.07940547194' />
+  <node id='-477666' action='modify' visible='true' lat='48.73116594183' lon='9.09209559359' />
+  <node id='-477668' action='modify' visible='true' lat='48.73036491692' lon='9.0881688223' />
+  <node id='-477669' action='modify' visible='true' lat='48.73075060589' lon='9.09163307265' />
+  <node id='-477670' action='modify' visible='true' lat='48.73435643309' lon='9.09295567767' />
+  <node id='-477671' action='modify' visible='true' lat='48.73147041627' lon='9.09123541248' />
+  <node id='-477672' action='modify' visible='true' lat='48.73110281399' lon='9.09143047905' />
+  <node id='-477675' action='modify' visible='true' lat='48.7300505409' lon='9.08761498175' />
+  <node id='-477676' action='modify' visible='true' lat='48.73014318951' lon='9.08757997468' />
+  <node id='-477677' action='modify' visible='true' lat='48.72925308115' lon='9.08258741371' />
+  <node id='-477679' action='modify' visible='true' lat='48.73006418954' lon='9.08735997473' />
+  <node id='-477680' action='modify' visible='true' lat='48.73306795036' lon='9.09028220651' />
+  <node id='-477681' action='modify' visible='true' lat='48.73162163033' lon='9.0913484765' />
+  <node id='-477682' action='modify' visible='true' lat='48.73086795216' lon='9.08923498905' />
+  <node id='-477683' action='modify' visible='true' lat='48.73054115448' lon='9.08993249874' />
+  <node id='-477684' action='modify' visible='true' lat='48.73138961448' lon='9.09222315913' />
+  <node id='-477685' action='modify' visible='true' lat='48.73114253955' lon='9.09210609443' />
+  <node id='-477687' action='modify' visible='true' lat='48.73364268848' lon='9.09218940287' />
+  <node id='-477690' action='modify' visible='true' lat='48.73545386493' lon='9.09385847357' />
+  <node id='-477691' action='modify' visible='true' lat='48.73095410067' lon='9.08901207215' />
+  <node id='-477692' action='modify' visible='true' lat='48.72936318907' lon='9.08407382589' />
+  <node id='-477693' action='modify' visible='true' lat='48.73099078583' lon='9.09247148694' />
+  <node id='-477694' action='modify' visible='true' lat='48.73253385796' lon='9.09099083381' />
+  <node id='-477696' action='modify' visible='true' lat='48.73098231356' lon='9.09224542144' />
+  <node id='-477698' action='modify' visible='true' lat='48.7294119627' lon='9.08228738458' />
+  <node id='-477699' action='modify' visible='true' lat='48.73094286076' lon='9.09314284648' />
+  <node id='-477700' action='modify' visible='true' lat='48.73077560904' lon='9.09047267215' />
+  <node id='-477701' action='modify' visible='true' lat='48.73524191475' lon='9.09335737169' />
+  <node id='-477702' action='modify' visible='true' lat='48.73137053255' lon='9.0920027323' />
+  <node id='-477703' action='modify' visible='true' lat='48.73270081251' lon='9.09140619778' />
+  <node id='-477704' action='modify' visible='true' lat='48.73166660825' lon='9.09052471576' />
+  <node id='-477705' action='modify' visible='true' lat='48.73075057766' lon='9.09163300185' />
+  <node id='-477706' action='modify' visible='true' lat='48.73190054585' lon='9.09012005649' />
+  <node id='-477707' action='modify' visible='true' lat='48.72920783746' lon='9.07796241668' />
+  <node id='-477708' action='modify' visible='true' lat='48.72920775422' lon='9.0779615719' />
+  <node id='-477709' action='modify' visible='true' lat='48.72918275421' lon='9.07773257182' />
+  <node id='-477710' action='modify' visible='true' lat='48.72918271177' lon='9.07773219914' />
+  <node id='-477711' action='modify' visible='true' lat='48.72915471176' lon='9.07749619906' />
+  <node id='-477712' action='modify' visible='true' lat='48.72915467286' lon='9.07749588202' />
+  <node id='-477713' action='modify' visible='true' lat='48.72910067284' lon='9.07706988187' />
+  <node id='-477714' action='modify' visible='true' lat='48.72910057797' lon='9.07706918318' />
+  <node id='-477715' action='modify' visible='true' lat='48.72904857795' lon='9.07671018306' />
+  <node id='-477716' action='modify' visible='true' lat='48.72829324297' lon='9.07396089381' />
+  <node id='-477717' action='modify' visible='true' lat='48.72845515996' lon='9.07458757252' />
+  <node id='-477718' action='modify' visible='true' lat='48.72856598505' lon='9.07505084139' />
+  <node id='-477719' action='modify' visible='true' lat='48.72866481219' lon='9.07550903998' />
+  <node id='-477720' action='modify' visible='true' lat='48.72875867259' lon='9.0759933197' />
+  <node id='-477721' action='modify' visible='true' lat='48.72884054609' lon='9.07645860083' />
+  <node id='-477722' action='modify' visible='true' lat='48.72891641303' lon='9.07694774297' />
+  <node id='-477723' action='modify' visible='true' lat='48.72898131893' lon='9.07744402343' />
+  <node id='-477724' action='modify' visible='true' lat='48.72903723746' lon='9.07791833246' />
+  <way id='-163718' action='modify' visible='true'>
+    <nd ref='-477355' />
+    <nd ref='-477496' />
+    <nd ref='-477595' />
+    <nd ref='-477299' />
+    <nd ref='-477399' />
+    <nd ref='-477541' />
+    <nd ref='-477637' />
+    <nd ref='-477516' />
+    <nd ref='-477613' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='84.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='104.95226699999999' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='148165' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465566&quot;, &quot;to&quot;: &quot;465561&quot;, &quot;in_angle&quot;: 267, &quot;turn_angle&quot;: -3, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465561' />
+    <tag k='nodes' v='[[48.731158, 9.09212], [48.731097, 9.092001], [48.731035, 9.091921], [48.730971, 9.091824], [48.730867, 9.091632], [48.730738, 9.091304], [48.730707, 9.091075], [48.730703, 9.09092]]' />
+    <tag k='parts' v='7' />
+    <tag k='previous_segments' v='465665,465558' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465566' />
+    <tag k='speed' v='45.105508335517904' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='84.0' />
+  </way>
+  <way id='-163720' action='modify' visible='true'>
+    <nd ref='-477367' />
+    <nd ref='-477466' />
+    <nd ref='-477432' />
+    <nd ref='-477533' />
+    <nd ref='-477672' />
+    <nd ref='-477335' />
+    <nd ref='-477480' />
+    <nd ref='-477577' />
+    <nd ref='-477279' />
+    <nd ref='-477382' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='93.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='114.228845' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='1570' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465562&quot;, &quot;to&quot;: &quot;465561&quot;, &quot;in_angle&quot;: 246, &quot;turn_angle&quot;: 18, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='465561' />
+    <tag k='nodes' v='[[48.731511, 9.091187], [48.7314, 9.091325], [48.731328, 9.091394], [48.731245, 9.091433], [48.731102, 9.091458], [48.731003, 9.091427], [48.730877, 9.091328], [48.730786, 9.091183], [48.730747, 9.09107], [48.730703, 9.09092]]' />
+    <tag k='parts' v='9' />
+    <tag k='previous_segments' v='465663' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465562' />
+    <tag k='speed' v='44.15308696327972' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='93.0' />
+  </way>
+  <way id='-163721' action='modify' visible='true'>
+    <nd ref='-477580' />
+    <nd ref='-477675' />
+    <nd ref='-477384' />
+    <nd ref='-477482' />
+    <nd ref='-477622' />
+    <nd ref='-477282' />
+    <nd ref='-477425' />
+    <nd ref='-477526' />
+    <nd ref='-477588' />
+    <nd ref='-477683' />
+    <nd ref='-477391' />
+    <nd ref='-477488' />
+    <nd ref='-477628' />
+    <nd ref='-477289' />
+    <nd ref='-477430' />
+    <nd ref='-477531' />
+    <nd ref='-477499' />
+    <nd ref='-477598' />
+    <nd ref='-477303' />
+    <nd ref='-477403' />
+    <nd ref='-477544' />
+    <nd ref='-477641' />
+    <nd ref='-477348' />
+    <nd ref='-477446' />
+    <nd ref='-477320' />
+    <nd ref='-477419' />
+    <nd ref='-477562' />
+    <nd ref='-477658' />
+    <nd ref='-477365' />
+    <nd ref='-477464' />
+    <nd ref='-477605' />
+    <nd ref='-477705' />
+    <nd ref='-477669' />
+    <nd ref='-477333' />
+    <nd ref='-477477' />
+    <nd ref='-477575' />
+    <nd ref='-477276' />
+    <nd ref='-477379' />
+    <nd ref='-477520' />
+    <nd ref='-477617' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='252.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='359.66672099999994' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465666&quot;, &quot;to&quot;: &quot;465568&quot;, &quot;in_angle&quot;: 48, &quot;turn_angle&quot;: 21, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 7, &quot;modifier&quot;: 3}, {&quot;from&quot;: &quot;465666&quot;, &quot;to&quot;: &quot;465569&quot;, &quot;in_angle&quot;: 48, &quot;turn_angle&quot;: -8, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 7, &quot;modifier&quot;: 5}]' />
+    <tag k='next_segments' v='465569,465568' />
+    <tag k='nodes' v='[[48.729984, 9.087328], [48.730067, 9.087604], [48.73015, 9.087897], [48.730235, 9.088209], [48.730292, 9.088421], [48.730354, 9.088666], [48.730422, 9.088974], [48.730478, 9.089274], [48.730527, 9.089615], [48.730559, 9.089929], [48.730583, 9.090273], [48.730594, 9.090624], [48.730599, 9.090839], [48.730606, 9.090923], [48.730615, 9.091002], [48.730624, 9.091082], [48.73064, 9.091167], [48.730653, 9.09124], [48.730671, 9.09132], [48.730691, 9.091397], [48.730713, 9.091471], [48.730737, 9.091546], [48.730766, 9.091619], [48.730784, 9.091664], [48.730821, 9.091743], [48.730873, 9.091843], [48.730931, 9.091941]]' />
+    <tag k='parts' v='26' />
+    <tag k='previous_segments' v='38394' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465666' />
+    <tag k='speed' v='52.32540988967395' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='252.0' />
+  </way>
+  <way id='-163722' action='modify' visible='true'>
+    <nd ref='-477305' />
+    <nd ref='-477406' />
+    <nd ref='-477547' />
+    <nd ref='-477643' />
+    <nd ref='-477268' />
+    <nd ref='-477369' />
+    <nd ref='-477508' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='62.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='69.42602' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465554&quot;, &quot;to&quot;: &quot;465546&quot;, &quot;in_angle&quot;: 295, &quot;turn_angle&quot;: 131, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 5, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;465554&quot;, &quot;to&quot;: &quot;465547&quot;, &quot;in_angle&quot;: 295, &quot;turn_angle&quot;: -151, &quot;duration&quot;: 27, &quot;weight&quot;: 27, &quot;type&quot;: 2, &quot;modifier&quot;: 0}, {&quot;from&quot;: &quot;465554&quot;, &quot;to&quot;: &quot;465548&quot;, &quot;in_angle&quot;: 295, &quot;turn_angle&quot;: 19, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;465554&quot;, &quot;to&quot;: &quot;465549&quot;, &quot;in_angle&quot;: 295, &quot;turn_angle&quot;: -69, &quot;duration&quot;: 4, &quot;weight&quot;: 4, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='465549,465547,465548,465546' />
+    <tag k='nodes' v='[[48.732209, 9.089792], [48.732257, 9.089618], [48.732371, 9.089374], [48.732448, 9.089214], [48.732521, 9.088978]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='465669' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465554' />
+    <tag k='speed' v='40.082632016065446' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='62.0' />
+  </way>
+  <way id='-163723' action='modify' visible='true'>
+    <nd ref='-477699' />
+    <nd ref='-477614' />
+    <nd ref='-477274' />
+    <nd ref='-477416' />
+    <nd ref='-477517' />
+    <nd ref='-477656' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='81.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='89.96574' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465639&quot;, &quot;to&quot;: &quot;465558&quot;, &quot;in_angle&quot;: 299, &quot;turn_angle&quot;: -93, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;465639&quot;, &quot;to&quot;: &quot;465559&quot;, &quot;in_angle&quot;: 299, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;465639&quot;, &quot;to&quot;: &quot;465560&quot;, &quot;in_angle&quot;: 299, &quot;turn_angle&quot;: 75, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='465558,465560,465559' />
+    <tag k='nodes' v='[[48.730876, 9.093274], [48.730927, 9.09313], [48.731004, 9.092913], [48.731179, 9.092444], [48.731206, 9.092375], [48.731271, 9.092204]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='465640,465584' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465639' />
+    <tag k='speed' v='40.198500618124186' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='81.0' />
+  </way>
+  <way id='-163726' action='modify' visible='true'>
+    <nd ref='-477387' />
+    <nd ref='-477484' />
+    <nd ref='-477624' />
+    <nd ref='-477284' />
+    <nd ref='-477600' />
+    <nd ref='-477700' />
+    <nd ref='-477404' />
+    <nd ref='-477500' />
+    <nd ref='-477642' />
+    <nd ref='-477304' />
+    <nd ref='-477447' />
+    <nd ref='-477545' />
+    <nd ref='-477514' />
+    <nd ref='-477611' />
+    <nd ref='-477316' />
+    <nd ref='-477415' />
+    <nd ref='-477558' />
+    <nd ref='-477654' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='122.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='152.106364' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='148165' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465561&quot;, &quot;to&quot;: &quot;38400&quot;, &quot;in_angle&quot;: 11, &quot;turn_angle&quot;: 31, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 4, &quot;modifier&quot;: 5}]' />
+    <tag k='next_segments' v='38400' />
+    <tag k='nodes' v='[[48.730703, 9.09092], [48.730699, 9.090853], [48.730699, 9.090756], [48.730709, 9.090645], [48.73073, 9.090552], [48.73076, 9.090459], [48.7308, 9.09037], [48.730848, 9.0903], [48.730916, 9.090229], [48.73101, 9.090165], [48.731086, 9.090146], [48.731154, 9.090151], [48.731224, 9.090169], [48.731349, 9.090246], [48.731481, 9.090364], [48.731574, 9.090473], [48.731679, 9.090505]]' />
+    <tag k='parts' v='16' />
+    <tag k='previous_segments' v='465562,465566' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465561' />
+    <tag k='speed' v='44.869012568073735' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='122.0' />
+  </way>
+  <way id='-163729' action='modify' visible='true'>
+    <nd ref='-477507' />
+    <nd ref='-477648' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='13.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='13.998084' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465565&quot;, &quot;to&quot;: &quot;465559&quot;, &quot;in_angle&quot;: 26, &quot;turn_angle&quot;: -86, &quot;duration&quot;: 4, &quot;weight&quot;: 4, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;465565&quot;, &quot;to&quot;: &quot;465560&quot;, &quot;in_angle&quot;: 26, &quot;turn_angle&quot;: -12, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 3, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465560,465559' />
+    <tag k='nodes' v='[[48.731158, 9.09212], [48.731271, 9.092204]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='465665,465569' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465565' />
+    <tag k='speed' v='39.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='13.0' />
+  </way>
+  <way id='-163731' action='modify' visible='true'>
+    <nd ref='-477626' />
+    <nd ref='-477285' />
+    <nd ref='-477693' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='29.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='31.730541' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465567&quot;, &quot;to&quot;: &quot;465543&quot;, &quot;in_angle&quot;: 122, &quot;turn_angle&quot;: -3, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465543' />
+    <tag k='nodes' v='[[48.731158, 9.09212], [48.731102, 9.092256], [48.731006, 9.092486]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='465665,465558' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465567' />
+    <tag k='speed' v='39.25862512082602' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='29.0' />
+  </way>
+  <way id='-163733' action='modify' visible='true'>
+    <nd ref='-477510' />
+    <nd ref='-477608' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='79.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='87.877071' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='12070' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465663&quot;, &quot;to&quot;: &quot;465562&quot;, &quot;in_angle&quot;: 119, &quot;turn_angle&quot;: 21, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 5, &quot;modifier&quot;: 3}, {&quot;from&quot;: &quot;465663&quot;, &quot;to&quot;: &quot;465563&quot;, &quot;in_angle&quot;: 119, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465562,465563' />
+    <tag k='nodes' v='[[48.731903, 9.090147], [48.731511, 9.091187]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='465547,465668' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465663' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='79.0' />
+  </way>
+  <way id='-163734' action='modify' visible='true'>
+    <nd ref='-477468' />
+    <nd ref='-477567' />
+    <nd ref='-477442' />
+    <nd ref='-477540' />
+    <nd ref='-477680' />
+    <nd ref='-477344' />
+    <nd ref='-477485' />
+    <nd ref='-477585' />
+    <nd ref='-477286' />
+    <nd ref='-477388' />
+    <nd ref='-477356' />
+    <nd ref='-477456' />
+    <nd ref='-477596' />
+    <nd ref='-477694' />
+    <nd ref='-477400' />
+    <nd ref='-477495' />
+    <nd ref='-477638' />
+    <nd ref='-477300' />
+    <nd ref='-477427' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='164.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='203.732684' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='148165' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465555&quot;, &quot;to&quot;: &quot;38396&quot;, &quot;in_angle&quot;: 208, &quot;turn_angle&quot;: 13, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 4, &quot;modifier&quot;: 5}]' />
+    <tag k='next_segments' v='38396' />
+    <tag k='nodes' v='[[48.732959, 9.089773], [48.733015, 9.089895], [48.733055, 9.090023], [48.733078, 9.090147], [48.733086, 9.090282], [48.73308, 9.090404], [48.733056, 9.090537], [48.733013, 9.090668], [48.732964, 9.090767], [48.732912, 9.090845], [48.732837, 9.090931], [48.732751, 9.090987], [48.73264, 9.09102], [48.732532, 9.091018], [48.732424, 9.090986], [48.732319, 9.090926], [48.732197, 9.090809], [48.731962, 9.090615]]' />
+    <tag k='parts' v='17' />
+    <tag k='previous_segments' v='465553,465546' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465555' />
+    <tag k='speed' v='44.8614267409347' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='164.0' />
+  </way>
+  <way id='-163735' action='modify' visible='true'>
+    <nd ref='-477454' />
+    <nd ref='-477421' />
+    <nd ref='-477522' />
+    <nd ref='-477660' />
+    <nd ref='-477322' />
+    <nd ref='-477465' />
+    <nd ref='-477564' />
+    <nd ref='-477706' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='17.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='17.848414' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='44170' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465668&quot;, &quot;to&quot;: &quot;465663&quot;, &quot;in_angle&quot;: 172, &quot;turn_angle&quot;: -53, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='465663' />
+    <tag k='nodes' v='[[48.732011, 9.090273], [48.731981, 9.090167], [48.731951, 9.090137], [48.731903, 9.090147]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465661' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465668' />
+    <tag k='speed' v='37.85402165144758' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='17.0' />
+  </way>
+  <way id='-163739' action='modify' visible='true'>
+    <nd ref='-477644' />
+    <nd ref='-477351' />
+    <nd ref='-477450' />
+    <nd ref='-477591' />
+    <nd ref='-477687' />
+    <nd ref='-477657' />
+    <nd ref='-477318' />
+    <nd ref='-477463' />
+    <nd ref='-477561' />
+    <nd ref='-477703' />
+    <nd ref='-477363' />
+    <nd ref='-477503' />
+    <nd ref='-477603' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='130.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='289.329164' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='52670' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465660&quot;, &quot;to&quot;: &quot;38396&quot;, &quot;in_angle&quot;: 219, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='38396' />
+    <tag k='nodes' v='[[48.734198, 9.092599], [48.733984, 9.092454], [48.73382, 9.09234], [48.733635, 9.092214], [48.733413, 9.092048], [48.733164, 9.091858], [48.733094, 9.091798], [48.732923, 9.091651], [48.732691, 9.091429], [48.732489, 9.091225], [48.732225, 9.090938], [48.731962, 9.090615]]' />
+    <tag k='parts' v='11' />
+    <tag k='previous_segments' v='38407' />
+    <tag k='rate' v='2' />
+    <tag k='segment_id' v='465660' />
+    <tag k='speed' v='80.11490927682631' />
+    <tag k='speed_class' v='3' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='130.0' />
+  </way>
+  <way id='-163740' action='modify' visible='true'>
+    <nd ref='-477630' />
+    <nd ref='-477292' />
+    <nd ref='-477702' />
+    <nd ref='-477362' />
+    <nd ref='-477502' />
+    <nd ref='-477602' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='66.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='73.844293' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465559&quot;, &quot;to&quot;: &quot;465661&quot;, &quot;in_angle&quot;: 299, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465661' />
+    <tag k='nodes' v='[[48.731271, 9.092204], [48.731355, 9.091989], [48.731521, 9.09156], [48.731606, 9.091335]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465565,465639,465627' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465559' />
+    <tag k='speed' v='40.248261108004655' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='66.0' />
+  </way>
+  <way id='-163741' action='modify' visible='true'>
+    <nd ref='-477636' />
+    <nd ref='-477343' />
+    <nd ref='-477441' />
+    <nd ref='-477584' />
+    <nd ref='-477679' />
+    <nd ref='-477676' />
+    <nd ref='-477340' />
+    <nd ref='-477483' />
+    <nd ref='-477581' />
+    <nd ref='-477283' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='73.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='161.80150199999997' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='52685' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;38395&quot;, &quot;to&quot;: &quot;465564&quot;, &quot;in_angle&quot;: 59, &quot;turn_angle&quot;: -3, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465564' />
+    <tag k='nodes' v='[[48.729743, 9.086175], [48.729942, 9.08691], [48.73008, 9.087347], [48.730159, 9.087567], [48.730242, 9.087793], [48.73038, 9.088154]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='38304' />
+    <tag k='rate' v='2' />
+    <tag k='segment_id' v='38395' />
+    <tag k='speed' v='80.04264948047269' />
+    <tag k='speed_class' v='3' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='73.0' />
+  </way>
+  <way id='-163742' action='modify' visible='true'>
+    <nd ref='-477668' />
+    <nd ref='-477378' />
+    <nd ref='-477476' />
+    <nd ref='-477445' />
+    <nd ref='-477543' />
+    <nd ref='-477682' />
+    <nd ref='-477347' />
+    <nd ref='-477487' />
+    <nd ref='-477587' />
+    <nd ref='-477288' />
+    <nd ref='-477390' />
+    <nd ref='-477704' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='101.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='225.669629' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='26900' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465564&quot;, &quot;to&quot;: &quot;38400&quot;, &quot;in_angle&quot;: 43, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='38400' />
+    <tag k='nodes' v='[[48.73038, 9.088154], [48.730466, 9.088354], [48.730755, 9.088978], [48.730882, 9.089218], [48.731202, 9.089787], [48.731427, 9.090143], [48.731679, 9.090505]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='38395' />
+    <tag k='rate' v='2' />
+    <tag k='segment_id' v='465564' />
+    <tag k='speed' v='80.5296901117341' />
+    <tag k='speed_class' v='3' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='101.0' />
+  </way>
+  <way id='-163744' action='modify' visible='true'>
+    <nd ref='-477671' />
+    <nd ref='-477381' />
+    <nd ref='-477479' />
+    <nd ref='-477448' />
+    <nd ref='-477546' />
+    <nd ref='-477685' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='66.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='73.58482799999999' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465665&quot;, &quot;to&quot;: &quot;465565&quot;, &quot;in_angle&quot;: 120, &quot;turn_angle&quot;: -94, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;465665&quot;, &quot;to&quot;: &quot;465566&quot;, &quot;in_angle&quot;: 120, &quot;turn_angle&quot;: 112, &quot;duration&quot;: 4, &quot;weight&quot;: 4, &quot;type&quot;: 5, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;465665&quot;, &quot;to&quot;: &quot;465567&quot;, &quot;in_angle&quot;: 120, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465565,465567,465566' />
+    <tag k='nodes' v='[[48.731486, 9.091249], [48.73142, 9.091422], [48.731219, 9.091965], [48.731158, 9.09212]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465563' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465665' />
+    <tag k='speed' v='40.199252922083346' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='66.0' />
+  </way>
+  <way id='-163746' action='modify' visible='true'>
+    <nd ref='-477323' />
+    <nd ref='-477422' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='5.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='5.331163' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465563&quot;, &quot;to&quot;: &quot;465664&quot;, &quot;in_angle&quot;: 121, &quot;turn_angle&quot;: -65, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;465563&quot;, &quot;to&quot;: &quot;465665&quot;, &quot;in_angle&quot;: 121, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465665,465664' />
+    <tag k='nodes' v='[[48.731511, 9.091187], [48.731486, 9.091249]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='465663' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465563' />
+    <tag k='speed' v='38.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='5.0' />
+  </way>
+  <way id='-163747' action='modify' visible='true'>
+    <nd ref='-477352' />
+    <nd ref='-477663' />
+    <nd ref='-477327' />
+    <nd ref='-477469' />
+    <nd ref='-477568' />
+    <nd ref='-477269' />
+    <nd ref='-477370' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='13.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='15.824008' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='44170' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465664&quot;, &quot;to&quot;: &quot;465661&quot;, &quot;in_angle&quot;: 4, &quot;turn_angle&quot;: -65, &quot;duration&quot;: 6, &quot;weight&quot;: 6, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='465661' />
+    <tag k='nodes' v='[[48.731486, 9.091249], [48.731505, 9.091292], [48.731542, 9.091328], [48.731606, 9.091335]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465563' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465664' />
+    <tag k='speed' v='44.028890341814794' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='13.0' />
+  </way>
+  <way id='-163749' action='modify' visible='true'>
+    <nd ref='-477330' />
+    <nd ref='-477298' />
+    <nd ref='-477398' />
+    <nd ref='-477539' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='51.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='89.652047' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='1585' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;38394&quot;, &quot;to&quot;: &quot;465666&quot;, &quot;in_angle&quot;: 66, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465666' />
+    <tag k='nodes' v='[[48.729743, 9.086175], [48.729767, 9.086557], [48.729984, 9.087328]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='38304' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='38394' />
+    <tag k='speed' v='63.00000000000001' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='51.0' />
+  </way>
+  <way id='-163750' action='modify' visible='true'>
+    <nd ref='-477681' />
+    <nd ref='-477345' />
+    <nd ref='-477311' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='81.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='89.997577' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465661&quot;, &quot;to&quot;: &quot;465668&quot;, &quot;in_angle&quot;: 300, &quot;turn_angle&quot;: -54, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;465661&quot;, &quot;to&quot;: &quot;465669&quot;, &quot;in_angle&quot;: 300, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465669,465668' />
+    <tag k='nodes' v='[[48.731606, 9.091335], [48.731786, 9.090858], [48.732011, 9.090273]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='465664,465559' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465661' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='81.0' />
+  </way>
+  <way id='-163751' action='modify' visible='true'>
+    <nd ref='-477346' />
+    <nd ref='-477444' />
+    <nd ref='-477411' />
+    <nd ref='-477509' />
+    <nd ref='-477651' />
+    <nd ref='-477312' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='24.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='29.439747999999998' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465569&quot;, &quot;to&quot;: &quot;465565&quot;, &quot;in_angle&quot;: 8, &quot;turn_angle&quot;: 18, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465565' />
+    <tag k='nodes' v='[[48.730931, 9.091941], [48.731024, 9.092062], [48.731057, 9.092096], [48.731158, 9.09212]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465666' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465569' />
+    <tag k='speed' v='44.24628685680325' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='24.0' />
+  </way>
+  <way id='-163752' action='modify' visible='true'>
+    <nd ref='-477458' />
+    <nd ref='-477554' />
+    <nd ref='-477696' />
+    <nd ref='-477358' />
+    <nd ref='-477435' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='30.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='41.362522999999996' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465568&quot;, &quot;to&quot;: &quot;465543&quot;, &quot;in_angle&quot;: 91, &quot;turn_angle&quot;: 28, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='465543' />
+    <tag k='nodes' v='[[48.730931, 9.091941], [48.730989, 9.092182], [48.731, 9.09224], [48.731009, 9.092352], [48.731006, 9.092486]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='465666' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465568' />
+    <tag k='speed' v='49.64888935812741' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='30.0' />
+  </way>
+  <way id='-163753' action='modify' visible='true'>
+    <nd ref='-477437' />
+    <nd ref='-477408' />
+    <nd ref='-477505' />
+    <nd ref='-477646' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='38.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='41.617305' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465669&quot;, &quot;to&quot;: &quot;465553&quot;, &quot;in_angle&quot;: 305, &quot;turn_angle&quot;: 22, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 5, &quot;modifier&quot;: 3}, {&quot;from&quot;: &quot;465669&quot;, &quot;to&quot;: &quot;465554&quot;, &quot;in_angle&quot;: 305, &quot;turn_angle&quot;: -13, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465553,465554' />
+    <tag k='nodes' v='[[48.732011, 9.090273], [48.732087, 9.090077], [48.732154, 9.089911], [48.732209, 9.089792]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465661' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465669' />
+    <tag k='speed' v='39.48770623181871' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='38.0' />
+  </way>
+  <way id='-163754' action='modify' visible='true'>
+    <nd ref='-477429' />
+    <nd ref='-477559' />
+    <nd ref='-477655' />
+    <nd ref='-477361' />
+    <nd ref='-477461' />
+    <nd ref='-477601' />
+    <nd ref='-477701' />
+    <nd ref='-477405' />
+    <nd ref='-477501' />
+    <nd ref='-477473' />
+    <nd ref='-477572' />
+    <nd ref='-477273' />
+    <nd ref='-477375' />
+    <nd ref='-477515' />
+    <nd ref='-477612' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='84.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='186.93614' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='26900' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;38407&quot;, &quot;to&quot;: &quot;465659&quot;, &quot;in_angle&quot;: 204, &quot;turn_angle&quot;: 30, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}, {&quot;from&quot;: &quot;38407&quot;, &quot;to&quot;: &quot;465660&quot;, &quot;in_angle&quot;: 204, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465660,465659' />
+    <tag k='nodes' v='[[48.735669, 9.09382], [48.735537, 9.093674], [48.735395, 9.093533], [48.735233, 9.093381], [48.735059, 9.093231], [48.734845, 9.09306], [48.734631, 9.092898], [48.734402, 9.09274], [48.734198, 9.092599]]' />
+    <tag k='parts' v='8' />
+    <tag k='previous_segments' v='38346' />
+    <tag k='rate' v='2' />
+    <tag k='segment_id' v='38407' />
+    <tag k='speed' v='80.20762501033775' />
+    <tag k='speed_class' v='3' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='84.0' />
+  </way>
+  <way id='-163756' action='modify' visible='true'>
+    <nd ref='-477360' />
+    <nd ref='-477460' />
+    <nd ref='-477523' />
+    <nd ref='-477619' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='107.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='44.594199' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465560&quot;, &quot;to&quot;: &quot;465625&quot;, &quot;in_angle&quot;: 18, &quot;turn_angle&quot;: 16, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;465560&quot;, &quot;to&quot;: &quot;465626&quot;, &quot;in_angle&quot;: 18, &quot;turn_angle&quot;: -88, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='465625,465626' />
+    <tag k='nodes' v='[[48.731271, 9.092204], [48.731357, 9.092238], [48.731384, 9.092249], [48.731654, 9.092383]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465565,465639' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='465560' />
+    <tag k='speed' v='15.069732164042232' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='107.0' />
+  </way>
+  <way id='-163757' action='modify' visible='true'>
+    <nd ref='-477308' />
+    <nd ref='-477452' />
+    <nd ref='-477550' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='62.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='69.652612' />
+    <tag k='name' v='Hauptstraße' />
+    <tag k='name_id' v='110700' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465543&quot;, &quot;to&quot;: &quot;465582&quot;, &quot;in_angle&quot;: 110, &quot;turn_angle&quot;: 93, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 2, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;465543&quot;, &quot;to&quot;: &quot;465583&quot;, &quot;in_angle&quot;: 110, &quot;turn_angle&quot;: -2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465582,465583' />
+    <tag k='nodes' v='[[48.731006, 9.092486], [48.73079, 9.093071], [48.730725, 9.093332]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='465567,465568' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465543' />
+    <tag k='speed' v='40.293852181738714' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='62.0' />
+  </way>
+  <way id='-163758' action='modify' visible='true'>
+    <nd ref='-477607' />
+    <nd ref='-477310' />
+    <nd ref='-477409' />
+    <nd ref='-477553' />
+    <nd ref='-477649' />
+    <nd ref='-477621' />
+    <nd ref='-477281' />
+    <nd ref='-477424' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='72.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='91.005299' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='4440' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465553&quot;, &quot;to&quot;: &quot;465555&quot;, &quot;in_angle&quot;: 29, &quot;turn_angle&quot;: 26, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='465555' />
+    <tag k='nodes' v='[[48.732209, 9.089792], [48.732364, 9.089642], [48.732467, 9.089586], [48.73257, 9.08956], [48.732664, 9.089571], [48.732758, 9.089605], [48.732852, 9.08968], [48.732959, 9.089773]]' />
+    <tag k='parts' v='7' />
+    <tag k='previous_segments' v='465669' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465553' />
+    <tag k='speed' v='45.47250887006042' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='72.0' />
+  </way>
+  <way id='-163759' action='modify' visible='true'>
+    <nd ref='-477278' />
+    <nd ref='-477684' />
+    <nd ref='-477349' />
+    <nd ref='-477489' />
+    <nd ref='-477589' />
+    <nd ref='-477291' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='107.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='44.594199' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465627&quot;, &quot;to&quot;: &quot;465558&quot;, &quot;in_angle&quot;: 194, &quot;turn_angle&quot;: 12, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;465627&quot;, &quot;to&quot;: &quot;465559&quot;, &quot;in_angle&quot;: 194, &quot;turn_angle&quot;: 106, &quot;duration&quot;: 3, &quot;weight&quot;: 3, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='465558,465559' />
+    <tag k='nodes' v='[[48.731654, 9.092383], [48.731384, 9.092249], [48.731357, 9.092238], [48.731271, 9.092204]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='465628,465630' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='465627' />
+    <tag k='speed' v='15.069732164042232' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='107.0' />
+  </way>
+  <way id='-163761' action='modify' visible='true'>
+    <nd ref='-477640' />
+    <nd ref='-477302' />
+    <nd ref='-477270' />
+    <nd ref='-477371' />
+    <nd ref='-477511' />
+    <nd ref='-477609' />
+    <nd ref='-477313' />
+    <nd ref='-477412' />
+    <nd ref='-477556' />
+    <nd ref='-477652' />
+    <nd ref='-477277' />
+    <nd ref='-477380' />
+    <nd ref='-477521' />
+    <nd ref='-477618' />
+    <nd ref='-477321' />
+    <nd ref='-477420' />
+    <nd ref='-477563' />
+    <nd ref='-477659' />
+    <nd ref='-477629' />
+    <nd ref='-477290' />
+    <nd ref='-477431' />
+    <nd ref='-477532' />
+    <nd ref='-477670' />
+    <nd ref='-477334' />
+    <nd ref='-477478' />
+    <nd ref='-477576' />
+    <nd ref='-477453' />
+    <nd ref='-477551' />
+    <nd ref='-477690' />
+    <nd ref='-477353' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='230.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='506.161392' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='26900' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;38400&quot;, &quot;to&quot;: &quot;38353&quot;, &quot;in_angle&quot;: 34, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='38353' />
+    <tag k='nodes' v='[[48.731679, 9.090505], [48.731814, 9.090691], [48.731894, 9.090785], [48.732167, 9.091118], [48.732406, 9.091382], [48.732627, 9.091608], [48.732876, 9.091833], [48.733042, 9.091978], [48.733425, 9.092276], [48.733586, 9.092391], [48.733787, 9.092534], [48.733981, 9.092671], [48.734364, 9.092931], [48.734758, 9.093216], [48.7349, 9.093329], [48.735045, 9.093448], [48.735331, 9.093702], [48.735464, 9.093836], [48.735592, 9.093971]]' />
+    <tag k='parts' v='18' />
+    <tag k='previous_segments' v='465564,465561' />
+    <tag k='rate' v='2' />
+    <tag k='segment_id' v='38400' />
+    <tag k='speed' v='79.16812365056876' />
+    <tag k='speed_class' v='3' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='230.0' />
+  </way>
+  <way id='-163762' action='modify' visible='true'>
+    <nd ref='-477573' />
+    <nd ref='-477666' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='13.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='13.998084' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465558&quot;, &quot;to&quot;: &quot;465566&quot;, &quot;in_angle&quot;: 206, &quot;turn_angle&quot;: 26, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 5, &quot;modifier&quot;: 3}, {&quot;from&quot;: &quot;465558&quot;, &quot;to&quot;: &quot;465567&quot;, &quot;in_angle&quot;: 206, &quot;turn_angle&quot;: -85, &quot;duration&quot;: 4, &quot;weight&quot;: 4, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='465567,465566' />
+    <tag k='nodes' v='[[48.731271, 9.092204], [48.731158, 9.09212]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='465639,465627' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465558' />
+    <tag k='speed' v='39.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='13.0' />
+  </way>
+  <way id='-163764' action='modify' visible='true'>
+    <nd ref='-477366' />
+    <nd ref='-477492' />
+    <nd ref='-477592' />
+    <nd ref='-477295' />
+    <nd ref='-477395' />
+    <nd ref='-477536' />
+    <nd ref='-477633' />
+    <nd ref='-477339' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='62.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='76.933569' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='12065' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;465546&quot;, &quot;to&quot;: &quot;465555&quot;, &quot;in_angle&quot;: 54, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='465555' />
+    <tag k='nodes' v='[[48.732521, 9.088978], [48.732577, 9.089174], [48.7327, 9.089353], [48.732853, 9.089576], [48.732912, 9.089672], [48.732959, 9.089773]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='465636,465672,465545,465554' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='465546' />
+    <tag k='speed' v='44.824612582317606' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='62.0' />
+  </way>
+  <way id='-163765' action='modify' visible='true'>
+    <nd ref='-477385' />
+    <nd ref='-477527' />
+    <nd ref='-477623' />
+    <nd ref='-477593' />
+    <nd ref='-477691' />
+    <nd ref='-477396' />
+    <nd ref='-477493' />
+    <nd ref='-477634' />
+    <nd ref='-477296' />
+    <nd ref='-477438' />
+    <nd ref='-477537' />
+    <nd ref='-477413' />
+    <nd ref='-477512' />
+    <nd ref='-477653' />
+    <nd ref='-477314' />
+    <nd ref='-477459' />
+    <nd ref='-477557' />
+    <nd ref='-477698' />
+    <nd ref='-477359' />
+    <nd ref='-477328' />
+    <nd ref='-477426' />
+    <nd ref='-477569' />
+    <nd ref='-477664' />
+    <nd ref='-477372' />
+    <nd ref='-477470' />
+    <nd ref='-477707' />
+    <nd ref='-477708' />
+    <nd ref='-477709' />
+    <nd ref='-477710' />
+    <nd ref='-477711' />
+    <nd ref='-477712' />
+    <nd ref='-477713' />
+    <nd ref='-477714' />
+    <nd ref='-477715' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='500.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='1106.9574249999998' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='26900' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;38396&quot;, &quot;to&quot;: &quot;38393&quot;, &quot;in_angle&quot;: 257, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;38396&quot;, &quot;to&quot;: &quot;38367&quot;, &quot;in_angle&quot;: 257, &quot;turn_angle&quot;: 20, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='38393,38367' />
+    <tag k='nodes' v='[[48.731962, 9.090615], [48.731749, 9.09033], [48.731497, 9.089978], [48.731253, 9.089581], [48.73094, 9.089029], [48.730763, 9.088665], [48.7306, 9.088304], [48.730513, 9.088102], [48.730281, 9.087505], [48.730136, 9.087079], [48.729998, 9.086614], [48.729862, 9.086092], [48.729719, 9.085441], [48.72961, 9.08478], [48.729531, 9.084216], [48.729464, 9.083542], [48.729418, 9.082858], [48.729394, 9.082289], [48.729369, 9.081605], [48.729321, 9.079954], [48.729299, 9.079408], [48.729257, 9.078728], [48.72919, 9.077966], [48.729165, 9.077737], [48.729137, 9.077501], [48.729083, 9.077075], [48.729031, 9.076716]]' />
+    <tag k='parts' v='26' />
+    <tag k='previous_segments' v='465555,465660' />
+    <tag k='rate' v='2' />
+    <tag k='segment_id' v='38396' />
+    <tag k='speed' v='79.70642836240971' />
+    <tag k='speed_class' v='3' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='500.0' />
+  </way>
+  <way id='-163766' action='modify' visible='true'>
+    <nd ref='-477716' />
+    <nd ref='-477717' />
+    <nd ref='-477718' />
+    <nd ref='-477719' />
+    <nd ref='-477720' />
+    <nd ref='-477721' />
+    <nd ref='-477722' />
+    <nd ref='-477723' />
+    <nd ref='-477724' />
+    <nd ref='-477324' />
+    <nd ref='-477467' />
+    <nd ref='-477566' />
+    <nd ref='-477267' />
+    <nd ref='-477368' />
+    <nd ref='-477506' />
+    <nd ref='-477606' />
+    <nd ref='-477297' />
+    <nd ref='-477397' />
+    <nd ref='-477538' />
+    <nd ref='-477635' />
+    <nd ref='-477341' />
+    <nd ref='-477439' />
+    <nd ref='-477582' />
+    <nd ref='-477677' />
+    <nd ref='-477647' />
+    <nd ref='-477309' />
+    <nd ref='-477455' />
+    <nd ref='-477552' />
+    <nd ref='-477692' />
+    <nd ref='-477354' />
+    <nd ref='-477494' />
+    <nd ref='-477594' />
+    <nd ref='-477471' />
+    <nd ref='-477570' />
+    <nd ref='-477271' />
+    <nd ref='-477373' />
+    <nd ref='-477513' />
+    <nd ref='-477610' />
+    <nd ref='-477315' />
+    <nd ref='-477414' />
+    <nd ref='-477386' />
+    <tag k='component_id' v='434' />
+    <tag k='duration' v='411.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='916.2882609999999' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='26900' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;38304&quot;, &quot;to&quot;: &quot;38394&quot;, &quot;in_angle&quot;: 69, &quot;turn_angle&quot;: 15, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}, {&quot;from&quot;: &quot;38304&quot;, &quot;to&quot;: &quot;38395&quot;, &quot;in_angle&quot;: 69, &quot;turn_angle&quot;: -2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='38395,38394' />
+    <tag k='nodes' v='[[48.72831, 9.073951], [48.728472, 9.074578], [48.728583, 9.075042], [48.728682, 9.075501], [48.728776, 9.075986], [48.728858, 9.076452], [48.728934, 9.076942], [48.728999, 9.077439], [48.729055, 9.077914], [48.729101, 9.078395], [48.729138, 9.078884], [48.729166, 9.079376], [48.729185, 9.079868], [48.729202, 9.080362], [48.729208, 9.08063], [48.729221, 9.08109], [48.729233, 9.081601], [48.729251, 9.082096], [48.729271, 9.082585], [48.7293, 9.083077], [48.729334, 9.08357], [48.729381, 9.08407], [48.729437, 9.084545], [48.729509, 9.085037], [48.729565, 9.085348], [48.729643, 9.085738], [48.7297, 9.085996], [48.729743, 9.086175]]' />
+    <tag k='parts' v='27' />
+    <tag k='previous_segments' v='463980,463984' />
+    <tag k='rate' v='2' />
+    <tag k='segment_id' v='38304' />
+    <tag k='speed' v='80.3403936078583' />
+    <tag k='speed_class' v='3' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='411.0' />
+  </way>
+</osm>

@@ -40,7 +40,9 @@ class ConnectionsOptimiser:
 
         # Add disjunctions
         for pack in disjunctions:
-            self.routing.AddDisjunction([self.manager.NodeToIndex(i) for i in pack], OPTIMISER_INFINITY)
+            self.routing.AddDisjunction([self.manager.NodeToIndex(i) for i in pack],
+                                        OPTIMISER_INFINITY,
+                                        1)
 
         # Set routing parameters
         self.search_parameters = pywrapcp.DefaultRoutingSearchParameters()

@@ -6,12 +6,13 @@ from src.routing_problem.lanelet import Lanelet
 
 
 class RouteConnection(Serialisable, FigureWithNodes):
-    def __init__(self, lanelet_from: Lanelet, lanelet_to: Lanelet, cost: int):
+    def __init__(self, lanelet_from: Lanelet, lanelet_to: Lanelet, cost: int, type_: int):
         super().__init__(nodes=[lanelet_from.nodes[-1], lanelet_to.nodes[0]])
         self.lanelet_from: Lanelet = lanelet_from
         self.lanelet_to: Lanelet = lanelet_to
 
         self.cost: int = cost
+        self.type = type_
 
     def to_json(self):
         return Feature(geometry=LineString(coordinates=self.get_coordinates_list(reverse_lat_lon=True)),
@@ -19,7 +20,7 @@ class RouteConnection(Serialisable, FigureWithNodes):
                            "weight": self.cost,
                            "segment_from": self.lanelet_from.segment.id,
                            "segment_to": self.lanelet_to.segment.id,
-                           "type": 1
+                           "type": self.type
                        })
 
     def __str__(self):
