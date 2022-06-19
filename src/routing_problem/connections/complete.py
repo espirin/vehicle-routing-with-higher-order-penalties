@@ -22,9 +22,6 @@ class CompleteConnection:
         else:
             cost = matrix[self.lanelet_to.segment.id][connection.lanelet_from.segment.id]
 
-        # if cost > CONNECTIONS_COST_CUTOFF:
-        #     return OPTIMISER_INFINITY
-
         if self.maneuver is not None and connection.maneuver is not None:
             if self.maneuver.modifier == ManeuverModifier.Straight:
                 if connection.maneuver.modifier == ManeuverModifier.Straight:
