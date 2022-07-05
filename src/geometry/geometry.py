@@ -1,4 +1,3 @@
-from math import sqrt, atan2, pi
 from typing import List, Optional
 
 from shapely.geometry import LineString, Point
@@ -48,19 +47,6 @@ def offset_nodes(nodes: List[Node], distance=3, side='left', resolution=16, join
     return offsetted_nodes
 
 
-def get_part(from_percent: float, to_percent: float, line: LineString, zone_latlon: LatLon) -> List[Node]:
-    # Cut figure into two at a given percent of its length
-    distance_from = line.length * from_percent
-    before_from, after_from = cut_line(line, distance_from)
-
-    distance_to = line.length * to_percent - before_from.length if before_from else line.length * to_percent
-    before_to, after_to = cut_line(after_from, distance_to)
-
-    part = [Node(Position(utm=UTM(north=node[0], east=node[1]), zone_latlon=zone_latlon))
-            for node in before_to.coords] if before_to else []
-    return part
-
-
 def cut_line(line: LineString, distance: float):
     # Cut a line in two at a given distance from its starting point
     if distance <= 0.0:
@@ -76,35 +62,6 @@ def cut_line(line: LineString, distance: float):
         if pd > distance:
             cp = line.interpolate(distance)
             return LineString(coords[:i] + [(cp.x, cp.y)]), LineString([(cp.x, cp.y)] + coords[i:])
-
-
-def get_heading(line: List[Node]) -> float:
-    if len(line) != 2:
-        raise Exception("Line should have exactly 2 nodes")
-
-    heading = [line[1].position.latlon.lon - line[0].position.latlon.lon,
-               line[1].position.latlon.lat - line[0].position.latlon.lat]
-    norm = sqrt(heading[0] ** 2 + heading[1] ** 2)
-    heading = [heading[0] / norm, heading[1] / norm]
-
-    angle = 90.0 - (atan2(heading[1], heading[0]) * 180.0 / pi)
-
-    if angle < 0:
-        angle = 360 + angle
-
-    return angle
-
-
-def round_corners(nodes: List[Node], tolerance: float) -> List[Node]:
-    line_string = create_linestring(nodes)
-
-    rounded_line: LineString = line_string.simplify(tolerance)
-    new_nodes = create_nodes(rounded_line, nodes[0].position.latlon)
-    if new_nodes is None:
-        print([[node.position.latlon.lon, node.position.latlon.lat] for node in nodes])
-        return nodes
-
-    return new_nodes
 
 
 def shorten_line(nodes: List[Node], distance: float, cut_beginning: bool) -> List[Node]:

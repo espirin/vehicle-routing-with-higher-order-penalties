@@ -1,19 +1,19 @@
-from typing import List, Optional, Dict, Set
+from typing import List, Optional, Dict, Set, Tuple
 
 from geojson import LineString, Feature
 
-from src.config import OPTIMISER_INFINITY
-from src.entities.figure_with_nodes import FigureWithNodes
+from src.abstract.figure_with_nodes import FigureWithNodes
+from src.abstract.serialisable import Serialisable
+from src.config.config import OPTIMISER_INFINITY
 from src.geo.geo import Node
-from src.json.serialisable import Serialisable
 from src.routing_problem.segment import Segment
 
 
 class Lanelet(FigureWithNodes, Serialisable):
-    def __init__(self, nodes: List[Node], lane: int, segment: Segment):
+    def __init__(self, nodes: List[Node], lane: int, segment: Optional[Segment]):
         super().__init__(nodes)
         self.lane: int = lane
-        self.segment: Segment = segment
+        self.segment: Optional[Segment] = segment
 
         self.next_lanelets: List[Lanelet] = []
         self.next_lanelet: Optional[Lanelet] = None
@@ -41,11 +41,15 @@ class Lanelet(FigureWithNodes, Serialisable):
                            "type": 0
                        })
 
-    def get_cost_to(self, lanelet, matrix: Dict[str, Dict[str, int]],
-                    lanelet_connections: Set, check_topology: bool = True) -> int:
+    def get_cost_to(self,
+                    lanelet,
+                    matrix: Dict[str, Dict[str, int]],
+                    lanelet_connections: Optional[Set[Tuple]],
+                    check_topology: bool = True) -> int:
         if isinstance(lanelet, LastLanelet):
             return 0
 
+        # For lane topology approach
         if check_topology:
             # If pair is connected, check lanelet connections
             if lanelet.segment.id in self.segment.next_segment_ids:
@@ -66,8 +70,12 @@ class Lanelet(FigureWithNodes, Serialisable):
 
 
 class FirstLanelet(Lanelet):
+    """
+    FirstLanelet is a special lanelet with 0-distances to all other lanelets
+    """
+
     def __init__(self):
-        super().__init__([], 0, None)
+        super().__init__(nodes=[], lane=0, segment=None)
 
     def get_cost_to(self, lanelet, matrix: Dict[str, Dict[str, int]],
                     lanelet_connections: Set, check_topology: bool = True) -> int:
@@ -75,5 +83,9 @@ class FirstLanelet(Lanelet):
 
 
 class LastLanelet(Lanelet):
+    """
+    FirstLanelet is a special lanelet with 0-distances from all other lanelets
+    """
+
     def __init__(self):
-        super().__init__([], 0, None)
+        super().__init__(nodes=[], lane=0, segment=None)

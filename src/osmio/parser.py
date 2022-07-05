@@ -4,12 +4,10 @@ from typing import Tuple, Dict
 from src.geo.geo import Node, LatLon, Position
 
 
-def get_xml_tree(source: str) -> xml:
-    return xml.fromstring(source)
-
-
 def find_osm_nodes_and_ways(source: str) -> Tuple[Dict[int, Node], Dict[int, Dict]]:
-    tree = get_xml_tree(source)
+    # Parse xml file, find OSM nodes and ways
+
+    tree = xml.fromstring(source)
 
     nodes = dict()
     ways = dict()

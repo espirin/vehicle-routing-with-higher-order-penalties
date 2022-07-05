@@ -3,7 +3,7 @@ from typing import List
 
 from ortools.constraint_solver.routing_enums_pb2 import LocalSearchMetaheuristic, FirstSolutionStrategy
 
-from src.optimiser.connections_optimiser import ConnectionsOptimiser
+from src.optimiser.lane_topology_optimiser import ConnectionsOptimiser
 from src.optimiser.lanelets_optimiser import LaneletsOptimiser
 from src.routing_problem.connections.complete import CompleteConnection, FirstConnection, LastConnection, SelfConnection
 from src.routing_problem.connections.lanelet import LaneletConnection
@@ -98,7 +98,7 @@ def optimize_lane_topology(max_optimisation_duration: int):
                                   max_optimisation_duration=max_optimisation_duration,
                                   connections=lanelet_connections,
                                   check_topology=True)
-    optimal_order, optimization_history = optimiser.optimise()
+    optimal_order, optimization_history = optimiser.optimize()
     print("Lane topology:")
     print(f"Optimisation history: {optimization_history}")
 
@@ -151,7 +151,7 @@ def optimize_x_graph(max_optimisation_duration: int,
                                      max_optimisation_duration=max_optimisation_duration,
                                      straight_non_straight_maneuver_penalty=straight_non_straight_maneuver_penalty,
                                      non_straight_straight_maneuver_penalty=non_straight_straight_maneuver_penalty)
-    optimal_order, optimization_history = optimiser.optimise()
+    optimal_order, optimization_history = optimiser.optimize()
 
     print("X-Graph")
     if print_history:
@@ -174,7 +174,7 @@ def optimize_normal(max_optimisation_duration):
                                   max_optimisation_duration=max_optimisation_duration,
                                   connections=set(),
                                   check_topology=False)
-    optimal_order, optimization_history = optimiser.optimise()
+    optimal_order, optimization_history = optimiser.optimize()
 
     print("Normal")
     print(f"Optimisation history: {optimization_history}")

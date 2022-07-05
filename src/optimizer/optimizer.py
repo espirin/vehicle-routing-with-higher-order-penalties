@@ -1,37 +1,39 @@
-from typing import List, Dict, Tuple, Set
+from abc import ABC, abstractmethod
+from typing import List, Dict, Tuple
 
-from ortools.constraint_solver import pywrapcp, routing_enums_pb2
+from ortools.constraint_solver import routing_enums_pb2, pywrapcp
 
-from src.optimiser.monitor import RoutingMonitor
-from src.routing_problem.lanelet import Lanelet
+from src.optimizer.monitor import RoutingMonitor
 
 
-class LaneletsOptimiser:
-    def __init__(self, lanelets: List[Lanelet], matrix: Dict[str, Dict[str, int]],
+class Optimizer(ABC):
+    """
+    Optimizer solves Vehicle Routing Problem.
+
+    See: https://developers.google.com/optimization/routing/vrp
+    """
+
+    def __init__(self,
+                 nodes: List,
+                 matrix: Dict[str, Dict[str, int]],
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,
                  first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy,
-                 max_optimisation_duration: int, connections: Set, check_topology: bool = True):
-        self.lanelets = lanelets
+                 max_optimisation_duration: int):
+        # Shared attributes
+        self.nodes: List = nodes
         self.matrix: Dict[str, Dict[str, int]] = matrix
-        self.connections: Set = connections
+        self.local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic = local_search_metaheuristic
+        self.first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy = first_solution_strategy
+        self.max_optimisation_duration: int = max_optimisation_duration
 
         # Create routing model
-        self.manager = pywrapcp.RoutingIndexManager(len(self.lanelets), 1, [0],
-                                                    [len(self.lanelets) - 1])
+        self.manager = pywrapcp.RoutingIndexManager(len(self.nodes), 1, [0], [len(self.nodes) - 1])
         self.routing = pywrapcp.RoutingModel(self.manager)
         self.monitor = RoutingMonitor(self.routing)
         self.routing.AddAtSolutionCallback(self.monitor)
 
-        # Create distance callback
-        def distance_callback(from_index, to_index):
-            from_element_index = self.manager.IndexToNode(from_index)
-            to_element_index = self.manager.IndexToNode(to_index)
-
-            from_lanelet = self.lanelets[from_element_index]
-            to_lanelet = self.lanelets[to_element_index]
-            return from_lanelet.get_cost_to(to_lanelet, matrix, self.connections, check_topology)
-
-        transit_callback_index = self.routing.RegisterTransitCallback(distance_callback)
+        # Register transit callback
+        transit_callback_index = self.routing.RegisterTransitCallback(self.distance_callback)
         self.routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)
 
         # Set routing parameters
@@ -40,15 +42,20 @@ class LaneletsOptimiser:
         self.search_parameters.local_search_metaheuristic = local_search_metaheuristic
         self.search_parameters.time_limit.seconds = max_optimisation_duration
 
-    def optimise(self) -> Tuple[List[Lanelet], Dict]:
+    @abstractmethod
+    def distance_callback(self, from_index, to_index) -> int:
+        pass
+
+    def optimize(self) -> Tuple[List, Dict[str, int]]:
         assignment = self.routing.SolveWithParameters(self.search_parameters)
         if self.routing.status() != 1:
             raise Exception(f"Routing failed. Routing status {self.routing.status()}")
         optimal_order = self.format_solution(assignment)
         optimisation_history = self.monitor.optimization_history
+
         return optimal_order, optimisation_history
 
-    def format_solution(self, assignment) -> List[Lanelet]:
+    def format_solution(self, assignment) -> List:
         index = self.routing.Start(0)
         optimal_order = []
         route_objective = 0
@@ -58,7 +65,10 @@ class LaneletsOptimiser:
             index = assignment.Value(self.routing.NextVar(index))
             route_objective += self.routing.GetArcCostForVehicle(previous_index, index, 0)
         optimal_order.append(self.manager.IndexToNode(index))
-        optimal_order = [self.lanelets[i] for i in optimal_order]
+        optimal_order = [self.nodes[i] for i in optimal_order]
+
+        # Check if the route is empty
         if route_objective == 0:
             raise Exception("Optimiser error. Route objective 0. ")
+
         return optimal_order

@@ -4,7 +4,7 @@ from typing import List
 
 from ortools.constraint_solver.routing_enums_pb2 import FirstSolutionStrategy, LocalSearchMetaheuristic
 
-from src.optimiser.connections_optimiser import ConnectionsOptimiser
+from src.optimiser.lane_topology_optimiser import ConnectionsOptimiser
 from src.routing_problem.connections.complete import CompleteConnection, LastConnection, FirstConnection
 from src.routing_problem.creator.creator import create_routing_problem
 from src.routing_problem.routing_problem import RoutingProblem
@@ -50,7 +50,7 @@ def optimize(solution_strategy, first_solution_strategy, duration):
                                      local_search_metaheuristic=solution_strategy,
                                      first_solution_strategy=first_solution_strategy,
                                      max_optimisation_duration=duration)
-    optimal_order, optimization_history = optimiser.optimise()
+    optimal_order, optimization_history = optimiser.optimize()
     print(f"{first_solution_strategy} - Optimisation history: {optimization_history}")
     # optimal_order = optimal_order[1:-1]
 

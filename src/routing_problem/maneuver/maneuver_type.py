@@ -2,6 +2,14 @@ from enum import Enum
 
 
 class ManeuverType(Enum):
+    """
+    ManeuverType is OSRM's internal Enum representing maneuver type.
+
+    It is created with the help of Atlatec's proprietary OSRM fork.
+
+    See: http://project-osrm.org/docs/v5.24.0/api/#stepmaneuver-object
+    """
+
     Invalid = 0  # no valid turn instruction
     NewName = 1  # no turn, but name changes
     Continue = 2  # remain on a street

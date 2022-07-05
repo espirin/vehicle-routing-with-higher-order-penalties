@@ -1,13 +1,15 @@
 from abc import ABC, abstractmethod
-from typing import Dict, List
+from typing import Dict
 
 from utm import to_latlon, from_latlon, latitude_to_zone_letter, latlon_to_zone_number
 
-from src.json.serialisable import Serialisable
+from src.abstract.serialisable import Serialisable
 
 
 class Coordinates(Serialisable, ABC):
-    """Coordinates is an abstract class for different types of coordinates."""
+    """
+    Coordinates is an abstract class for different types of coordinates.
+    """
 
     @abstractmethod
     def check_validity(self):
@@ -15,7 +17,9 @@ class Coordinates(Serialisable, ABC):
 
 
 class LatLon(Coordinates):
-    """LatLon coordinates"""
+    """
+    LatLon coordinates.
+    """
 
     def __init__(self, lat: float = None, lon: float = None, utm=None, zone_latlon=None):
         self.lat = None
@@ -61,7 +65,11 @@ class LatLon(Coordinates):
 
 
 class UTM(Coordinates):
-    """UTM coordinates: https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system"""
+    """
+    UTM coordinates.
+
+    See: https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system
+    """
 
     def __init__(self, north: float = None, east: float = None, zone_latlon: LatLon = None):
         self.north = None
@@ -102,7 +110,13 @@ class UTM(Coordinates):
 
 
 class Position(Serialisable):
-    """Position is a container for coordinates. Position can have multiple coordinates-representations"""
+    """
+    Position is a container for coordinates.
+
+    Position has two coordinates representations:
+    - lat, lon
+    - UTM
+    """
 
     def __init__(self, latlon: LatLon = None, utm: UTM = None, zone_latlon: LatLon = None):
         self.latlon = None
@@ -158,7 +172,11 @@ class Position(Serialisable):
 
 
 class Node(Serialisable):
-    """Node is a point on map, a part of a segment. Each node has a position."""
+    """
+    Node is a point on map. E.g. a part of a segment.
+
+    Each node has a position.
+    """
 
     def __init__(self, position: Position, attributes: Dict = None):
         if attributes is None:
@@ -187,18 +205,3 @@ class Node(Serialisable):
 
     def __hash__(self):
         return hash((self.position.latlon.lat, self.position.latlon.lon))
-
-
-def separate_nodes_into_utm_groups(nodes: List[Node]) -> List[List[Node]]:
-    # Separate nodes into groups into UTM zones (0-6-12-18-...)
-    utm_zone_groups = []
-    for node in nodes:
-        found = False
-        for group in utm_zone_groups:
-            if node.position.latlon.lon // 6 == group[0].position.latlon.lon // 6:
-                group.append(node)
-                found = True
-        if not found:
-            utm_zone_groups.append([node])
-
-    return utm_zone_groups

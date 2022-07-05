@@ -10,6 +10,10 @@ from src.routing_problem.segment import Segment
 
 
 class RoutingProblemParser:
+    """
+    RoutingProblemParser parses routing problems from .osm files.
+    """
+    
     def __init__(self, path: str):
         self.path: str = path
 

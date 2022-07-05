@@ -8,13 +8,16 @@ from src.geo.geo import Node
 
 
 class FigureWithNodes(ABC):
-    """Any figure with nodes"""
+    """
+    FigureWithNodes represents any geospatial figure that has nodes. E.g. segment.
+    """
 
     def __init__(self, nodes: List[Node]):
         self.nodes = nodes
         self.original_nodes = nodes
 
     def get_length(self) -> float:
+        # Convert lat, lon to UTM coordinates
         utm_zone_number = latlon_to_zone_number(self.original_nodes[0].position.latlon.lat,
                                                 self.original_nodes[0].position.latlon.lon)
         nodes = []
