@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Dict, Tuple
 
 from geojson import FeatureCollection
 from mapboxgl import LinestringViz
@@ -7,6 +7,7 @@ from src.abstract.serialisable import Serialisable
 from src.config.map import satellite_style
 from src.geometry.geometry import shorten_line
 from src.routing_problem.lanelet import Lanelet
+from src.routing_problem.maneuver.maneuver import Maneuver
 from src.routing_problem.segment import Segment
 
 
@@ -21,7 +22,9 @@ class RoutingProblem(Serialisable):
         self.lanelets: List[Lanelet] = lanelets
         self.segments: List[Segment] = segments
 
+        # Generated attributes
         self.center: List[float] = self.calculate_center_coordinates(segments)
+        self.maneuvers: Dict[Tuple[str, str], Maneuver] = self.create_maneuvers()
 
     def to_json(self):
         return [lanelet.to_json() for lanelet in self.lanelets]
@@ -51,6 +54,13 @@ class RoutingProblem(Serialisable):
             elif lanelet.get_length() > 5:
                 lanelet.nodes = shorten_line(lanelet.nodes, 1, cut_beginning=True)
                 lanelet.nodes = shorten_line(lanelet.nodes, 1, cut_beginning=False)
+
+    def create_maneuvers(self) -> Dict[Tuple[str, str], Maneuver]:
+        maneuvers = dict()
+        for segment in self.segments:
+            maneuvers.update(segment.next_maneuvers)
+
+        return maneuvers
 
     def visualize(self, zoom=14):
         geojson = FeatureCollection(features=self.to_json())
