@@ -1,6 +1,6 @@
 from geojson import Feature, LineString
 
-from src.entities.figure_with_nodes import FigureWithNodes
+from src.abstract.figure_with_nodes import FigureWithNodes
 from src.abstract.serialisable import Serialisable
 from src.routing_problem.lanelet import Lanelet
 from src.routing_problem.maneuver.maneuver import Maneuver

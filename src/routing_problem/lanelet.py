@@ -10,6 +10,11 @@ from src.routing_problem.segment import Segment
 
 
 class Lanelet(FigureWithNodes, Serialisable):
+    """
+    Lanelet is a lane of a segment. In this project there is no separate Passlet class, because a Passlet is a Lanelet
+    without lane topology. Lanelets are used both as lanelets and passlets.
+    """
+
     def __init__(self, nodes: List[Node], lane: int, segment: Optional[Segment]):
         super().__init__(nodes)
         self.lane: int = lane

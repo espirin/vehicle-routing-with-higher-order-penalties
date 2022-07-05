@@ -2,8 +2,14 @@ import resource
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
 
+from src.config.config import MEMORY_HISTORY_DELTA
 
-class MemoryMonitor:
+
+class ResourcesMonitor:
+    """
+    ResourcesMonitor logs resources usage of a running Python process.
+    """
+
     def __init__(self):
         self.keep_measuring = True
 
@@ -11,7 +17,7 @@ class MemoryMonitor:
         memory_usage = []
         while self.keep_measuring:
             memory_usage.append(round(resource.getrusage(resource.RUSAGE_SELF).ru_maxrss / 2 ** 20, 2))
-            sleep(1)
+            sleep(MEMORY_HISTORY_DELTA)
 
         system_mode_time = resource.getrusage(resource.RUSAGE_SELF).ru_stime
         user_mode_time = resource.getrusage(resource.RUSAGE_SELF).ru_utime
@@ -21,7 +27,7 @@ class MemoryMonitor:
 
 def measure_resources_usage(function):
     with ThreadPoolExecutor() as executor:
-        monitor = MemoryMonitor()
+        monitor = ResourcesMonitor()
         mem_thread = executor.submit(monitor.measure_usage)
         try:
             fn_thread = executor.submit(function)

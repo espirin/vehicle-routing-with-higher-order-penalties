@@ -1,5 +1,5 @@
 from optimizations import optimize_x_graph
-from src.resources_monitor import measure_resources_usage
+from src.helpers.resources_monitor import measure_resources_usage
 
 if __name__ == '__main__':
     # measure_resources_usage(lambda: optimize_lane_topology(600))
