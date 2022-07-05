@@ -1,4 +1,4 @@
-from typing import List, Optional, Dict
+from typing import List, Optional, Dict, Set
 
 from geojson import LineString, Feature
 
@@ -42,19 +42,38 @@ class Lanelet(FigureWithNodes, Serialisable):
                        })
 
     def get_cost_to(self, lanelet, matrix: Dict[str, Dict[str, int]],
-                    lanelet_connections: Dict) -> int:
-        # If pair is connected, check lanelet connections
-        if lanelet.segment.id in self.segment.next_segment_ids:
-            if (self, lanelet) in lanelet_connections:
-                return 0
-            else:
+                    lanelet_connections: Set, check_topology: bool = True) -> int:
+        if isinstance(lanelet, LastLanelet):
+            return 0
+
+        if check_topology:
+            # If pair is connected, check lanelet connections
+            if lanelet.segment.id in self.segment.next_segment_ids:
+                if (self, lanelet) in lanelet_connections:
+                    return 0
+                else:
+                    return OPTIMISER_INFINITY
+
+            # If not, check if it's the same segment
+            if self.segment.id == lanelet.segment.id:
                 return OPTIMISER_INFINITY
 
-        # If not, check if it's the same segment
-        if self.segment.id == lanelet.segment.id:
-            return OPTIMISER_INFINITY
-
-        if self.has_outgoing_connection:
-            return matrix[self.segment.id][lanelet.segment.id] + 300
+            # Penalize for not choosing an existing connection
+            if self.has_outgoing_connection:
+                return matrix[self.segment.id][lanelet.segment.id] + 300
 
         return matrix[self.segment.id][lanelet.segment.id]
+
+
+class FirstLanelet(Lanelet):
+    def __init__(self):
+        super().__init__([], 0, None)
+
+    def get_cost_to(self, lanelet, matrix: Dict[str, Dict[str, int]],
+                    lanelet_connections: Set, check_topology: bool = True) -> int:
+        return 0
+
+
+class LastLanelet(Lanelet):
+    def __init__(self):
+        super().__init__([], 0, None)

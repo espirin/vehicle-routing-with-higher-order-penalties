@@ -1,0 +1,3162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-479927' visible='true' lat='48.13676309703' lon='11.61507996185' />
+  <node id='-479928' visible='true' lat='48.13677009704' lon='11.6152229618' />
+  <node id='-479929' visible='true' lat='48.13677047667' lon='11.61522682578' />
+  <node id='-479930' visible='true' lat='48.13681012222' lon='11.61549360673' />
+  <node id='-479931' visible='true' lat='48.13681839973' lon='11.6155493079' />
+  <node id='-479932' visible='true' lat='48.13685329831' lon='11.61583747023' />
+  <node id='-479933' visible='true' lat='48.13690074773' lon='11.61629080973' />
+  <node id='-479934' visible='true' lat='48.13694526328' lon='11.61671613487' />
+  <node id='-479935' visible='true' lat='48.13703726144' lon='11.61760311644' />
+  <node id='-479936' visible='true' lat='48.13703727345' lon='11.61760323064' />
+  <node id='-479937' visible='true' lat='48.13704527345' lon='11.61767823061' />
+  <node id='-479938' visible='true' lat='48.13704529213' lon='11.61767840219' />
+  <node id='-479939' visible='true' lat='48.1370502738' lon='11.61772323715' />
+  <node id='-479940' visible='true' lat='48.13705425684' lon='11.61776207178' />
+  <node id='-479941' visible='true' lat='48.1370545711' lon='11.61776442711' />
+  <node id='-479942' visible='true' lat='48.1370695711' lon='11.61785542709' />
+  <node id='-479943' visible='true' lat='48.13706958837' lon='11.61785553096' />
+  <node id='-479944' visible='true' lat='48.13709758837' lon='11.61802253091' />
+  <node id='-479945' visible='true' lat='48.13501095565' lon='11.61572737331' />
+  <node id='-479946' visible='true' lat='48.13505895565' lon='11.61570237333' />
+  <node id='-479947' visible='true' lat='48.13498545314' lon='11.61556545968' />
+  <node id='-479953' visible='true' lat='48.13505406012' lon='11.61570382732' />
+  <node id='-479954' visible='true' lat='48.13526506012' lon='11.61568582743' />
+  <node id='-479955' visible='true' lat='48.1352691375' lon='11.61568476706' />
+  <node id='-479956' visible='true' lat='48.13572613752' lon='11.61548276727' />
+  <node id='-479978' visible='true' lat='48.13505743746' lon='11.6155230059' />
+  <node id='-479979' visible='true' lat='48.13498443747' lon='11.61556600593' />
+  <node id='-479992' visible='true' lat='48.13709759611' lon='11.61802257689' />
+  <node id='-479993' visible='true' lat='48.13712251917' lon='11.61817012132' />
+  <node id='-479994' visible='true' lat='48.13713742768' lon='11.61827348697' />
+  <node id='-479995' visible='true' lat='48.137154404' lon='11.6183993114' />
+  <node id='-479996' visible='true' lat='48.1371545329' lon='11.61840019045' />
+  <node id='-479997' visible='true' lat='48.13717045881' lon='11.61850072272' />
+  <node id='-479998' visible='true' lat='48.13717239596' lon='11.61851525136' />
+  <node id='-479999' visible='true' lat='48.13717304562' lon='11.61851882063' />
+  <node id='-480000' visible='true' lat='48.13719294348' lon='11.6186043814' />
+  <node id='-480001' visible='true' lat='48.13722262623' lon='11.61874784794' />
+  <node id='-480002' visible='true' lat='48.13724140521' lon='11.61887633564' />
+  <node id='-480003' visible='true' lat='48.13726130555' lon='11.61903553825' />
+  <node id='-480004' visible='true' lat='48.13729026399' lon='11.61931313969' />
+  <node id='-480005' visible='true' lat='48.13729032809' lon='11.61931371327' />
+  <node id='-480006' visible='true' lat='48.13730825142' lon='11.61946406999' />
+  <node id='-480007' visible='true' lat='48.13732210389' lon='11.61962535225' />
+  <node id='-480008' visible='true' lat='48.13732606812' lon='11.61975022488' />
+  <node id='-480009' visible='true' lat='48.13733106666' lon='11.61992117469' />
+  <node id='-480010' visible='true' lat='48.13733106994' lon='11.61992128179' />
+  <node id='-480011' visible='true' lat='48.13733403223' lon='11.62001410006' />
+  <node id='-480012' visible='true' lat='48.13733306418' lon='11.62004991796' />
+  <node id='-480013' visible='true' lat='48.13733305304' lon='11.62005047166' />
+  <node id='-480014' visible='true' lat='48.13733005306' lon='11.62027747158' />
+  <node id='-480031' visible='true' lat='48.13572544229' lon='11.61548305207' />
+  <node id='-480032' visible='true' lat='48.13601117067' lon='11.61537515478' />
+  <node id='-480033' visible='true' lat='48.13649189704' lon='11.6152172449' />
+  <node id='-480041' visible='true' lat='48.13769317383' lon='11.61711868169' />
+  <node id='-480042' visible='true' lat='48.13788202708' lon='11.617084887' />
+  <node id='-480043' visible='true' lat='48.13802843808' lon='11.6170868656' />
+  <node id='-480044' visible='true' lat='48.13809800468' lon='11.61709282849' />
+  <node id='-480045' visible='true' lat='48.13767308074' lon='11.61709359012' />
+  <node id='-480046' visible='true' lat='48.13768958233' lon='11.61751001121' />
+  <node id='-480047' visible='true' lat='48.1376675622' lon='11.6175408394' />
+  <node id='-480048' visible='true' lat='48.13766573674' lon='11.61754339505' />
+  <node id='-480049' visible='true' lat='48.13766261674' lon='11.61754916656' />
+  <node id='-480050' visible='true' lat='48.13766067204' lon='11.61755599272' />
+  <node id='-480051' visible='true' lat='48.13766005087' lon='11.61756335318' />
+  <node id='-480052' visible='true' lat='48.1376630509' lon='11.61790635306' />
+  <node id='-480055' visible='true' lat='48.13769901894' lon='11.61790565101' />
+  <node id='-480056' visible='true' lat='48.1376961226' lon='11.61757450366' />
+  <node id='-480057' visible='true' lat='48.13770319046' lon='11.61756460866' />
+  <node id='-480058' visible='true' lat='48.13772033305' lon='11.61754060904' />
+  <node id='-480059' visible='true' lat='48.13772359341' lon='11.61753448223' />
+  <node id='-480060' visible='true' lat='48.1377255336' lon='11.61752721161' />
+  <node id='-480061' visible='true' lat='48.13772598901' lon='11.61751941409' />
+  <node id='-480062' visible='true' lat='48.13770898898' lon='11.61709041394' />
+  <node id='-480067' visible='true' lat='48.13830807816' lon='11.62613950397' />
+  <node id='-480075' visible='true' lat='48.13775906297' lon='11.61837804553' />
+  <node id='-480076' visible='true' lat='48.13776806299' lon='11.61872404541' />
+  <node id='-480077' visible='true' lat='48.13777703495' lon='11.61840387243' />
+  <node id='-480078' visible='true' lat='48.13785503495' lon='11.61840387247' />
+  <node id='-480079' visible='true' lat='48.13774906355' lon='11.61800206893' />
+  <node id='-480080' visible='true' lat='48.13775906358' lon='11.6183780688' />
+  <node id='-480081' visible='true' lat='48.13779500633' lon='11.61837593528' />
+  <node id='-480082' visible='true' lat='48.1377850063' lon='11.61799993515' />
+  <node id='-480083' visible='true' lat='48.13768887915' lon='11.61706532538' />
+  <node id='-480084' visible='true' lat='48.13725087917' lon='11.61714432561' />
+  <node id='-480085' visible='true' lat='48.13725001755' lon='11.61714451273' />
+  <node id='-480086' visible='true' lat='48.13713201756' lon='11.61717451279' />
+  <node id='-480087' visible='true' lat='48.13797203495' lon='11.61840387253' />
+  <node id='-480088' visible='true' lat='48.13800403495' lon='11.61840387255' />
+  <node id='-480089' visible='true' lat='48.13808703495' lon='11.61840387259' />
+  <node id='-480090' visible='true' lat='48.13785503495' lon='11.61840387247' />
+  <node id='-480091' visible='true' lat='48.13797203495' lon='11.61840387253' />
+  <node id='-480092' visible='true' lat='48.13797203495' lon='11.61835013155' />
+  <node id='-480093' visible='true' lat='48.13785503495' lon='11.61835013161' />
+  <node id='-480094' visible='true' lat='48.13780400696' lon='11.61872195867' />
+  <node id='-480095' visible='true' lat='48.13779500694' lon='11.61837595855' />
+  <node id='-480096' visible='true' lat='48.13785503495' lon='11.61835013161' />
+  <node id='-480097' visible='true' lat='48.13777703495' lon='11.61835013165' />
+  <node id='-480098' visible='true' lat='48.13598868182' lon='11.61494993133' />
+  <node id='-480099' visible='true' lat='48.13577668185' lon='11.61502893143' />
+  <node id='-480100' visible='true' lat='48.1357758338' lon='11.61502928057' />
+  <node id='-480101' visible='true' lat='48.13558083382' lon='11.61511728066' />
+  <node id='-480102' visible='true' lat='48.13557914254' lon='11.61511818386' />
+  <node id='-480103' visible='true' lat='48.13519514261' lon='11.61535618402' />
+  <node id='-480104' visible='true' lat='48.13519071381' lon='11.61536012353' />
+  <node id='-480105' visible='true' lat='48.13505271385' lon='11.61552712355' />
+  <node id='-480106' visible='true' lat='48.13762935104' lon='11.61944410222' />
+  <node id='-480107' visible='true' lat='48.13761135106' lon='11.61958910217' />
+  <node id='-480108' visible='true' lat='48.13761107631' lon='11.61959253557' />
+  <node id='-480109' visible='true' lat='48.13760807631' lon='11.61967453554' />
+  <node id='-480110' visible='true' lat='48.13760843669' lon='11.61968154746' />
+  <node id='-480111' visible='true' lat='48.13762043669' lon='11.61976654743' />
+  <node id='-480112' visible='true' lat='48.13762095016' lon='11.61976939851' />
+  <node id='-480113' visible='true' lat='48.13764495016' lon='11.61987839848' />
+  <node id='-480114' visible='true' lat='48.13767911997' lon='11.61986160562' />
+  <node id='-480115' visible='true' lat='48.13765542919' lon='11.61975401002' />
+  <node id='-480116' visible='true' lat='48.13764412336' lon='11.61967392706' />
+  <node id='-480117' visible='true' lat='48.13764693049' lon='11.61959719846' />
+  <node id='-480118' visible='true' lat='48.13766471903' lon='11.61945390187' />
+  <node id='-480119' visible='true' lat='48.13808703495' lon='11.61835013149' />
+  <node id='-480120' visible='true' lat='48.13800403495' lon='11.61835013153' />
+  <node id='-480121' visible='true' lat='48.13797203495' lon='11.61835013155' />
+  <node id='-480122' visible='true' lat='48.13764667466' lon='11.61942213713' />
+  <node id='-480123' visible='true' lat='48.1374819452' lon='11.61942706923' />
+  <node id='-480124' visible='true' lat='48.13739315577' lon='11.61939584662' />
+  <node id='-480125' visible='true' lat='48.13806905231' lon='11.61837651846' />
+  <node id='-480126' visible='true' lat='48.13806805232' lon='11.61845951843' />
+  <node id='-480127' visible='true' lat='48.13738405046' lon='11.62057426739' />
+  <node id='-480128' visible='true' lat='48.13738705049' lon='11.62102826723' />
+  <node id='-480129' visible='true' lat='48.13738706879' lon='11.62102924234' />
+  <node id='-480130' visible='true' lat='48.13739606881' lon='11.62132024224' />
+  <node id='-480131' visible='true' lat='48.13739636111' lon='11.62132398103' />
+  <node id='-480132' visible='true' lat='48.13742236111' lon='11.62152998097' />
+  <node id='-480133' visible='true' lat='48.13742264786' lon='11.62153187444' />
+  <node id='-480134' visible='true' lat='48.13745664787' lon='11.62172387438' />
+  <node id='-480135' visible='true' lat='48.13745729158' lon='11.62172681362' />
+  <node id='-480136' visible='true' lat='48.13754629158' lon='11.62206581353' />
+  <node id='-480137' visible='true' lat='48.13754692804' lon='11.62206795751' />
+  <node id='-480138' visible='true' lat='48.13768692803' lon='11.62248895741' />
+  <node id='-480139' visible='true' lat='48.13810501882' lon='11.61837736969' />
+  <node id='-480140' visible='true' lat='48.13811701873' lon='11.61706636923' />
+  <node id='-480151' visible='true' lat='48.13784907696' lon='11.61944151751' />
+  <node id='-480152' visible='true' lat='48.13784415176' lon='11.6195744982' />
+  <node id='-480153' visible='true' lat='48.13783255213' lon='11.61965762891' />
+  <node id='-480154' visible='true' lat='48.13781196047' lon='11.61976745117' />
+  <node id='-480155' visible='true' lat='48.13779129111' lon='11.6198461916' />
+  <node id='-480159' visible='true' lat='48.13782477902' lon='11.6198658125' />
+  <node id='-480160' visible='true' lat='48.13784577902' lon='11.61978581248' />
+  <node id='-480161' visible='true' lat='48.13784635392' lon='11.61978325014' />
+  <node id='-480162' visible='true' lat='48.13786735392' lon='11.6196712501' />
+  <node id='-480163' visible='true' lat='48.13786764208' lon='11.61966948573' />
+  <node id='-480164' visible='true' lat='48.13787964208' lon='11.6195834857' />
+  <node id='-480165' visible='true' lat='48.13787999312' lon='11.61957948663' />
+  <node id='-480166' visible='true' lat='48.13788499311' lon='11.61944448658' />
+  <node id='-480167' visible='true' lat='48.13786670676' lon='11.61941613609' />
+  <node id='-480168' visible='true' lat='48.13764670676' lon='11.61942213621' />
+  <node id='-480185' visible='true' lat='48.13644276363' lon='11.61480158042' />
+  <node id='-480186' visible='true' lat='48.13636676363' lon='11.61482258045' />
+  <node id='-480187' visible='true' lat='48.13636607845' lon='11.61482279045' />
+  <node id='-480188' visible='true' lat='48.13598907848' lon='11.61494979063' />
+  <node id='-480210' visible='true' lat='48.13501077607' lon='11.61572746525' />
+  <node id='-480211' visible='true' lat='48.13824782303' lon='11.61848487081' />
+  <node id='-480225' visible='true' lat='48.13824821734' lon='11.61843113279' />
+  <node id='-480226' visible='true' lat='48.13818221734' lon='11.61843013282' />
+  <node id='-480227' visible='true' lat='48.13818165883' lon='11.61843013731' />
+  <node id='-480228' visible='true' lat='48.13808565883' lon='11.61843313737' />
+  <node id='-480251' visible='true' lat='48.13826911359' lon='11.62544925997' />
+  <node id='-480252' visible='true' lat='48.13830811364' lon='11.62614025973' />
+  <node id='-480253' visible='true' lat='48.1350589276' lon='11.6157023879' />
+  <node id='-480254' visible='true' lat='48.135390907' lon='11.61553039873' />
+  <node id='-480255' visible='true' lat='48.1354976579' lon='11.61547552682' />
+  <node id='-480256' visible='true' lat='48.1357762876' lon='11.61534470082' />
+  <node id='-480257' visible='true' lat='48.13599456276' lon='11.61524802198' />
+  <node id='-480258' visible='true' lat='48.13644196803' lon='11.61509822133' />
+  <node id='-480259' visible='true' lat='48.13799634913' lon='11.61456843271' />
+  <node id='-480260' visible='true' lat='48.13641834922' lon='11.61492443352' />
+  <node id='-480317' visible='true' lat='48.13800030479' lon='11.61456819856' />
+  <node id='-480318' visible='true' lat='48.13789630479' lon='11.61455719862' />
+  <node id='-480319' visible='true' lat='48.13789512586' lon='11.61455713188' />
+  <node id='-480320' visible='true' lat='48.13776312586' lon='11.61455613195' />
+  <node id='-480321' visible='true' lat='48.13776069184' lon='11.61455636055' />
+  <node id='-480322' visible='true' lat='48.13727669186' lon='11.61465136079' />
+  <node id='-480323' visible='true' lat='48.13727525609' lon='11.61465173154' />
+  <node id='-480324' visible='true' lat='48.13700425612' lon='11.61473873167' />
+  <node id='-480325' visible='true' lat='48.13700195865' lon='11.61473971174' />
+  <node id='-480326' visible='true' lat='48.13693295866' lon='11.61477671177' />
+  <node id='-480327' visible='true' lat='48.13693121809' lon='11.61477780232' />
+  <node id='-480328' visible='true' lat='48.1368882181' lon='11.61480880234' />
+  <node id='-480329' visible='true' lat='48.1368863838' lon='11.614810328' />
+  <node id='-480330' visible='true' lat='48.13684638381' lon='11.61484832801' />
+  <node id='-480331' visible='true' lat='48.13684411872' lon='11.61485087546' />
+  <node id='-480332' visible='true' lat='48.13678811874' lon='11.61492487547' />
+  <node id='-480333' visible='true' lat='48.13678669108' lon='11.61492698565' />
+  <node id='-480334' visible='true' lat='48.1367376911' lon='11.61500798565' />
+  <node id='-480335' visible='true' lat='48.1367354333' lon='11.61501263311' />
+  <node id='-480336' visible='true' lat='48.13669243332' lon='11.61512463309' />
+  <node id='-480337' visible='true' lat='48.13669202191' lon='11.61512576688' />
+  <node id='-480338' visible='true' lat='48.13665402193' lon='11.61523676686' />
+  <node id='-480339' visible='true' lat='48.13665239568' lon='11.61524375285' />
+  <node id='-480340' visible='true' lat='48.13661639571' lon='11.61551375276' />
+  <node id='-480341' visible='true' lat='48.13661614316' lon='11.61552174555' />
+  <node id='-480342' visible='true' lat='48.13663414318' lon='11.61578374546' />
+  <node id='-480343' visible='true' lat='48.1366346844' lon='11.61578807998' />
+  <node id='-480344' visible='true' lat='48.13672168441' lon='11.61626407983' />
+  <node id='-480345' visible='true' lat='48.1367223003' lon='11.61626684831' />
+  <node id='-480346' visible='true' lat='48.13684330029' lon='11.61672584819' />
+  <node id='-480347' visible='true' lat='48.13684379399' lon='11.61672754684' />
+  <node id='-480348' visible='true' lat='48.13698679398' lon='11.61717654673' />
+  <node id='-480349' visible='true' lat='48.13698693518' lon='11.61717698002' />
+  <node id='-480350' visible='true' lat='48.13701830141' lon='11.6172710787' />
+  <node id='-480351' visible='true' lat='48.13708350099' lon='11.61758127049' />
+  <node id='-480352' visible='true' lat='48.13734122813' lon='11.61988682802' />
+  <node id='-480353' visible='true' lat='48.13736016384' lon='11.62012103267' />
+  <node id='-480354' visible='true' lat='48.13737609875' lon='11.62034511715' />
+  <node id='-480355' visible='true' lat='48.1373840736' lon='11.62057539041' />
+  <node id='-480358' visible='true' lat='48.13733009337' lon='11.62027612761' />
+  <node id='-480359' visible='true' lat='48.13731909339' lon='11.62051112753' />
+  <node id='-480379' visible='true' lat='48.13768807095' lon='11.62249190827' />
+  <node id='-480380' visible='true' lat='48.13784994687' lon='11.6228546302' />
+  <node id='-480381' visible='true' lat='48.13792041807' lon='11.62302137893' />
+  <node id='-480382' visible='true' lat='48.13798879245' lon='11.62321857459' />
+  <node id='-480383' visible='true' lat='48.13803130296' lon='11.6233639012' />
+  <node id='-480384' visible='true' lat='48.13807684565' lon='11.62355498242' />
+  <node id='-480385' visible='true' lat='48.13811453802' lon='11.62376625796' />
+  <node id='-480386' visible='true' lat='48.13814435366' lon='11.62397596117' />
+  <node id='-480387' visible='true' lat='48.13817725048' lon='11.62427701676' />
+  <node id='-480388' visible='true' lat='48.13820919931' lon='11.62462046634' />
+  <node id='-480389' visible='true' lat='48.13824714823' lon='11.62508883546' />
+  <node id='-480390' visible='true' lat='48.13826912407' lon='11.62544943845' />
+  <node id='-480400' visible='true' lat='48.13678688487' lon='11.61510341078' />
+  <node id='-480401' visible='true' lat='48.13685867856' lon='11.61506651683' />
+  <node id='-480402' visible='true' lat='48.13686985572' lon='11.6150612224' />
+  <node id='-480403' visible='true' lat='48.13687747058' lon='11.61505761536' />
+  <node id='-480404' visible='true' lat='48.13687804212' lon='11.61505732879' />
+  <node id='-480405' visible='true' lat='48.13689088804' lon='11.61505052802' />
+  <node id='-480406' visible='true' lat='48.13689492987' lon='11.61504838823' />
+  <node id='-480407' visible='true' lat='48.13696381711' lon='11.61501344546' />
+  <node id='-480408' visible='true' lat='48.13731905012' lon='11.62051321065' />
+  <node id='-480409' visible='true' lat='48.13732105015' lon='11.62089821052' />
+  <node id='-480455' visible='true' lat='48.13668318001' lon='11.61385123898' />
+  <node id='-480456' visible='true' lat='48.1366876586' lon='11.61390664986' />
+  <node id='-480457' visible='true' lat='48.1367421249' lon='11.61458055628' />
+  <node id='-480458' visible='true' lat='48.13674609111' lon='11.6146648383' />
+  <node id='-480459' visible='true' lat='48.13675108897' lon='11.61477679012' />
+  <node id='-480464' visible='true' lat='48.13675108051' lon='11.61477658911' />
+  <node id='-480465' visible='true' lat='48.13676308053' lon='11.61507958901' />
+  <node id='-480466' visible='true' lat='48.13676926842' lon='11.61474813439' />
+  <node id='-480467' visible='true' lat='48.13666626842' lon='11.61474613444' />
+  <node id='-480468' visible='true' lat='48.13666306624' lon='11.61474650067' />
+  <node id='-480469' visible='true' lat='48.13644306625' lon='11.61480150078' />
+  <node id='-480471' visible='true' lat='48.1384799852' lon='11.62601730679' />
+  <node id='-480472' visible='true' lat='48.13845198561' lon='11.62535131749' />
+  <node id='-480473' visible='true' lat='48.13845194772' lon='11.62535057909' />
+  <node id='-480474' visible='true' lat='48.13840194764' lon='11.6245255788' />
+  <node id='-480475' visible='true' lat='48.13840185731' lon='11.62452438577' />
+  <node id='-480476' visible='true' lat='48.13837385727' lon='11.62421638566' />
+  <node id='-480477' visible='true' lat='48.13837375808' lon='11.6242154251' />
+  <node id='-480478' visible='true' lat='48.13834575805' lon='11.62397342502' />
+  <node id='-480479' visible='true' lat='48.13834559274' lon='11.62397217393' />
+  <node id='-480480' visible='true' lat='48.13831659272' lon='11.62377717387' />
+  <node id='-480481' visible='true' lat='48.13831636968' lon='11.623775837' />
+  <node id='-480482' visible='true' lat='48.13828636966' lon='11.62361383694' />
+  <node id='-480508' visible='true' lat='48.13874380269' lon='11.61459026124' />
+  <node id='-480509' visible='true' lat='48.138742754' lon='11.61459015259' />
+  <node id='-480510' visible='true' lat='48.13814075398' lon='11.6145541529' />
+  <node id='-480511' visible='true' lat='48.13813884198' lon='11.61455419055' />
+  <node id='-480512' visible='true' lat='48.13799784199' lon='11.61456819062' />
+  <node id='-480552' visible='true' lat='48.13700200168' lon='11.61552477945' />
+  <node id='-480553' visible='true' lat='48.13699700167' lon='11.61536077939' />
+  <node id='-480554' visible='true' lat='48.13699693865' lon='11.61535944455' />
+  <node id='-480555' visible='true' lat='48.13698895247' lon='11.61523466071' />
+  <node id='-480556' visible='true' lat='48.13698296568' lon='11.61512190956' />
+  <node id='-480557' visible='true' lat='48.13697596733' lon='11.61498594189' />
+  <node id='-480558' visible='true' lat='48.13732105376' lon='11.62089857957' />
+  <node id='-480559' visible='true' lat='48.13732505378' lon='11.62117657948' />
+  <node id='-480560' visible='true' lat='48.1373251946' lon='11.62117940679' />
+  <node id='-480561' visible='true' lat='48.13734819461' lon='11.6214484067' />
+  <node id='-480562' visible='true' lat='48.1373484506' lon='11.62145064409' />
+  <node id='-480563' visible='true' lat='48.13737145061' lon='11.62161064404' />
+  <node id='-480564' visible='true' lat='48.13737181327' lon='11.62161274843' />
+  <node id='-480565' visible='true' lat='48.13742481327' lon='11.62187574835' />
+  <node id='-480566' visible='true' lat='48.13742548624' lon='11.62187852495' />
+  <node id='-480567' visible='true' lat='48.13747448624' lon='11.6220505249' />
+  <node id='-480568' visible='true' lat='48.13747500546' lon='11.62205218754' />
+  <node id='-480569' visible='true' lat='48.13752200546' lon='11.62219018751' />
+  <node id='-480570' visible='true' lat='48.13752338387' lon='11.62219358665' />
+  <node id='-480571' visible='true' lat='48.13758438386' lon='11.62232158664' />
+  <node id='-480572' visible='true' lat='48.13758572399' lon='11.62232407194' />
+  <node id='-480573' visible='true' lat='48.13768972398' lon='11.62249507193' />
+  <node id='-480574' visible='true' lat='48.13720073959' lon='11.62160203411' />
+  <node id='-480575' visible='true' lat='48.13729272231' lon='11.62169797311' />
+  <node id='-480576' visible='true' lat='48.13742981218' lon='11.62188771347' />
+  <node id='-480577' visible='true' lat='48.13716518269' lon='11.62124126439' />
+  <node id='-480578' visible='true' lat='48.13719318271' lon='11.62158326428' />
+  <node id='-480579' visible='true' lat='48.13732435678' lon='11.62088247428' />
+  <node id='-480580' visible='true' lat='48.13723335682' lon='11.62107447426' />
+  <node id='-480581' visible='true' lat='48.13723299762' lon='11.62107526135' />
+  <node id='-480582' visible='true' lat='48.13716799765' lon='11.62122326132' />
+  <node id='-480587' visible='true' lat='48.13697596718' lon='11.61498593893' />
+  <node id='-480588' visible='true' lat='48.13696596716' lon='11.61479193886' />
+  <node id='-480589' visible='true' lat='48.13715282303' lon='11.61719703195' />
+  <node id='-480590' visible='true' lat='48.13704784339' lon='11.61614723635' />
+  <node id='-480591' visible='true' lat='48.13700796019' lon='11.61570154182' />
+  <node id='-480592' visible='true' lat='48.13700199755' lon='11.61552465057' />
+  <node id='-480601' visible='true' lat='48.13825823312' lon='11.61996526662' />
+  <node id='-480602' visible='true' lat='48.13713805216' lon='11.61722749129' />
+  <node id='-480603' visible='true' lat='48.13725562287' lon='11.61719760049' />
+  <node id='-480604' visible='true' lat='48.13769319056' lon='11.61711867869' />
+  <node id='-480605' visible='true' lat='48.13816871792' lon='11.61467686849' />
+  <node id='-480606' visible='true' lat='48.13828271792' lon='11.61467986855' />
+  <node id='-480607' visible='true' lat='48.1382827611' lon='11.6146798696' />
+  <node id='-480608' visible='true' lat='48.13832647648' lon='11.61468086316' />
+  <node id='-480609' visible='true' lat='48.13848300669' lon='11.61469183032' />
+  <node id='-480623' visible='true' lat='48.13650399418' lon='11.61520339169' />
+  <node id='-480624' visible='true' lat='48.13652799418' lon='11.61513439167' />
+  <node id='-480625' visible='true' lat='48.13652837641' lon='11.61513322462' />
+  <node id='-480626' visible='true' lat='48.13654437641' lon='11.61508122461' />
+  <node id='-480627' visible='true' lat='48.13654531248' lon='11.61507746577' />
+  <node id='-480628' visible='true' lat='48.13655131248' lon='11.61504646576' />
+  <node id='-480629' visible='true' lat='48.13655200943' lon='11.61503993501' />
+  <node id='-480630' visible='true' lat='48.13655300943' lon='11.614996935' />
+  <node id='-480631' visible='true' lat='48.13655265828' lon='11.61499063824' />
+  <node id='-480632' visible='true' lat='48.13654665828' lon='11.61494663822' />
+  <node id='-480633' visible='true' lat='48.13654481674' lon='11.61493911509' />
+  <node id='-480634' visible='true' lat='48.13652981673' lon='11.61489811508' />
+  <node id='-480635' visible='true' lat='48.13652706965' lon='11.61489248829' />
+  <node id='-480636' visible='true' lat='48.13650606964' lon='11.61485948829' />
+  <node id='-480637' visible='true' lat='48.13650346726' lon='11.61485611447' />
+  <node id='-480638' visible='true' lat='48.13645646724' lon='11.61480611447' />
+  <node id='-480639' visible='true' lat='48.13810605853' lon='11.61590613674' />
+  <node id='-480640' visible='true' lat='48.13808105863' lon='11.61706513634' />
+  <node id='-480641' visible='true' lat='48.13641695417' lon='11.61492483298' />
+  <node id='-480642' visible='true' lat='48.13596295422' lon='11.6150828332' />
+  <node id='-480643' visible='true' lat='48.13596224187' lon='11.61508310415' />
+  <node id='-480644' visible='true' lat='48.1357322419' lon='11.61517810426' />
+  <node id='-480645' visible='true' lat='48.13573147917' lon='11.61517844663' />
+  <node id='-480646' visible='true' lat='48.1354614792' lon='11.61530944675' />
+  <node id='-480647' visible='true' lat='48.13546103594' lon='11.61530967139' />
+  <node id='-480648' visible='true' lat='48.135058036' lon='11.61552267156' />
+  <node id='-480649' visible='true' lat='48.13649141315' lon='11.61521739348' />
+  <node id='-480650' visible='true' lat='48.13665241315' lon='11.61517139356' />
+  <node id='-480651' visible='true' lat='48.13665474291' lon='11.61517048268' />
+  <node id='-480652' visible='true' lat='48.13669674291' lon='11.6151494827' />
+  <node id='-480653' visible='true' lat='48.13669685658' lon='11.61514942523' />
+  <node id='-480654' visible='true' lat='48.13678685659' lon='11.61510342527' />
+  <node id='-480655' visible='true' lat='48.13810006502' lon='11.61703917557' />
+  <node id='-480656' visible='true' lat='48.13803006502' lon='11.61703317561' />
+  <node id='-480657' visible='true' lat='48.13802919752' lon='11.6170331326' />
+  <node id='-480658' visible='true' lat='48.13788119752' lon='11.61703113267' />
+  <node id='-480659' visible='true' lat='48.13787889587' lon='11.61703132228' />
+  <node id='-480660' visible='true' lat='48.13768889588' lon='11.61706532238' />
+  <node id='-480661' visible='true' lat='48.13808105097' lon='11.61706563484' />
+  <node id='-480662' visible='true' lat='48.13806905108' lon='11.61837663439' />
+  <node id='-480663' visible='true' lat='48.13806804941' lon='11.61846000219' />
+  <node id='-480664' visible='true' lat='48.13806804948' lon='11.6193308052' />
+  <node id='-480665' visible='true' lat='48.13806705142' lon='11.61943260849' />
+  <node id='-480666' visible='true' lat='48.13811701108' lon='11.61706686772' />
+  <node id='-480667' visible='true' lat='48.13814201101' lon='11.61590786731' />
+  <node id='-480668' visible='true' lat='48.13808641108' lon='11.61848686672' />
+  <node id='-480669' visible='true' lat='48.13818213185' lon='11.61848387549' />
+  <node id='-480670' visible='true' lat='48.13824785257' lon='11.6184848713' />
+  <node id='-480671' visible='true' lat='48.1381040176' lon='11.61846048565' />
+  <node id='-480672' visible='true' lat='48.13810501759' lon='11.61837748562' />
+  <node id='-480678' visible='true' lat='48.13811420785' lon='11.6200456758' />
+  <node id='-480679' visible='true' lat='48.13820220785' lon='11.62002967585' />
+  <node id='-480680' visible='true' lat='48.13820262485' lon='11.62002959262' />
+  <node id='-480681' visible='true' lat='48.13820400823' lon='11.62002929189' />
+  <node id='-480682' visible='true' lat='48.1382253011' lon='11.62002466302' />
+  <node id='-480683' visible='true' lat='48.13826197585' lon='11.62001871578' />
+  <node id='-480685' visible='true' lat='48.13812988381' lon='11.62001569413' />
+  <node id='-480686' visible='true' lat='48.13810699912' lon='11.61974008308' />
+  <node id='-480687' visible='true' lat='48.13810301721' lon='11.61943248242' />
+  <node id='-480688' visible='true' lat='48.13799465891' lon='11.61941213743' />
+  <node id='-480689' visible='true' lat='48.13786665891' lon='11.61941613749' />
+  <node id='-480690' visible='true' lat='48.13803324276' lon='11.62287476283' />
+  <node id='-480691' visible='true' lat='48.13794802693' lon='11.62273703032' />
+  <node id='-480692' visible='true' lat='48.13778310112' lon='11.6223902888' />
+  <node id='-480693' visible='true' lat='48.13772269343' lon='11.62223976477' />
+  <node id='-480694' visible='true' lat='48.13764190634' lon='11.6220133615' />
+  <node id='-480695' visible='true' lat='48.1374067939' lon='11.61941774943' />
+  <node id='-480696' visible='true' lat='48.13732879382' lon='11.61869074918' />
+  <node id='-480697' visible='true' lat='48.13732856026' lon='11.6186889621' />
+  <node id='-480698' visible='true' lat='48.13730886212' lon='11.61856139216' />
+  <node id='-480699' visible='true' lat='48.13726567384' lon='11.61828169784' />
+  <node id='-480700' visible='true' lat='48.13722878727' lon='11.61796168213' />
+  <node id='-480701' visible='true' lat='48.13720682159' lon='11.61774801614' />
+  <node id='-480702' visible='true' lat='48.13715283068' lon='11.61719710925' />
+  <node id='-480703' visible='true' lat='48.1379958368' lon='11.61946584583' />
+  <node id='-480704' visible='true' lat='48.1380858368' lon='11.61945984588' />
+  <node id='-480705' visible='true' lat='48.13810301865' lon='11.6194333956' />
+  <node id='-480706' visible='true' lat='48.13810401864' lon='11.61933139556' />
+  <node id='-480707' visible='true' lat='48.13810402057' lon='11.6193310022' />
+  <node id='-480708' visible='true' lat='48.13810402051' lon='11.61846000189' />
+  <node id='-480710' visible='true' lat='48.13806705285' lon='11.61943352168' />
+  <node id='-480711' visible='true' lat='48.13807105288' lon='11.61974252157' />
+  <node id='-480712' visible='true' lat='48.13807118633' lon='11.61974531006' />
+  <node id='-480713' visible='true' lat='48.13809418634' lon='11.62002230997' />
+  <node id='-480714' visible='true' lat='48.13751164825' lon='11.62013556258' />
+  <node id='-480715' visible='true' lat='48.13748964823' lon='11.61997656253' />
+  <node id='-480716' visible='true' lat='48.13748949473' lon='11.61997555186' />
+  <node id='-480717' visible='true' lat='48.13747912588' lon='11.61991290663' />
+  <node id='-480718' visible='true' lat='48.13746549471' lon='11.61983055181' />
+  <node id='-480719' visible='true' lat='48.13746529527' lon='11.61982944818' />
+  <node id='-480720' visible='true' lat='48.13743560175' lon='11.61967801125' />
+  <node id='-480721' visible='true' lat='48.13740677959' lon='11.61941761815' />
+  <node id='-480722' visible='true' lat='48.13808423326' lon='11.61940615822' />
+  <node id='-480723' visible='true' lat='48.13799423326' lon='11.61941215826' />
+  <node id='-480724' visible='true' lat='48.13828603867' lon='11.62361224378' />
+  <node id='-480725' visible='true' lat='48.13825303865' lon='11.62346924374' />
+  <node id='-480726' visible='true' lat='48.13825261654' lon='11.62346759292' />
+  <node id='-480727' visible='true' lat='48.13818961651' lon='11.62324359286' />
+  <node id='-480728' visible='true' lat='48.13818866956' lon='11.62324071885' />
+  <node id='-480729' visible='true' lat='48.13812966953' lon='11.62308571882' />
+  <node id='-480730' visible='true' lat='48.13828691563' lon='11.62362390467' />
+  <node id='-480731' visible='true' lat='48.1383068164' lon='11.62335026877' />
+  <node id='-480732' visible='true' lat='48.13831932803' lon='11.62326268733' />
+  <node id='-480733' visible='true' lat='48.13834281675' lon='11.6231716685' />
+  <node id='-480734' visible='true' lat='48.13834362467' lon='11.62316761078' />
+  <node id='-480735' visible='true' lat='48.13835462467' lon='11.62309061075' />
+  <node id='-480736' visible='true' lat='48.13835502083' lon='11.62308500208' />
+  <node id='-480737' visible='true' lat='48.13835502083' lon='11.62303000206' />
+  <node id='-480738' visible='true' lat='48.13835475369' lon='11.62302538804' />
+  <node id='-480739' visible='true' lat='48.13834775368' lon='11.62296538802' />
+  <node id='-480740' visible='true' lat='48.13834690704' lon='11.62296069309' />
+  <node id='-480741' visible='true' lat='48.13832490703' lon='11.62287169307' />
+  <node id='-480742' visible='true' lat='48.13817390215' lon='11.61462413412' />
+  <node id='-480743' visible='true' lat='48.13807390213' lon='11.61458213417' />
+  <node id='-480744' visible='true' lat='48.13806697273' lon='11.61458130861' />
+  <node id='-480745' visible='true' lat='48.1375449891' lon='11.61467130606' />
+  <node id='-480746' visible='true' lat='48.13743300545' lon='11.61469030334' />
+  <node id='-480747' visible='true' lat='48.13743249682' lon='11.61469040062' />
+  <node id='-480748' visible='true' lat='48.13722188557' lon='11.614735248' />
+  <node id='-480749' visible='true' lat='48.13706264201' lon='11.61476915696' />
+  <node id='-480750' visible='true' lat='48.13701319442' lon='11.61477012655' />
+  <node id='-480751' visible='true' lat='48.13694859005' lon='11.61476714484' />
+  <node id='-480752' visible='true' lat='48.13797829597' lon='11.61477984988' />
+  <node id='-480753' visible='true' lat='48.13872670489' lon='11.61482581397' />
+  <node id='-480779' visible='true' lat='48.13826988914' lon='11.62543889012' />
+  <node id='-480780' visible='true' lat='48.13823088916' lon='11.62562289007' />
+  <node id='-480781' visible='true' lat='48.13823024742' lon='11.62562703168' />
+  <node id='-480782' visible='true' lat='48.1382114503' lon='11.62581500304' />
+  <node id='-480783' visible='true' lat='48.13696389316' lon='11.6150134066' />
+  <node id='-480784' visible='true' lat='48.13703037846' lon='11.61497918625' />
+  <node id='-480785' visible='true' lat='48.13726572717' lon='11.61492456958' />
+  <node id='-480786' visible='true' lat='48.13733795138' lon='11.61490865588' />
+  <node id='-480787' visible='true' lat='48.1375604661' lon='11.61485962726' />
+  <node id='-480788' visible='true' lat='48.13801927274' lon='11.61477366372' />
+  <node id='-480789' visible='true' lat='48.13801970719' lon='11.61477357427' />
+  <node id='-480790' visible='true' lat='48.13806870719' lon='11.6147625743' />
+  <node id='-480791' visible='true' lat='48.13807480893' lon='11.6147594581' />
+  <node id='-480792' visible='true' lat='48.13817780894' lon='11.61467345813' />
+  <node id='-480793' visible='true' lat='48.13832592192' lon='11.62287818811' />
+  <node id='-480794' visible='true' lat='48.13823493109' lon='11.62158731947' />
+  <node id='-480795' visible='true' lat='48.13819940133' lon='11.62103065592' />
+  <node id='-480796' visible='true' lat='48.13814793939' lon='11.62022445094' />
+  <node id='-480797' visible='true' lat='48.138147857' lon='11.62022338573' />
+  <node id='-480798' visible='true' lat='48.13814186838' lon='11.62015751091' />
+  <node id='-480799' visible='true' lat='48.13812987896' lon='11.62001563622' />
+  <node id='-480806' visible='true' lat='48.1380361248' lon='11.62288099349' />
+  <node id='-480807' visible='true' lat='48.13793012475' lon='11.62256399341' />
+  <node id='-480808' visible='true' lat='48.13792926127' lon='11.62256169952' />
+  <node id='-480809' visible='true' lat='48.13782051373' lon='11.62230329947' />
+  <node id='-480810' visible='true' lat='48.13772126371' lon='11.6220373095' />
+  <node id='-480811' visible='true' lat='48.13764303457' lon='11.62175311004' />
+  <node id='-480812' visible='true' lat='48.13758958226' lon='11.62147891958' />
+  <node id='-480813' visible='true' lat='48.13756884065' lon='11.62130113449' />
+  <node id='-480814' visible='true' lat='48.13755401299' lon='11.62111134059' />
+  <node id='-480815' visible='true' lat='48.13755102016' lon='11.62050480387' />
+  <node id='-480816' visible='true' lat='48.13764276416' lon='11.62201613469' />
+  <node id='-480817' visible='true' lat='48.13755516692' lon='11.62168465883' />
+  <node id='-480818' visible='true' lat='48.13752357739' lon='11.62150301912' />
+  <node id='-480819' visible='true' lat='48.13749790873' lon='11.62130852973' />
+  <node id='-480820' visible='true' lat='48.1374860079' lon='11.62103084423' />
+  <node id='-480821' visible='true' lat='48.1374790162' lon='11.62056140423' />
+  <node id='-480837' visible='true' lat='48.13848524789' lon='11.61463819243' />
+  <node id='-480838' visible='true' lat='48.1384848772' lon='11.61463816072' />
+  <node id='-480839' visible='true' lat='48.13832787719' lon='11.61462716081' />
+  <node id='-480840' visible='true' lat='48.13832730824' lon='11.61462713442' />
+  <node id='-480841' visible='true' lat='48.13828332983' lon='11.61462613493' />
+  <node id='-480842' visible='true' lat='48.13816935142' lon='11.61462313556' />
+  <node id='-480876' visible='true' lat='48.13755100601' lon='11.62050391798' />
+  <node id='-480877' visible='true' lat='48.137548006' lon='11.62039291794' />
+  <node id='-480878' visible='true' lat='48.13754782323' lon='11.62039003174' />
+  <node id='-480879' visible='true' lat='48.13753682321' lon='11.6202800317' />
+  <node id='-480880' visible='true' lat='48.13753643687' lon='11.6202772117' />
+  <node id='-480881' visible='true' lat='48.13751143685' lon='11.62013421166' />
+  <node id='-480884' visible='true' lat='48.13812889605' lon='11.62308386625' />
+  <node id='-480885' visible='true' lat='48.13803489601' lon='11.62287786622' />
+  <node id='-480889' visible='true' lat='48.13644131616' lon='11.61509842075' />
+  <node id='-480890' visible='true' lat='48.13704684022' lon='11.614930553' />
+  <node id='-480891' visible='true' lat='48.1372001254' lon='11.61490069233' />
+  <node id='-480892' visible='true' lat='48.13798088987' lon='11.61477972922' />
+  <node id='-480893' visible='true' lat='48.13754621398' lon='11.62048671684' />
+  <node id='-480894' visible='true' lat='48.13750021396' lon='11.62041271684' />
+  <node id='-480895' visible='true' lat='48.13749436424' lon='11.62040646404' />
+  <node id='-480896' visible='true' lat='48.13745536423' lon='11.62038046406' />
+  <node id='-480897' visible='true' lat='48.1374480351' lon='11.62037813185' />
+  <node id='-480898' visible='true' lat='48.1374150351' lon='11.62037813187' />
+  <node id='-480899' visible='true' lat='48.13740986615' lon='11.62037926546' />
+  <node id='-480900' visible='true' lat='48.13738086616' lon='11.62039226548' />
+  <node id='-480901' visible='true' lat='48.13737583701' lon='11.62039586892' />
+  <node id='-480902' visible='true' lat='48.13737178864' lon='11.62040160097' />
+  <node id='-480903' visible='true' lat='48.13732278866' lon='11.62049660096' />
+  <node id='-480912' visible='true' lat='48.13825809429' lon='11.61996528832' />
+  <node id='-480913' visible='true' lat='48.13822109429' lon='11.61997128834' />
+  <node id='-480914' visible='true' lat='48.13822044529' lon='11.61997141146' />
+  <node id='-480915' visible='true' lat='48.13819915377' lon='11.61997604007' />
+  <node id='-480916' visible='true' lat='48.13819765347' lon='11.61997636622' />
+  <node id='-480917' visible='true' lat='48.1381098623' lon='11.6199923283' />
+  <node id='-480922' visible='true' lat='48.13747897672' lon='11.62056012494' />
+  <node id='-480923' visible='true' lat='48.1374699767' lon='11.62036812487' />
+  <node id='-480924' visible='true' lat='48.13746992701' lon='11.62036726373' />
+  <node id='-480925' visible='true' lat='48.13744592697' lon='11.6200172636' />
+  <node id='-480926' visible='true' lat='48.13744579139' lon='11.62001572576' />
+  <node id='-480927' visible='true' lat='48.13717979113' lon='11.61755072492' />
+  <node id='-480928' visible='true' lat='48.13717921066' lon='11.6175470301' />
+  <node id='-480929' visible='true' lat='48.13711121061' lon='11.61722003' />
+  <node id='-480930' visible='true' lat='48.13711039199' lon='11.6172168296' />
+  <node id='-480931' visible='true' lat='48.13698341133' lon='11.61680189293' />
+  <node id='-480932' visible='true' lat='48.13686899094' lon='11.61642281331' />
+  <node id='-480933' visible='true' lat='48.13680963447' lon='11.61610525631' />
+  <node id='-480934' visible='true' lat='48.13677307894' lon='11.61576242488' />
+  <node id='-480935' visible='true' lat='48.13678188975' lon='11.61544229789' />
+  <node id='-480936' visible='true' lat='48.13682852527' lon='11.61525194881' />
+  <node id='-480937' visible='true' lat='48.13690341695' lon='11.61514241974' />
+  <node id='-480938' visible='true' lat='48.13699043102' lon='11.61508188825' />
+  <node id='-480939' visible='true' lat='48.13720475699' lon='11.61502756611' />
+  <node id='-480940' visible='true' lat='48.13759146958' lon='11.61494862498' />
+  <node id='-480941' visible='true' lat='48.13759404488' lon='11.61494780874' />
+  <node id='-480942' visible='true' lat='48.1379840449' lon='11.61477880892' />
+  <node id='-480962' visible='true' lat='48.13827797226' lon='11.61999003303' />
+  <node id='-480963' visible='true' lat='48.1382719765' lon='11.61986811942' />
+  <node id='-480964' visible='true' lat='48.13826202059' lon='11.61964610293' />
+  <node id='-480965' visible='true' lat='48.13826202059' lon='11.61959508439' />
+  <node id='-480966' visible='true' lat='48.13826602018' lon='11.6186191664' />
+  <node id='-480967' visible='true' lat='48.13826602052' lon='11.61861900207' />
+  <node id='-480968' visible='true' lat='48.13826602051' lon='11.61845800201' />
+  <node id='-480973' visible='true' lat='48.13694925613' lon='11.61476719406' />
+  <node id='-480974' visible='true' lat='48.13689035142' lon='11.61476120379' />
+  <node id='-480975' visible='true' lat='48.13687344663' lon='11.614759215' />
+  <node id='-480976' visible='true' lat='48.13687323587' lon='11.61475919206' />
+  <node id='-480977' visible='true' lat='48.13685328628' lon='11.61475719711' />
+  <node id='-480978' visible='true' lat='48.13677033666' lon='11.61474820262' />
+  <node id='-480979' visible='true' lat='48.13696597029' lon='11.61479200047' />
+  <node id='-480980' visible='true' lat='48.13695897028' lon='11.61465200042' />
+  <node id='-480981' visible='true' lat='48.1369589074' lon='11.61465099668' />
+  <node id='-480982' visible='true' lat='48.13689290732' lon='11.61377499637' />
+  <node id='-480983' visible='true' lat='48.13689273707' lon='11.61377325313' />
+  <node id='-480984' visible='true' lat='48.13826183702' lon='11.62001873748' />
+  <node id='-480999' visible='true' lat='48.13824824688' lon='11.61843113327' />
+  <way id='-164162' action='modify' visible='true'>
+    <nd ref='-479927' />
+    <nd ref='-479928' />
+    <nd ref='-479929' />
+    <nd ref='-479930' />
+    <nd ref='-479931' />
+    <nd ref='-479932' />
+    <nd ref='-479933' />
+    <nd ref='-479934' />
+    <nd ref='-479935' />
+    <nd ref='-479936' />
+    <nd ref='-479937' />
+    <nd ref='-479938' />
+    <nd ref='-479939' />
+    <nd ref='-479940' />
+    <nd ref='-479941' />
+    <nd ref='-479942' />
+    <nd ref='-479943' />
+    <nd ref='-479944' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='200.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='221.37236299999998' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778893&quot;, &quot;to&quot;: &quot;778960&quot;, &quot;in_angle&quot;: 75, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;778893&quot;, &quot;to&quot;: &quot;778961&quot;, &quot;in_angle&quot;: 75, &quot;turn_angle&quot;: 93, &quot;duration&quot;: 2, &quot;weight&quot;: 3276, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='778961,778960' />
+    <tag k='nodes' v='[[48.136781, 11.615078], [48.136788, 11.615221], [48.136836, 11.615544], [48.136871, 11.615833], [48.136963, 11.616712], [48.137055, 11.617599], [48.137063, 11.617674], [48.137068, 11.617719], [48.137072, 11.617758], [48.137087, 11.617849], [48.137115, 11.618016]]' />
+    <tag k='parts' v='10' />
+    <tag k='previous_segments' v='778903,62562' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778893' />
+    <tag k='speed' v='39.727357980996025' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='200.0' />
+  </way>
+  <way id='-164163' visible='true'>
+    <nd ref='-479945' />
+    <nd ref='-479946' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='4.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='5.65219' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778892&quot;, &quot;to&quot;: &quot;778888&quot;, &quot;in_angle&quot;: 340, &quot;turn_angle&quot;: 16, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}, {&quot;from&quot;: &quot;778892&quot;, &quot;to&quot;: &quot;62548&quot;, &quot;in_angle&quot;: 340, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778888,62548' />
+    <tag k='nodes' v='[[48.135005, 11.615702], [48.135053, 11.615677]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='8503' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778892' />
+    <tag k='speed' v='51.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='4.0' />
+  </way>
+  <way id='-164166' action='modify' visible='true'>
+    <nd ref='-479953' />
+    <nd ref='-479954' />
+    <nd ref='-479955' />
+    <nd ref='-479956' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='69.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='76.502609' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='111015' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778888&quot;, &quot;to&quot;: &quot;778964&quot;, &quot;in_angle&quot;: 343, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778964' />
+    <tag k='nodes' v='[[48.135053, 11.615677], [48.135264, 11.615659], [48.135721, 11.615457]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='778892' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778888' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='69.0' />
+  </way>
+  <way id='-164173' visible='true'>
+    <nd ref='-479978' />
+    <nd ref='-479979' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='7.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='8.724376' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778879&quot;, &quot;to&quot;: &quot;778891&quot;, &quot;in_angle&quot;: 158, &quot;turn_angle&quot;: 3, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778891' />
+    <tag k='nodes' v='[[48.135064, 11.615548], [48.134991, 11.615591]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='778901,778944' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778879' />
+    <tag k='speed' v='45.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='7.0' />
+  </way>
+  <way id='-164176' action='modify' visible='true'>
+    <nd ref='-479992' />
+    <nd ref='-479993' />
+    <nd ref='-479994' />
+    <nd ref='-479995' />
+    <nd ref='-479996' />
+    <nd ref='-479997' />
+    <nd ref='-479998' />
+    <nd ref='-479999' />
+    <nd ref='-480000' />
+    <nd ref='-480001' />
+    <nd ref='-480002' />
+    <nd ref='-480003' />
+    <nd ref='-480004' />
+    <nd ref='-480005' />
+    <nd ref='-480006' />
+    <nd ref='-480007' />
+    <nd ref='-480008' />
+    <nd ref='-480009' />
+    <nd ref='-480010' />
+    <nd ref='-480011' />
+    <nd ref='-480012' />
+    <nd ref='-480013' />
+    <nd ref='-480014' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='152.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='170.72617799999995' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778960&quot;, &quot;to&quot;: &quot;62551&quot;, &quot;in_angle&quot;: 91, &quot;turn_angle&quot;: 3, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 5, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;778960&quot;, &quot;to&quot;: &quot;62552&quot;, &quot;in_angle&quot;: 91, &quot;turn_angle&quot;: 33, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 3, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='62552,62551' />
+    <tag k='nodes' v='[[48.137115, 11.618016], [48.13714, 11.618164], [48.137155, 11.618268], [48.137172, 11.618394], [48.137188, 11.618495], [48.13719, 11.61851], [48.13721, 11.618596], [48.13724, 11.618741], [48.137259, 11.618871], [48.137279, 11.619031], [48.137308, 11.619309], [48.137326, 11.61946], [48.13734, 11.619623], [48.137344, 11.619749], [48.137349, 11.61992], [48.137352, 11.620014], [48.137351, 11.620051], [48.137348, 11.620278]]' />
+    <tag k='parts' v='17' />
+    <tag k='previous_segments' v='778893,778967' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778960' />
+    <tag k='speed' v='40.66504082344069' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='152.0' />
+  </way>
+  <way id='-164181' action='modify' visible='true'>
+    <nd ref='-480031' />
+    <nd ref='-480032' />
+    <nd ref='-480033' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='79.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='87.57558399999999' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='5915' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778964&quot;, &quot;to&quot;: &quot;778902&quot;, &quot;in_angle&quot;: 347, &quot;turn_angle&quot;: -50, &quot;duration&quot;: 6, &quot;weight&quot;: 6, &quot;type&quot;: 2, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;778964&quot;, &quot;to&quot;: &quot;778903&quot;, &quot;in_angle&quot;: 347, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778903,778902' />
+    <tag k='nodes' v='[[48.135721, 11.615457], [48.136007, 11.615349], [48.136488, 11.615191]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='778888' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778964' />
+    <tag k='speed' v='39.62540555824327' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='79.0' />
+  </way>
+  <way id='-164183' visible='true'>
+    <nd ref='-480041' />
+    <nd ref='-480042' />
+    <nd ref='-480043' />
+    <nd ref='-480044' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='41.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='45.543881' />
+    <tag k='name' v='Steinhauser Straße' />
+    <tag k='name_id' v='15325' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780308&quot;, &quot;to&quot;: &quot;780246&quot;, &quot;in_angle&quot;: 3, &quot;turn_angle&quot;: -92, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780308&quot;, &quot;to&quot;: &quot;780248&quot;, &quot;in_angle&quot;: 3, &quot;turn_angle&quot;: 87, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780248,780246' />
+    <tag k='nodes' v='[[48.137691, 11.617092], [48.137881, 11.617058], [48.138029, 11.61706], [48.138099, 11.617066]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='780307,780238' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780308' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='41.0' />
+  </way>
+  <way id='-164184' visible='true'>
+    <nd ref='-480045' />
+    <nd ref='-480046' />
+    <nd ref='-480047' />
+    <nd ref='-480048' />
+    <nd ref='-480049' />
+    <nd ref='-480050' />
+    <nd ref='-480051' />
+    <nd ref='-480052' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='149.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='61.927302999999995' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[]' />
+    <tag k='next_segments' v='' />
+    <tag k='nodes' v='[[48.137691, 11.617092], [48.137708, 11.617521], [48.137678, 11.617563], [48.137681, 11.617906]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='780247,780238' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780309' />
+    <tag k='speed' v='15.000000000000002' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='297.0' />
+  </way>
+  <way id='-164186' visible='true'>
+    <nd ref='-480055' />
+    <nd ref='-480056' />
+    <nd ref='-480057' />
+    <nd ref='-480058' />
+    <nd ref='-480059' />
+    <nd ref='-480060' />
+    <nd ref='-480061' />
+    <nd ref='-480062' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='149.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='61.927302999999995' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780307&quot;, &quot;to&quot;: &quot;780308&quot;, &quot;in_angle&quot;: 266, &quot;turn_angle&quot;: 87, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 8, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780307&quot;, &quot;to&quot;: &quot;780310&quot;, &quot;in_angle&quot;: 266, &quot;turn_angle&quot;: -93, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780308,780310' />
+    <tag k='nodes' v='[[48.137681, 11.617906], [48.137678, 11.617563], [48.137708, 11.617521], [48.137691, 11.617092]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780307' />
+    <tag k='speed' v='15.000000000000002' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='297.0' />
+  </way>
+  <way id='-164190' visible='true'>
+    <nd ref='-480075' />
+    <nd ref='-480076' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='62.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='25.701676' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[]' />
+    <tag k='next_segments' v='' />
+    <tag k='nodes' v='[[48.137777, 11.618377], [48.137786, 11.618723]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780311,780316' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780313' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='123.0' />
+  </way>
+  <way id='-164191' visible='true'>
+    <nd ref='-480077' />
+    <nd ref='-480078' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='21.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='8.675651' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780314&quot;, &quot;to&quot;: &quot;780317&quot;, &quot;in_angle&quot;: 0, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780317' />
+    <tag k='nodes' v='[[48.137777, 11.618377], [48.137855, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780315,780311' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780314' />
+    <tag k='speed' v='15.000000000000002' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='42.0' />
+  </way>
+  <way id='-164192' visible='true'>
+    <nd ref='-480079' />
+    <nd ref='-480080' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='67.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='27.931112' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780311&quot;, &quot;to&quot;: &quot;780313&quot;, &quot;in_angle&quot;: 87, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780311&quot;, &quot;to&quot;: &quot;780314&quot;, &quot;in_angle&quot;: 87, &quot;turn_angle&quot;: -87, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780313,780314' />
+    <tag k='nodes' v='[[48.137767, 11.618001], [48.137777, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780311' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='134.0' />
+  </way>
+  <way id='-164193' visible='true'>
+    <nd ref='-480081' />
+    <nd ref='-480082' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='67.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='27.931112' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[]' />
+    <tag k='next_segments' v='' />
+    <tag k='nodes' v='[[48.137777, 11.618377], [48.137767, 11.618001]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780315,780316' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780312' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='134.0' />
+  </way>
+  <way id='-164194' visible='true'>
+    <nd ref='-480083' />
+    <nd ref='-480084' />
+    <nd ref='-480085' />
+    <nd ref='-480086' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='56.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='62.381025' />
+    <tag k='name' v='Steinhauser Straße' />
+    <tag k='name_id' v='15325' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780310&quot;, &quot;to&quot;: &quot;780237&quot;, &quot;in_angle&quot;: 170, &quot;turn_angle&quot;: 91, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 8, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780237' />
+    <tag k='nodes' v='[[48.137691, 11.617092], [48.137253, 11.617171], [48.137135, 11.617201]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780247,780307' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780310' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='56.0' />
+  </way>
+  <way id='-164195' visible='true'>
+    <nd ref='-480087' />
+    <nd ref='-480088' />
+    <nd ref='-480089' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='31.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='12.791025' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780319&quot;, &quot;to&quot;: &quot;780320&quot;, &quot;in_angle&quot;: 0, &quot;turn_angle&quot;: 91, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 8, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780319&quot;, &quot;to&quot;: &quot;780321&quot;, &quot;in_angle&quot;: 0, &quot;turn_angle&quot;: -90, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780320,780321' />
+    <tag k='nodes' v='[[48.137972, 11.618377], [48.138004, 11.618377], [48.138087, 11.618377]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780317' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780319' />
+    <tag k='speed' v='14.721739110040048' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='61.0' />
+  </way>
+  <way id='-164196' visible='true'>
+    <nd ref='-480090' />
+    <nd ref='-480091' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='31.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='13.013477' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780317&quot;, &quot;to&quot;: &quot;780319&quot;, &quot;in_angle&quot;: 0, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780319' />
+    <tag k='nodes' v='[[48.137855, 11.618377], [48.137972, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780314' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780317' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='62.0' />
+  </way>
+  <way id='-164197' visible='true'>
+    <nd ref='-480092' />
+    <nd ref='-480093' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='31.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='13.013477' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780318&quot;, &quot;to&quot;: &quot;780316&quot;, &quot;in_angle&quot;: 180, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780316' />
+    <tag k='nodes' v='[[48.137972, 11.618377], [48.137855, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780322' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780318' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='62.0' />
+  </way>
+  <way id='-164198' visible='true'>
+    <nd ref='-480094' />
+    <nd ref='-480095' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='62.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='25.701676' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780315&quot;, &quot;to&quot;: &quot;780312&quot;, &quot;in_angle&quot;: 267, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780315&quot;, &quot;to&quot;: &quot;780314&quot;, &quot;in_angle&quot;: 267, &quot;turn_angle&quot;: 93, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780312,780314' />
+    <tag k='nodes' v='[[48.137786, 11.618723], [48.137777, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780315' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='123.0' />
+  </way>
+  <way id='-164199' visible='true'>
+    <nd ref='-480096' />
+    <nd ref='-480097' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='21.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='8.675651' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780316&quot;, &quot;to&quot;: &quot;780312&quot;, &quot;in_angle&quot;: 180, &quot;turn_angle&quot;: 87, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 8, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780316&quot;, &quot;to&quot;: &quot;780313&quot;, &quot;in_angle&quot;: 180, &quot;turn_angle&quot;: -93, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780312,780313' />
+    <tag k='nodes' v='[[48.137855, 11.618377], [48.137777, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780318' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780316' />
+    <tag k='speed' v='15.000000000000002' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='42.0' />
+  </way>
+  <way id='-164200' action='modify' visible='true'>
+    <nd ref='-480098' />
+    <nd ref='-480099' />
+    <nd ref='-480100' />
+    <nd ref='-480101' />
+    <nd ref='-480102' />
+    <nd ref='-480103' />
+    <nd ref='-480104' />
+    <nd ref='-480105' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='126.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='112.899972' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778944&quot;, &quot;to&quot;: &quot;778879&quot;, &quot;in_angle&quot;: 141, &quot;turn_angle&quot;: 17, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778879' />
+    <tag k='nodes' v='[[48.135993, 11.614976], [48.135781, 11.615055], [48.135586, 11.615143], [48.135202, 11.615381], [48.135064, 11.615548]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='778972,778938' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='778944' />
+    <tag k='speed' v='32.200632733549305' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='126.0' />
+  </way>
+  <way id='-164201' visible='true'>
+    <nd ref='-480106' />
+    <nd ref='-480107' />
+    <nd ref='-480108' />
+    <nd ref='-480109' />
+    <nd ref='-480110' />
+    <nd ref='-480111' />
+    <nd ref='-480112' />
+    <nd ref='-480113' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='76.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='32.011611' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[]' />
+    <tag k='next_segments' v='' />
+    <tag k='nodes' v='[[48.137647, 11.619449], [48.137629, 11.619594], [48.137626, 11.619676], [48.137638, 11.619761], [48.137662, 11.61987]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='780327' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780324' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='76.0' />
+  </way>
+  <way id='-164202' visible='true'>
+    <nd ref='-480114' />
+    <nd ref='-480115' />
+    <nd ref='-480116' />
+    <nd ref='-480117' />
+    <nd ref='-480118' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='76.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='32.011611' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780325&quot;, &quot;to&quot;: &quot;780323&quot;, &quot;in_angle&quot;: 280, &quot;turn_angle&quot;: -102, &quot;duration&quot;: 6, &quot;weight&quot;: 6, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780323' />
+    <tag k='nodes' v='[[48.137662, 11.61987], [48.137638, 11.619761], [48.137626, 11.619676], [48.137629, 11.619594], [48.137647, 11.619449]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780325' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='76.0' />
+  </way>
+  <way id='-164203' visible='true'>
+    <nd ref='-480119' />
+    <nd ref='-480120' />
+    <nd ref='-480121' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='31.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='12.791025' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780322&quot;, &quot;to&quot;: &quot;780318&quot;, &quot;in_angle&quot;: 180, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780318' />
+    <tag k='nodes' v='[[48.138087, 11.618377], [48.138004, 11.618377], [48.137972, 11.618377]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780244,780248' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780322' />
+    <tag k='speed' v='14.721739110040048' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='61.0' />
+  </way>
+  <way id='-164204' visible='true'>
+    <nd ref='-480122' />
+    <nd ref='-480123' />
+    <nd ref='-480124' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='70.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='28.975058' />
+    <tag k='name' v='Vogelweideplatz' />
+    <tag k='name_id' v='51160' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780323&quot;, &quot;to&quot;: &quot;780256&quot;, &quot;in_angle&quot;: 193, &quot;turn_angle&quot;: 67, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 8, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780256' />
+    <tag k='nodes' v='[[48.137647, 11.619449], [48.13748, 11.619454], [48.137389, 11.619422]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780325,780327' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780323' />
+    <tag k='speed' v='14.999999999999998' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='70.0' />
+  </way>
+  <way id='-164205' action='modify' visible='true'>
+    <nd ref='-480125' />
+    <nd ref='-480126' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='6.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='6.16172' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780320&quot;, &quot;to&quot;: &quot;780243&quot;, &quot;in_angle&quot;: 91, &quot;turn_angle&quot;: -93, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780320&quot;, &quot;to&quot;: &quot;780245&quot;, &quot;in_angle&quot;: 91, &quot;turn_angle&quot;: -2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780243,780245' />
+    <tag k='nodes' v='[[48.138087, 11.618377], [48.138086, 11.61846]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780248,780319' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780320' />
+    <tag k='speed' v='37.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='6.0' />
+  </way>
+  <way id='-164206' action='modify' visible='true'>
+    <nd ref='-480127' />
+    <nd ref='-480128' />
+    <nd ref='-480129' />
+    <nd ref='-480130' />
+    <nd ref='-480131' />
+    <nd ref='-480132' />
+    <nd ref='-480133' />
+    <nd ref='-480134' />
+    <nd ref='-480135' />
+    <nd ref='-480136' />
+    <nd ref='-480137' />
+    <nd ref='-480138' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='131.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='147.58389' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778942&quot;, &quot;to&quot;: &quot;62553&quot;, &quot;in_angle&quot;: 63, &quot;turn_angle&quot;: -7, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62553' />
+    <tag k='nodes' v='[[48.137402, 11.620574], [48.137405, 11.621028], [48.137414, 11.621319], [48.13744, 11.621525], [48.137474, 11.621717], [48.137563, 11.622056], [48.137703, 11.622477]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='62550' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778942' />
+    <tag k='speed' v='40.66620889312512' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='131.0' />
+  </way>
+  <way id='-164207' action='modify' visible='true'>
+    <nd ref='-480139' />
+    <nd ref='-480140' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='88.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='97.318767' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780321&quot;, &quot;to&quot;: &quot;780246&quot;, &quot;in_angle&quot;: 270, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780321&quot;, &quot;to&quot;: &quot;780247&quot;, &quot;in_angle&quot;: 270, &quot;turn_angle&quot;: -87, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780247,780246' />
+    <tag k='nodes' v='[[48.138087, 11.618377], [48.138099, 11.617066]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780244,780319' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780321' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='88.0' />
+  </way>
+  <way id='-164210' visible='true'>
+    <nd ref='-480151' />
+    <nd ref='-480152' />
+    <nd ref='-480153' />
+    <nd ref='-480154' />
+    <nd ref='-480155' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='76.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='31.573512' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[]' />
+    <tag k='next_segments' v='' />
+    <tag k='nodes' v='[[48.137867, 11.619443], [48.137862, 11.619578], [48.13785, 11.619664], [48.137829, 11.619776], [48.137808, 11.619856]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='780258' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780328' />
+    <tag k='speed' v='14.999999999999998' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='76.0' />
+  </way>
+  <way id='-164212' visible='true'>
+    <nd ref='-480159' />
+    <nd ref='-480160' />
+    <nd ref='-480161' />
+    <nd ref='-480162' />
+    <nd ref='-480163' />
+    <nd ref='-480164' />
+    <nd ref='-480165' />
+    <nd ref='-480166' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='76.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='31.573512' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780326&quot;, &quot;to&quot;: &quot;780327&quot;, &quot;in_angle&quot;: 273, &quot;turn_angle&quot;: -95, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780327' />
+    <tag k='nodes' v='[[48.137808, 11.619856], [48.137829, 11.619776], [48.13785, 11.619664], [48.137862, 11.619578], [48.137867, 11.619443]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780326' />
+    <tag k='speed' v='14.999999999999998' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='76.0' />
+  </way>
+  <way id='-164213' visible='true'>
+    <nd ref='-480167' />
+    <nd ref='-480168' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='59.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='24.473838' />
+    <tag k='name' v='Vogelweideplatz' />
+    <tag k='name_id' v='51160' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780327&quot;, &quot;to&quot;: &quot;780323&quot;, &quot;in_angle&quot;: 178, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780327&quot;, &quot;to&quot;: &quot;780324&quot;, &quot;in_angle&quot;: 178, &quot;turn_angle&quot;: -78, &quot;duration&quot;: 3, &quot;weight&quot;: 3, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780323,780324' />
+    <tag k='nodes' v='[[48.137867, 11.619443], [48.137647, 11.619449]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780326,780258' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780327' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='59.0' />
+  </way>
+  <way id='-164216' action='modify' visible='true'>
+    <nd ref='-480185' />
+    <nd ref='-480186' />
+    <nd ref='-480187' />
+    <nd ref='-480188' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='58.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='51.574634' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778938&quot;, &quot;to&quot;: &quot;778943&quot;, &quot;in_angle&quot;: 167, &quot;turn_angle&quot;: 91, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;778938&quot;, &quot;to&quot;: &quot;778944&quot;, &quot;in_angle&quot;: 167, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778943,778944' />
+    <tag k='nodes' v='[[48.136446, 11.614828], [48.13637, 11.614849], [48.135993, 11.614976]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='778902,62563' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='778938' />
+    <tag k='speed' v='31.83333436743342' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='58.0' />
+  </way>
+  <way id='-164225' visible='true'>
+    <nd ref='-480225' />
+    <nd ref='-480226' />
+    <nd ref='-480227' />
+    <nd ref='-480228' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='27.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='18.021357000000002' />
+    <tag k='name' v='Wagenbauerstraße' />
+    <tag k='name_id' v='153985' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780297&quot;, &quot;to&quot;: &quot;780244&quot;, &quot;in_angle&quot;: 178, &quot;turn_angle&quot;: 93, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 8, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780297&quot;, &quot;to&quot;: &quot;780245&quot;, &quot;in_angle&quot;: 178, &quot;turn_angle&quot;: -89, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780244,780245' />
+    <tag k='nodes' v='[[48.138248, 11.618458], [48.138182, 11.618457], [48.138086, 11.61846]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='62750,780282' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780297' />
+    <tag k='speed' v='23.999999999999996' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='27.0' />
+  </way>
+  <way id='-164230' action='modify' visible='true'>
+    <nd ref='-480251' />
+    <nd ref='-480252' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='39.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='51.472707' />
+    <tag k='name' v='Töginger Straße' />
+    <tag k='name_id' v='132935' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62540&quot;, &quot;to&quot;: &quot;778836&quot;, &quot;in_angle&quot;: 85, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778836' />
+    <tag k='nodes' v='[[48.138287, 11.625447], [48.138326, 11.626138]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='62553' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62540' />
+    <tag k='speed' v='47.99999999999999' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='39.0' />
+  </way>
+  <way id='-164231' action='modify' visible='true'>
+    <nd ref='-480253' />
+    <nd ref='-480254' />
+    <nd ref='-480255' />
+    <nd ref='-480256' />
+    <nd ref='-480257' />
+    <nd ref='-480258' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='119.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='160.632619' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='111010' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62548&quot;, &quot;to&quot;: &quot;62743&quot;, &quot;in_angle&quot;: 347, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62743' />
+    <tag k='nodes' v='[[48.135053, 11.615677], [48.135385, 11.615505], [48.135492, 11.61545], [48.135771, 11.615319], [48.13599, 11.615222], [48.136438, 11.615072]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='778892' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62548' />
+    <tag k='speed' v='48.60234337584945' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='119.0' />
+  </way>
+  <way id='-164232' visible='true'>
+    <nd ref='-480259' />
+    <nd ref='-480260' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='133.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='177.493147' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='111010' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62549&quot;, &quot;to&quot;: &quot;778901&quot;, &quot;in_angle&quot;: 171, &quot;turn_angle&quot;: -5, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778901' />
+    <tag k='nodes' v='[[48.137999, 11.614595], [48.136421, 11.614951]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='62596' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62549' />
+    <tag k='speed' v='48.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='133.0' />
+  </way>
+  <way id='-164241' action='modify' visible='true'>
+    <nd ref='-480317' />
+    <nd ref='-480318' />
+    <nd ref='-480319' />
+    <nd ref='-480320' />
+    <nd ref='-480321' />
+    <nd ref='-480322' />
+    <nd ref='-480323' />
+    <nd ref='-480324' />
+    <nd ref='-480325' />
+    <nd ref='-480326' />
+    <nd ref='-480327' />
+    <nd ref='-480328' />
+    <nd ref='-480329' />
+    <nd ref='-480330' />
+    <nd ref='-480331' />
+    <nd ref='-480332' />
+    <nd ref='-480333' />
+    <nd ref='-480334' />
+    <nd ref='-480335' />
+    <nd ref='-480336' />
+    <nd ref='-480337' />
+    <nd ref='-480338' />
+    <nd ref='-480339' />
+    <nd ref='-480340' />
+    <nd ref='-480341' />
+    <nd ref='-480342' />
+    <nd ref='-480343' />
+    <nd ref='-480344' />
+    <nd ref='-480345' />
+    <nd ref='-480346' />
+    <nd ref='-480347' />
+    <nd ref='-480348' />
+    <nd ref='-480349' />
+    <nd ref='-480350' />
+    <nd ref='-480351' />
+    <nd ref='-480352' />
+    <nd ref='-480353' />
+    <nd ref='-480354' />
+    <nd ref='-480355' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='514.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='573.2168039999999' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='134630' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62550&quot;, &quot;to&quot;: &quot;778942&quot;, &quot;in_angle&quot;: 87, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778942' />
+    <tag k='nodes' v='[[48.137999, 11.614595], [48.137895, 11.614584], [48.137763, 11.614583], [48.137279, 11.614678], [48.137008, 11.614765], [48.136939, 11.614802], [48.136896, 11.614833], [48.136856, 11.614871], [48.1368, 11.614945], [48.136751, 11.615026], [48.136708, 11.615138], [48.13667, 11.615249], [48.136634, 11.615519], [48.136652, 11.615781], [48.136739, 11.616257], [48.13686, 11.616716], [48.137003, 11.617165], [48.137035, 11.617261], [48.137101, 11.617575], [48.137359, 11.619883], [48.137378, 11.620118], [48.137394, 11.620343], [48.137402, 11.620574]]' />
+    <tag k='parts' v='22' />
+    <tag k='previous_segments' v='62596' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62550' />
+    <tag k='speed' v='40.173634623593486' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='514.0' />
+  </way>
+  <way id='-164243' visible='true'>
+    <nd ref='-480358' />
+    <nd ref='-480359' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='16.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='17.4861' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='97610' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62551&quot;, &quot;to&quot;: &quot;62559&quot;, &quot;in_angle&quot;: 94, &quot;turn_angle&quot;: -5, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62559' />
+    <tag k='nodes' v='[[48.137348, 11.620278], [48.137337, 11.620513]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='62742,778960' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62551' />
+    <tag k='speed' v='39.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='16.0' />
+  </way>
+  <way id='-164247' action='modify' visible='true'>
+    <nd ref='-480379' />
+    <nd ref='-480380' />
+    <nd ref='-480381' />
+    <nd ref='-480382' />
+    <nd ref='-480383' />
+    <nd ref='-480384' />
+    <nd ref='-480385' />
+    <nd ref='-480386' />
+    <nd ref='-480387' />
+    <nd ref='-480388' />
+    <nd ref='-480389' />
+    <nd ref='-480390' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='210.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='233.792149' />
+    <tag k='name' v='Töginger Straße' />
+    <tag k='name_id' v='84195' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62553&quot;, &quot;to&quot;: &quot;62540&quot;, &quot;in_angle&quot;: 84, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62553&quot;, &quot;to&quot;: &quot;62607&quot;, &quot;in_angle&quot;: 84, &quot;turn_angle&quot;: 23, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='62607,62540' />
+    <tag k='nodes' v='[[48.137703, 11.622477], [48.137865, 11.62284], [48.137936, 11.623008], [48.138005, 11.623207], [48.138048, 11.623354], [48.138094, 11.623547], [48.138132, 11.62376], [48.138162, 11.623971], [48.138195, 11.624273], [48.138227, 11.624617], [48.138265, 11.625086], [48.138287, 11.625447]]' />
+    <tag k='parts' v='11' />
+    <tag k='previous_segments' v='778942,778928' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62553' />
+    <tag k='speed' v='39.89276872167337' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='210.0' />
+  </way>
+  <way id='-164249' visible='true'>
+    <nd ref='-480400' />
+    <nd ref='-480401' />
+    <nd ref='-480402' />
+    <nd ref='-480403' />
+    <nd ref='-480404' />
+    <nd ref='-480405' />
+    <nd ref='-480406' />
+    <nd ref='-480407' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='19.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='20.790316999999998' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62554&quot;, &quot;to&quot;: &quot;62729&quot;, &quot;in_angle&quot;: 341, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62729' />
+    <tag k='nodes' v='[[48.136781, 11.615078], [48.136853, 11.615041], [48.136872, 11.615032], [48.136889, 11.615023], [48.136958, 11.614988]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='778903,62562' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62554' />
+    <tag k='speed' v='39.5791781337437' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='19.0' />
+  </way>
+  <way id='-164250' action='modify' visible='true'>
+    <nd ref='-480408' />
+    <nd ref='-480409' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='26.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='28.578099' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='97610' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62559&quot;, &quot;to&quot;: &quot;778924&quot;, &quot;in_angle&quot;: 89, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62559&quot;, &quot;to&quot;: &quot;778925&quot;, &quot;in_angle&quot;: 89, &quot;turn_angle&quot;: 36, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 3, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='778925,778924' />
+    <tag k='nodes' v='[[48.137337, 11.620513], [48.137339, 11.620898]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='62744,62551' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62559' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='26.0' />
+  </way>
+  <way id='-164256' action='modify' visible='true'>
+    <nd ref='-480455' />
+    <nd ref='-480456' />
+    <nd ref='-480457' />
+    <nd ref='-480458' />
+    <nd ref='-480459' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='118.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='131.141092' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62561&quot;, &quot;to&quot;: &quot;62562&quot;, &quot;in_angle&quot;: 86, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62561&quot;, &quot;to&quot;: &quot;62563&quot;, &quot;in_angle&quot;: 86, &quot;turn_angle&quot;: 94, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='62563,62562' />
+    <tag k='nodes' v='[[48.136641, 11.613019], [48.136665, 11.613407], [48.136701, 11.613848], [48.13676, 11.614578], [48.136764, 11.614663], [48.136769, 11.614775]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='778956,62527' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62561' />
+    <tag k='speed' v='40.09414406889337' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='118.0' />
+  </way>
+  <way id='-164258' visible='true'>
+    <nd ref='-480464' />
+    <nd ref='-480465' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='20.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='22.530469' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62562&quot;, &quot;to&quot;: &quot;778893&quot;, &quot;in_angle&quot;: 86, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62562&quot;, &quot;to&quot;: &quot;62554&quot;, &quot;in_angle&quot;: 86, &quot;turn_angle&quot;: -105, &quot;duration&quot;: 6, &quot;weight&quot;: 6, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='62554,778893' />
+    <tag k='nodes' v='[[48.136769, 11.614775], [48.136781, 11.615078]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='62754,62561' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62562' />
+    <tag k='speed' v='41.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='20.0' />
+  </way>
+  <way id='-164259' visible='true'>
+    <nd ref='-480466' />
+    <nd ref='-480467' />
+    <nd ref='-480468' />
+    <nd ref='-480469' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='41.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='36.265282' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62563&quot;, &quot;to&quot;: &quot;778938&quot;, &quot;in_angle&quot;: 170, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778938' />
+    <tag k='nodes' v='[[48.136769, 11.614775], [48.136666, 11.614773], [48.136446, 11.614828]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='62754,62561' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='62563' />
+    <tag k='speed' v='32.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='41.0' />
+  </way>
+  <way id='-164260' action='modify' visible='true'>
+    <nd ref='-480471' />
+    <nd ref='-480472' />
+    <nd ref='-480473' />
+    <nd ref='-480474' />
+    <nd ref='-480475' />
+    <nd ref='-480476' />
+    <nd ref='-480477' />
+    <nd ref='-480478' />
+    <nd ref='-480479' />
+    <nd ref='-480480' />
+    <nd ref='-480481' />
+    <nd ref='-480482' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='207.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='230.28028199999997' />
+    <tag k='name' v='Töginger Straße' />
+    <tag k='name_id' v='84195' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62564&quot;, &quot;to&quot;: &quot;62730&quot;, &quot;in_angle&quot;: 254, &quot;turn_angle&quot;: -4, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62564&quot;, &quot;to&quot;: &quot;62731&quot;, &quot;in_angle&quot;: 254, &quot;turn_angle&quot;: 22, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='62730,62731' />
+    <tag k='nodes' v='[[48.138491, 11.6267], [48.138462, 11.626019], [48.138434, 11.625353], [48.138384, 11.624528], [48.138356, 11.62422], [48.138328, 11.623978], [48.138299, 11.623783], [48.138269, 11.623621]]' />
+    <tag k='parts' v='7' />
+    <tag k='previous_segments' v='62573,779004' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62564' />
+    <tag k='speed' v='40.1977516598664' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='207.0' />
+  </way>
+  <way id='-164266' action='modify' visible='true'>
+    <nd ref='-480508' />
+    <nd ref='-480509' />
+    <nd ref='-480510' />
+    <nd ref='-480511' />
+    <nd ref='-480512' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='613.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='817.45077' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='111010' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62596&quot;, &quot;to&quot;: &quot;62549&quot;, &quot;in_angle&quot;: 176, &quot;turn_angle&quot;: -5, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62596&quot;, &quot;to&quot;: &quot;62550&quot;, &quot;in_angle&quot;: 176, &quot;turn_angle&quot;: 8, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='62550,62549' />
+    <tag k='nodes' v='[[48.14531, 11.615672], [48.144574, 11.61555], [48.140004, 11.614809], [48.139135, 11.614675], [48.138742, 11.614617], [48.13814, 11.614581], [48.137999, 11.614595]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62596' />
+    <tag k='speed' v='47.98077278953447' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='613.0' />
+  </way>
+  <way id='-164277' visible='true'>
+    <nd ref='-480552' />
+    <nd ref='-480553' />
+    <nd ref='-480554' />
+    <nd ref='-480555' />
+    <nd ref='-480556' />
+    <nd ref='-480557' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='36.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='40.045937' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780338&quot;, &quot;to&quot;: &quot;62729&quot;, &quot;in_angle&quot;: 265, &quot;turn_angle&quot;: 76, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780338&quot;, &quot;to&quot;: &quot;780236&quot;, &quot;in_angle&quot;: 265, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780236,62729' />
+    <tag k='nodes' v='[[48.136984, 11.615526], [48.136979, 11.615362], [48.136971, 11.615237], [48.136965, 11.615124], [48.136958, 11.614988]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='780337,780237' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780338' />
+    <tag k='speed' v='40.045287290942895' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='36.0' />
+  </way>
+  <way id='-164278' action='modify' visible='true'>
+    <nd ref='-480558' />
+    <nd ref='-480559' />
+    <nd ref='-480560' />
+    <nd ref='-480561' />
+    <nd ref='-480562' />
+    <nd ref='-480563' />
+    <nd ref='-480564' />
+    <nd ref='-480565' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='66.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='73.31079600000001' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='97610' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778924&quot;, &quot;to&quot;: &quot;778928&quot;, &quot;in_angle&quot;: 73, &quot;turn_angle&quot;: -7, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778928' />
+    <tag k='nodes' v='[[48.137339, 11.620898], [48.137343, 11.621176], [48.137366, 11.621445], [48.137389, 11.621605], [48.137442, 11.621868]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='62559' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778924' />
+    <tag k='speed' v='39.996622980331566' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='66.0' />
+  </way>
+  <way id='-164279' action='modify' visible='true'>
+    <nd ref='-480566' />
+    <nd ref='-480567' />
+    <nd ref='-480568' />
+    <nd ref='-480569' />
+    <nd ref='-480570' />
+    <nd ref='-480571' />
+    <nd ref='-480572' />
+    <nd ref='-480573' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='48.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='54.229494' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='97610' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778928&quot;, &quot;to&quot;: &quot;62553&quot;, &quot;in_angle&quot;: 47, &quot;turn_angle&quot;: 9, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62553' />
+    <tag k='nodes' v='[[48.137442, 11.621868], [48.137491, 11.62204], [48.137538, 11.622178], [48.137599, 11.622306], [48.137703, 11.622477]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='778927,778924' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778928' />
+    <tag k='speed' v='40.61012120083584' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='48.0' />
+  </way>
+  <way id='-164280' visible='true'>
+    <nd ref='-480574' />
+    <nd ref='-480575' />
+    <nd ref='-480576' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='80.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='33.497966' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='161120' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778927&quot;, &quot;to&quot;: &quot;778928&quot;, &quot;in_angle&quot;: 42, &quot;turn_angle&quot;: 24, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 5, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='778928' />
+    <tag k='nodes' v='[[48.137211, 11.62158], [48.137304, 11.621677], [48.137442, 11.621868]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='778926' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='778927' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='160.0' />
+  </way>
+  <way id='-164281' visible='true'>
+    <nd ref='-480577' />
+    <nd ref='-480578' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='61.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='25.575882' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778926&quot;, &quot;to&quot;: &quot;778927&quot;, &quot;in_angle&quot;: 83, &quot;turn_angle&quot;: -49, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='778927' />
+    <tag k='nodes' v='[[48.137183, 11.621238], [48.137211, 11.62158]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='778925' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='778926' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='123.0' />
+  </way>
+  <way id='-164282' visible='true'>
+    <nd ref='-480579' />
+    <nd ref='-480580' />
+    <nd ref='-480581' />
+    <nd ref='-480582' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='74.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='30.631148000000003' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778925&quot;, &quot;to&quot;: &quot;778926&quot;, &quot;in_angle&quot;: 123, &quot;turn_angle&quot;: -40, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='778926' />
+    <tag k='nodes' v='[[48.137339, 11.620898], [48.137248, 11.62109], [48.137183, 11.621238]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='62559' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='778925' />
+    <tag k='speed' v='14.999999999999998' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='147.0' />
+  </way>
+  <way id='-164285' visible='true'>
+    <nd ref='-480587' />
+    <nd ref='-480588' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='13.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='14.442956' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780236&quot;, &quot;to&quot;: &quot;62754&quot;, &quot;in_angle&quot;: 265, &quot;turn_angle&quot;: -82, &quot;duration&quot;: 4, &quot;weight&quot;: 4, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780236&quot;, &quot;to&quot;: &quot;62755&quot;, &quot;in_angle&quot;: 265, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62755,62754' />
+    <tag k='nodes' v='[[48.136958, 11.614988], [48.136948, 11.614794]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780338' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780236' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='13.0' />
+  </way>
+  <way id='-164286' action='modify' visible='true'>
+    <nd ref='-480589' />
+    <nd ref='-480590' />
+    <nd ref='-480591' />
+    <nd ref='-480592' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='113.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='125.514163' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780237&quot;, &quot;to&quot;: &quot;780339&quot;, &quot;in_angle&quot;: 267, &quot;turn_angle&quot;: 85, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780237&quot;, &quot;to&quot;: &quot;780338&quot;, &quot;in_angle&quot;: 267, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780339,780338' />
+    <tag k='nodes' v='[[48.137135, 11.617201], [48.13703, 11.616151], [48.13699, 11.615704], [48.136984, 11.615526]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='780310,780256' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780237' />
+    <tag k='speed' v='40.00000000000001' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='113.0' />
+  </way>
+  <way id='-164288' visible='true'>
+    <nd ref='-480602' />
+    <nd ref='-480603' />
+    <nd ref='-480604' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='56.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='62.381025' />
+    <tag k='name' v='Steinhauser Straße' />
+    <tag k='name_id' v='15325' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780238&quot;, &quot;to&quot;: &quot;780308&quot;, &quot;in_angle&quot;: 353, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780238&quot;, &quot;to&quot;: &quot;780309&quot;, &quot;in_angle&quot;: 353, &quot;turn_angle&quot;: 93, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780308,780309' />
+    <tag k='nodes' v='[[48.137135, 11.617201], [48.137253, 11.617171], [48.137691, 11.617092]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780256' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780238' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='56.0' />
+  </way>
+  <way id='-164289' action='modify' visible='true'>
+    <nd ref='-480605' />
+    <nd ref='-480606' />
+    <nd ref='-480607' />
+    <nd ref='-480608' />
+    <nd ref='-480609' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='107.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='119.33180399999999' />
+    <tag k='name' v='Richard-Strauss-Straße' />
+    <tag k='name_id' v='5390' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780239&quot;, &quot;to&quot;: &quot;780265&quot;, &quot;in_angle&quot;: 7, &quot;turn_angle&quot;: 78, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780239&quot;, &quot;to&quot;: &quot;780266&quot;, &quot;in_angle&quot;: 7, &quot;turn_angle&quot;: -98, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780239&quot;, &quot;to&quot;: &quot;780268&quot;, &quot;in_angle&quot;: 7, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780265,780266,780268' />
+    <tag k='nodes' v='[[48.138169, 11.61465], [48.138283, 11.614653], [48.138327, 11.614654], [48.138484, 11.614665], [48.13888, 11.614705], [48.139169, 11.614759], [48.139238, 11.614772]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='62729,780242' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780239' />
+    <tag k='speed' v='40.23011451331114' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='107.0' />
+  </way>
+  <way id='-164293' visible='true'>
+    <nd ref='-480623' />
+    <nd ref='-480624' />
+    <nd ref='-480625' />
+    <nd ref='-480626' />
+    <nd ref='-480627' />
+    <nd ref='-480628' />
+    <nd ref='-480629' />
+    <nd ref='-480630' />
+    <nd ref='-480631' />
+    <nd ref='-480632' />
+    <nd ref='-480633' />
+    <nd ref='-480634' />
+    <nd ref='-480635' />
+    <nd ref='-480636' />
+    <nd ref='-480637' />
+    <nd ref='-480638' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='29.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='32.215527' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778902&quot;, &quot;to&quot;: &quot;778938&quot;, &quot;in_angle&quot;: 215, &quot;turn_angle&quot;: -46, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='778938' />
+    <tag k='nodes' v='[[48.136488, 11.615191], [48.136512, 11.615122], [48.136528, 11.61507], [48.136534, 11.615039], [48.136535, 11.614996], [48.136529, 11.614952], [48.136514, 11.614911], [48.136493, 11.614878], [48.136446, 11.614828]]' />
+    <tag k='parts' v='8' />
+    <tag k='previous_segments' v='778964' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778902' />
+    <tag k='speed' v='40.0420431116958' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='29.0' />
+  </way>
+  <way id='-164294' action='modify' visible='true'>
+    <nd ref='-480639' />
+    <nd ref='-480640' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='77.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='86.072236' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780240&quot;, &quot;to&quot;: &quot;780247&quot;, &quot;in_angle&quot;: 91, &quot;turn_angle&quot;: 92, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780240&quot;, &quot;to&quot;: &quot;780248&quot;, &quot;in_angle&quot;: 91, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780248,780247' />
+    <tag k='nodes' v='[[48.138124, 11.615907], [48.138099, 11.617066]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780287,62733' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780240' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='77.0' />
+  </way>
+  <way id='-164295' action='modify' visible='true'>
+    <nd ref='-480641' />
+    <nd ref='-480642' />
+    <nd ref='-480643' />
+    <nd ref='-480644' />
+    <nd ref='-480645' />
+    <nd ref='-480646' />
+    <nd ref='-480647' />
+    <nd ref='-480648' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='119.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='157.47411' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='111010' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778901&quot;, &quot;to&quot;: &quot;778879&quot;, &quot;in_angle&quot;: 160, &quot;turn_angle&quot;: -2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='778879' />
+    <tag k='nodes' v='[[48.136421, 11.614951], [48.135967, 11.615109], [48.135737, 11.615204], [48.135467, 11.615335], [48.135064, 11.615548]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='62549' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778901' />
+    <tag k='speed' v='47.79954689059681' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='119.0' />
+  </way>
+  <way id='-164296' visible='true'>
+    <nd ref='-480649' />
+    <nd ref='-480650' />
+    <nd ref='-480651' />
+    <nd ref='-480652' />
+    <nd ref='-480653' />
+    <nd ref='-480654' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='30.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='33.731434' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='5915' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;778903&quot;, &quot;to&quot;: &quot;778893&quot;, &quot;in_angle&quot;: 341, &quot;turn_angle&quot;: 104, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;778903&quot;, &quot;to&quot;: &quot;62554&quot;, &quot;in_angle&quot;: 341, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62554,778893' />
+    <tag k='nodes' v='[[48.136488, 11.615191], [48.136649, 11.615145], [48.136691, 11.615124], [48.136781, 11.615078]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='778964' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='778903' />
+    <tag k='speed' v='40.49732658860575' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='30.0' />
+  </way>
+  <way id='-164297' visible='true'>
+    <nd ref='-480655' />
+    <nd ref='-480656' />
+    <nd ref='-480657' />
+    <nd ref='-480658' />
+    <nd ref='-480659' />
+    <nd ref='-480660' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='41.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='45.543881' />
+    <tag k='name' v='Steinhauser Straße' />
+    <tag k='name_id' v='15325' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780247&quot;, &quot;to&quot;: &quot;780309&quot;, &quot;in_angle&quot;: 173, &quot;turn_angle&quot;: -87, &quot;duration&quot;: 4, &quot;weight&quot;: 4, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780247&quot;, &quot;to&quot;: &quot;780310&quot;, &quot;in_angle&quot;: 173, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780310,780309' />
+    <tag k='nodes' v='[[48.138099, 11.617066], [48.138029, 11.61706], [48.137881, 11.617058], [48.137691, 11.617092]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='780240,780321,62737' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780247' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='41.0' />
+  </way>
+  <way id='-164298' action='modify' visible='true'>
+    <nd ref='-480661' />
+    <nd ref='-480662' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='88.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='97.318767' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780248&quot;, &quot;to&quot;: &quot;780320&quot;, &quot;in_angle&quot;: 90, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780248&quot;, &quot;to&quot;: &quot;780322&quot;, &quot;in_angle&quot;: 90, &quot;turn_angle&quot;: 90, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780320,780322' />
+    <tag k='nodes' v='[[48.138099, 11.617066], [48.138087, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780240,780308,62737' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780248' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='88.0' />
+  </way>
+  <way id='-164299' action='modify' visible='true'>
+    <nd ref='-480663' />
+    <nd ref='-480664' />
+    <nd ref='-480665' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='65.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='72.222226' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780245&quot;, &quot;to&quot;: &quot;780253&quot;, &quot;in_angle&quot;: 90, &quot;turn_angle&quot;: 87, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780245&quot;, &quot;to&quot;: &quot;780255&quot;, &quot;in_angle&quot;: 90, &quot;turn_angle&quot;: -2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780253,780255' />
+    <tag k='nodes' v='[[48.138086, 11.61846], [48.138086, 11.619331], [48.138085, 11.619433]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780320,780297' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780245' />
+    <tag k='speed' v='39.89515944856088' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='65.0' />
+  </way>
+  <way id='-164300' action='modify' visible='true'>
+    <nd ref='-480666' />
+    <nd ref='-480667' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='77.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='86.072236' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780246&quot;, &quot;to&quot;: &quot;780241&quot;, &quot;in_angle&quot;: 271, &quot;turn_angle&quot;: 91, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780246&quot;, &quot;to&quot;: &quot;780242&quot;, &quot;in_angle&quot;: 271, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780242,780241' />
+    <tag k='nodes' v='[[48.138099, 11.617066], [48.138124, 11.615907]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780321,780308,62737' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780246' />
+    <tag k='speed' v='40.0' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='77.0' />
+  </way>
+  <way id='-164301' visible='true'>
+    <nd ref='-480668' />
+    <nd ref='-480669' />
+    <nd ref='-480670' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='27.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='18.021357000000002' />
+    <tag k='name' v='Wagenbauerstraße' />
+    <tag k='name_id' v='153985' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780243&quot;, &quot;to&quot;: &quot;780298&quot;, &quot;in_angle&quot;: 0, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780298' />
+    <tag k='nodes' v='[[48.138086, 11.61846], [48.138182, 11.618457], [48.138248, 11.618458]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780254,780320' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780243' />
+    <tag k='speed' v='23.999999999999996' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='27.0' />
+  </way>
+  <way id='-164302' action='modify' visible='true'>
+    <nd ref='-480671' />
+    <nd ref='-480672' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='6.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='6.16172' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780244&quot;, &quot;to&quot;: &quot;780321&quot;, &quot;in_angle&quot;: 271, &quot;turn_angle&quot;: -1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780244&quot;, &quot;to&quot;: &quot;780322&quot;, &quot;in_angle&quot;: 271, &quot;turn_angle&quot;: -91, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='780321,780322' />
+    <tag k='nodes' v='[[48.138086, 11.61846], [48.138087, 11.618377]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780254,780297' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780244' />
+    <tag k='speed' v='37.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='6.0' />
+  </way>
+  <way id='-164304' visible='true'>
+    <nd ref='-480678' />
+    <nd ref='-480679' />
+    <nd ref='-480680' />
+    <nd ref='-480681' />
+    <nd ref='-480682' />
+    <nd ref='-480683' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='25.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='16.584085' />
+    <tag k='name' v='Vogelweidestraße' />
+    <tag k='name_id' v='51155' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780249&quot;, &quot;to&quot;: &quot;62749&quot;, &quot;in_angle&quot;: 353, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780249&quot;, &quot;to&quot;: &quot;62750&quot;, &quot;in_angle&quot;: 353, &quot;turn_angle&quot;: -88, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='62750,62749' />
+    <tag k='nodes' v='[[48.138112, 11.620019], [48.1382, 11.620003], [48.138223, 11.619998], [48.13826, 11.619992]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='780261,780255' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780249' />
+    <tag k='speed' v='24.093729319404716' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='25.0' />
+  </way>
+  <way id='-164305' action='modify' visible='true'>
+    <nd ref='-480685' />
+    <nd ref='-480686' />
+    <nd ref='-480687' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='40.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='43.658989000000005' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780251&quot;, &quot;to&quot;: &quot;780253&quot;, &quot;in_angle&quot;: 268, &quot;turn_angle&quot;: -91, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780251&quot;, &quot;to&quot;: &quot;780254&quot;, &quot;in_angle&quot;: 268, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780254,780253' />
+    <tag k='nodes' v='[[48.138112, 11.620019], [48.138089, 11.619742], [48.138085, 11.619433]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780261,62748' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780251' />
+    <tag k='speed' v='39.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='40.0' />
+  </way>
+  <way id='-164306' visible='true'>
+    <nd ref='-480688' />
+    <nd ref='-480689' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='34.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='14.240062' />
+    <tag k='name' v='Vogelweideplatz' />
+    <tag k='name_id' v='51160' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780258&quot;, &quot;to&quot;: &quot;780328&quot;, &quot;in_angle&quot;: 178, &quot;turn_angle&quot;: -85, &quot;duration&quot;: 4, &quot;weight&quot;: 4, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780258&quot;, &quot;to&quot;: &quot;780327&quot;, &quot;in_angle&quot;: 178, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780328,780327' />
+    <tag k='nodes' v='[[48.137995, 11.619439], [48.137867, 11.619443]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780253' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780258' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='34.0' />
+  </way>
+  <way id='-164307' visible='true'>
+    <nd ref='-480690' />
+    <nd ref='-480691' />
+    <nd ref='-480692' />
+    <nd ref='-480693' />
+    <nd ref='-480694' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='71.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='78.15274' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='134155' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780259&quot;, &quot;to&quot;: &quot;780269&quot;, &quot;in_angle&quot;: 241, &quot;turn_angle&quot;: 7, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780269' />
+    <tag k='nodes' v='[[48.13802, 11.622893], [48.137934, 11.622754], [48.137768, 11.622405], [48.137707, 11.622253], [48.137626, 11.622026]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='780264' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780259' />
+    <tag k='speed' v='39.24447956655134' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='71.0' />
+  </way>
+  <way id='-164308' action='modify' visible='true'>
+    <nd ref='-480695' />
+    <nd ref='-480696' />
+    <nd ref='-480697' />
+    <nd ref='-480698' />
+    <nd ref='-480699' />
+    <nd ref='-480700' />
+    <nd ref='-480701' />
+    <nd ref='-480702' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='150.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='167.329371' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780256&quot;, &quot;to&quot;: &quot;780237&quot;, &quot;in_angle&quot;: 261, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780256&quot;, &quot;to&quot;: &quot;780238&quot;, &quot;in_angle&quot;: 261, &quot;turn_angle&quot;: 89, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780238,780237' />
+    <tag k='nodes' v='[[48.137389, 11.619422], [48.137311, 11.618695], [48.137248, 11.618287], [48.137211, 11.617966], [48.137189, 11.617752], [48.137135, 11.617201]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='780252,780323' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780256' />
+    <tag k='speed' v='40.09604949151455' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='150.0' />
+  </way>
+  <way id='-164309' visible='true'>
+    <nd ref='-480703' />
+    <nd ref='-480704' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='24.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='10.020269' />
+    <tag k='name' v='Vogelweideplatz' />
+    <tag k='name_id' v='51160' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780257&quot;, &quot;to&quot;: &quot;780254&quot;, &quot;in_angle&quot;: 357, &quot;turn_angle&quot;: -87, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780257&quot;, &quot;to&quot;: &quot;780255&quot;, &quot;in_angle&quot;: 357, &quot;turn_angle&quot;: 91, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 8, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780254,780255' />
+    <tag k='nodes' v='[[48.137995, 11.619439], [48.138085, 11.619433]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780257' />
+    <tag k='speed' v='14.999999999999998' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='24.0' />
+  </way>
+  <way id='-164310' action='modify' visible='true'>
+    <nd ref='-480705' />
+    <nd ref='-480706' />
+    <nd ref='-480707' />
+    <nd ref='-480708' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='65.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='72.222226' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780254&quot;, &quot;to&quot;: &quot;780243&quot;, &quot;in_angle&quot;: 270, &quot;turn_angle&quot;: 88, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780254&quot;, &quot;to&quot;: &quot;780244&quot;, &quot;in_angle&quot;: 270, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780244,780243' />
+    <tag k='nodes' v='[[48.138085, 11.619433], [48.138086, 11.619331], [48.138086, 11.61846]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780251,780257' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780254' />
+    <tag k='speed' v='39.89515944856088' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='65.0' />
+  </way>
+  <way id='-164311' action='modify' visible='true'>
+    <nd ref='-480710' />
+    <nd ref='-480711' />
+    <nd ref='-480712' />
+    <nd ref='-480713' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='40.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='43.658989000000005' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780255&quot;, &quot;to&quot;: &quot;780249&quot;, &quot;in_angle&quot;: 82, &quot;turn_angle&quot;: -89, &quot;duration&quot;: 5, &quot;weight&quot;: 3276, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780255&quot;, &quot;to&quot;: &quot;780250&quot;, &quot;in_angle&quot;: 82, &quot;turn_angle&quot;: 91, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780250,780249' />
+    <tag k='nodes' v='[[48.138085, 11.619433], [48.138089, 11.619742], [48.138112, 11.620019]]' />
+    <tag k='parts' v='2' />
+    <tag k='previous_segments' v='780245,780257' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780255' />
+    <tag k='speed' v='39.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='40.0' />
+  </way>
+  <way id='-164312' action='modify' visible='true'>
+    <nd ref='-480714' />
+    <nd ref='-480715' />
+    <nd ref='-480716' />
+    <nd ref='-480717' />
+    <nd ref='-480718' />
+    <nd ref='-480719' />
+    <nd ref='-480720' />
+    <nd ref='-480721' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='50.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='54.69165199999999' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780252&quot;, &quot;to&quot;: &quot;780256&quot;, &quot;in_angle&quot;: 260, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780256' />
+    <tag k='nodes' v='[[48.137494, 11.620141], [48.137472, 11.619982], [48.137448, 11.619837], [48.137418, 11.619684], [48.137389, 11.619422]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='780263,780250' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780252' />
+    <tag k='speed' v='39.20275359391229' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='50.0' />
+  </way>
+  <way id='-164313' visible='true'>
+    <nd ref='-480722' />
+    <nd ref='-480723' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='24.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='10.020269' />
+    <tag k='name' v='Vogelweideplatz' />
+    <tag k='name_id' v='51160' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780253&quot;, &quot;to&quot;: &quot;780258&quot;, &quot;in_angle&quot;: 177, &quot;turn_angle&quot;: 1, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780258' />
+    <tag k='nodes' v='[[48.138085, 11.619433], [48.137995, 11.619439]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='780251,780245' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='780253' />
+    <tag k='speed' v='14.999999999999998' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='24.0' />
+  </way>
+  <way id='-164314' action='modify' visible='true'>
+    <nd ref='-480724' />
+    <nd ref='-480725' />
+    <nd ref='-480726' />
+    <nd ref='-480727' />
+    <nd ref='-480728' />
+    <nd ref='-480729' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='38.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='42.518620999999996' />
+    <tag k='name' v='Töginger Straße' />
+    <tag k='name_id' v='49670' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62730&quot;, &quot;to&quot;: &quot;780264&quot;, &quot;in_angle&quot;: 240, &quot;turn_angle&quot;: -5, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780264' />
+    <tag k='nodes' v='[[48.138269, 11.623621], [48.138236, 11.623478], [48.138173, 11.623254], [48.138114, 11.623099]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='62564' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62730' />
+    <tag k='speed' v='40.42434965141509' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='38.0' />
+  </way>
+  <way id='-164315' visible='true'>
+    <nd ref='-480730' />
+    <nd ref='-480731' />
+    <nd ref='-480732' />
+    <nd ref='-480733' />
+    <nd ref='-480734' />
+    <nd ref='-480735' />
+    <nd ref='-480736' />
+    <nd ref='-480737' />
+    <nd ref='-480738' />
+    <nd ref='-480739' />
+    <nd ref='-480740' />
+    <nd ref='-480741' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='50.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='56.334369' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='118195' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62731&quot;, &quot;to&quot;: &quot;780261&quot;, &quot;in_angle&quot;: 249, &quot;turn_angle&quot;: 14, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780261' />
+    <tag k='nodes' v='[[48.138269, 11.623621], [48.138289, 11.623346], [48.138302, 11.623255], [48.138326, 11.623162], [48.138337, 11.623085], [48.138337, 11.62303], [48.13833, 11.62297], [48.138308, 11.622881]]' />
+    <tag k='parts' v='7' />
+    <tag k='previous_segments' v='62564' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62731' />
+    <tag k='speed' v='40.54480075919552' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='50.0' />
+  </way>
+  <way id='-164316' visible='true'>
+    <nd ref='-480742' />
+    <nd ref='-480743' />
+    <nd ref='-480744' />
+    <nd ref='-480745' />
+    <nd ref='-480746' />
+    <nd ref='-480747' />
+    <nd ref='-480748' />
+    <nd ref='-480749' />
+    <nd ref='-480750' />
+    <nd ref='-480751' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='154.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='137.117041' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62734&quot;, &quot;to&quot;: &quot;62754&quot;, &quot;in_angle&quot;: 181, &quot;turn_angle&quot;: 2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62734&quot;, &quot;to&quot;: &quot;62755&quot;, &quot;in_angle&quot;: 181, &quot;turn_angle&quot;: 84, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='62755,62754' />
+    <tag k='nodes' v='[[48.138169, 11.61465], [48.138069, 11.614608], [48.137547, 11.614698], [48.137435, 11.614717], [48.137064, 11.614796], [48.137013, 11.614797], [48.136948, 11.614794]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='62628,780267' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='62734' />
+    <tag k='speed' v='32.13549878165764' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='154.0' />
+  </way>
+  <way id='-164317' action='modify' visible='true'>
+    <nd ref='-480752' />
+    <nd ref='-480753' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='614.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='818.257175' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='111010' />
+    <tag k='next_maneuvers' v='[]' />
+    <tag k='next_segments' v='' />
+    <tag k='nodes' v='[[48.137979, 11.614753], [48.138728, 11.614799], [48.139065, 11.614853], [48.144564, 11.61569], [48.145301, 11.615803]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='780270,62743' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62735' />
+    <tag k='speed' v='47.99999999999999' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='614.0' />
+  </way>
+  <way id='-164321' action='modify' visible='true'>
+    <nd ref='-480779' />
+    <nd ref='-480780' />
+    <nd ref='-480781' />
+    <nd ref='-480782' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='50.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='55.13957500000001' />
+    <tag k='name' v='Zamdorfer Straße' />
+    <tag k='name_id' v='36065' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62607&quot;, &quot;to&quot;: &quot;779340&quot;, &quot;in_angle&quot;: 95, &quot;turn_angle&quot;: -9, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62607&quot;, &quot;to&quot;: &quot;779341&quot;, &quot;in_angle&quot;: 95, &quot;turn_angle&quot;: 94, &quot;duration&quot;: 1, &quot;weight&quot;: 1, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='779341,779340' />
+    <tag k='nodes' v='[[48.138287, 11.625447], [48.138248, 11.625631], [48.138229, 11.625821], [48.138185, 11.626033], [48.138176, 11.626168]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='62553' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62607' />
+    <tag k='speed' v='39.741378819114935' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='50.0' />
+  </way>
+  <way id='-164322' visible='true'>
+    <nd ref='-480783' />
+    <nd ref='-480784' />
+    <nd ref='-480785' />
+    <nd ref='-480786' />
+    <nd ref='-480787' />
+    <nd ref='-480788' />
+    <nd ref='-480789' />
+    <nd ref='-480790' />
+    <nd ref='-480791' />
+    <nd ref='-480792' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='155.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='137.912588' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62729&quot;, &quot;to&quot;: &quot;62732&quot;, &quot;in_angle&quot;: 330, &quot;turn_angle&quot;: -57, &quot;duration&quot;: 3, &quot;weight&quot;: 3, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;62729&quot;, &quot;to&quot;: &quot;62733&quot;, &quot;in_angle&quot;: 330, &quot;turn_angle&quot;: 123, &quot;duration&quot;: 3, &quot;weight&quot;: 3, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;62729&quot;, &quot;to&quot;: &quot;780239&quot;, &quot;in_angle&quot;: 330, &quot;turn_angle&quot;: 31, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780239,62732,62733' />
+    <tag k='nodes' v='[[48.136958, 11.614988], [48.137026, 11.614953], [48.137263, 11.614898], [48.137558, 11.614833], [48.138017, 11.614747], [48.138066, 11.614736], [48.138169, 11.61465]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='62554,780338' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='62729' />
+    <tag k='speed' v='31.944865322953696' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='155.0' />
+  </way>
+  <way id='-164323' action='modify' visible='true'>
+    <nd ref='-480793' />
+    <nd ref='-480794' />
+    <nd ref='-480795' />
+    <nd ref='-480796' />
+    <nd ref='-480797' />
+    <nd ref='-480798' />
+    <nd ref='-480799' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='192.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='213.55707700000002' />
+    <tag k='name' v='Prinzregentenstraße' />
+    <tag k='name_id' v='23690' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780261&quot;, &quot;to&quot;: &quot;780249&quot;, &quot;in_angle&quot;: 262, &quot;turn_angle&quot;: 91, &quot;duration&quot;: 2, &quot;weight&quot;: 3276, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780261&quot;, &quot;to&quot;: &quot;780250&quot;, &quot;in_angle&quot;: 262, &quot;turn_angle&quot;: -89, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780261&quot;, &quot;to&quot;: &quot;780251&quot;, &quot;in_angle&quot;: 262, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780251,780250,780249' />
+    <tag k='nodes' v='[[48.138308, 11.622881], [48.138217, 11.62159], [48.13813, 11.620227], [48.138124, 11.620161], [48.138112, 11.620019]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='62731' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780261' />
+    <tag k='speed' v='39.993107828498694' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='192.0' />
+  </way>
+  <way id='-164325' action='modify' visible='true'>
+    <nd ref='-480806' />
+    <nd ref='-480807' />
+    <nd ref='-480808' />
+    <nd ref='-480809' />
+    <nd ref='-480810' />
+    <nd ref='-480811' />
+    <nd ref='-480812' />
+    <nd ref='-480813' />
+    <nd ref='-480814' />
+    <nd ref='-480815' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='171.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='189.343951' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780260&quot;, &quot;to&quot;: &quot;62744&quot;, &quot;in_angle&quot;: 269, &quot;turn_angle&quot;: -42, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 2, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;780260&quot;, &quot;to&quot;: &quot;780263&quot;, &quot;in_angle&quot;: 269, &quot;turn_angle&quot;: -2, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780263,62744' />
+    <tag k='nodes' v='[[48.13802, 11.622893], [48.137914, 11.622576], [48.137805, 11.622317], [48.137705, 11.622049], [48.137626, 11.621762], [48.137572, 11.621485], [48.137551, 11.621305], [48.137536, 11.621113], [48.137533, 11.620505]]' />
+    <tag k='parts' v='8' />
+    <tag k='previous_segments' v='780264' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780260' />
+    <tag k='speed' v='40.045432325429815' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='171.0' />
+  </way>
+  <way id='-164326' visible='true'>
+    <nd ref='-480816' />
+    <nd ref='-480817' />
+    <nd ref='-480818' />
+    <nd ref='-480819' />
+    <nd ref='-480820' />
+    <nd ref='-480821' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='100.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='111.32567200000001' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='134630' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780269&quot;, &quot;to&quot;: &quot;780270&quot;, &quot;in_angle&quot;: 268, &quot;turn_angle&quot;: -3, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 17, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780270' />
+    <tag k='nodes' v='[[48.137626, 11.622026], [48.137538, 11.621693], [48.137506, 11.621509], [48.13748, 11.621312], [48.137468, 11.621032], [48.137461, 11.620562]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='780259' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780269' />
+    <tag k='speed' v='40.133490332759905' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='100.0' />
+  </way>
+  <way id='-164329' action='modify' visible='true'>
+    <nd ref='-480837' />
+    <nd ref='-480838' />
+    <nd ref='-480839' />
+    <nd ref='-480840' />
+    <nd ref='-480841' />
+    <nd ref='-480842' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='107.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='119.33180399999999' />
+    <tag k='name' v='Richard-Strauss-Straße' />
+    <tag k='name_id' v='5390' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780267&quot;, &quot;to&quot;: &quot;62732&quot;, &quot;in_angle&quot;: 181, &quot;turn_angle&quot;: 92, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;780267&quot;, &quot;to&quot;: &quot;62734&quot;, &quot;in_angle&quot;: 181, &quot;turn_angle&quot;: 14, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62732,62734' />
+    <tag k='nodes' v='[[48.139238, 11.614772], [48.139169, 11.614759], [48.13888, 11.614705], [48.138484, 11.614665], [48.138327, 11.614654], [48.138283, 11.614653], [48.138169, 11.61465]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='780276,62752,62747' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780267' />
+    <tag k='speed' v='40.23011451331114' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='107.0' />
+  </way>
+  <way id='-164337' action='modify' visible='true'>
+    <nd ref='-480876' />
+    <nd ref='-480877' />
+    <nd ref='-480878' />
+    <nd ref='-480879' />
+    <nd ref='-480880' />
+    <nd ref='-480881' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='24.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='2' />
+    <tag k='length' v='27.474474999999998' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780263&quot;, &quot;to&quot;: &quot;780252&quot;, &quot;in_angle&quot;: 255, &quot;turn_angle&quot;: 3, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='780252' />
+    <tag k='nodes' v='[[48.137533, 11.620505], [48.13753, 11.620394], [48.137519, 11.620284], [48.137494, 11.620141]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='780260' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780263' />
+    <tag k='speed' v='41.20125512862393' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='24.0' />
+  </way>
+  <way id='-164339' action='modify' visible='true'>
+    <nd ref='-480884' />
+    <nd ref='-480885' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='17.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='3' />
+    <tag k='length' v='18.523251' />
+    <tag k='name' v='Töginger Straße' />
+    <tag k='name_id' v='49670' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780264&quot;, &quot;to&quot;: &quot;780259&quot;, &quot;in_angle&quot;: 235, &quot;turn_angle&quot;: -8, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;780264&quot;, &quot;to&quot;: &quot;780260&quot;, &quot;in_angle&quot;: 235, &quot;turn_angle&quot;: 8, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 6, &quot;modifier&quot;: 3}]' />
+    <tag k='next_segments' v='780259,780260' />
+    <tag k='nodes' v='[[48.138114, 11.623099], [48.13802, 11.622893]]' />
+    <tag k='parts' v='1' />
+    <tag k='previous_segments' v='62730,780262' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780264' />
+    <tag k='speed' v='39.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='17.0' />
+  </way>
+  <way id='-164341' visible='true'>
+    <nd ref='-480889' />
+    <nd ref='-480890' />
+    <nd ref='-480891' />
+    <nd ref='-480892' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='129.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='173.150779' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='111010' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62743&quot;, &quot;to&quot;: &quot;62735&quot;, &quot;in_angle&quot;: 354, &quot;turn_angle&quot;: 8, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62735' />
+    <tag k='nodes' v='[[48.136438, 11.615072], [48.137044, 11.614904], [48.137198, 11.614874], [48.137979, 11.614753]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='62548' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62743' />
+    <tag k='speed' v='47.99999999999999' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='129.0' />
+  </way>
+  <way id='-164342' visible='true'>
+    <nd ref='-480893' />
+    <nd ref='-480894' />
+    <nd ref='-480895' />
+    <nd ref='-480896' />
+    <nd ref='-480897' />
+    <nd ref='-480898' />
+    <nd ref='-480899' />
+    <nd ref='-480900' />
+    <nd ref='-480901' />
+    <nd ref='-480902' />
+    <nd ref='-480903' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='25.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='28.203762000000005' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='97610' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62744&quot;, &quot;to&quot;: &quot;62559&quot;, &quot;in_angle&quot;: 127, &quot;turn_angle&quot;: -38, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 6}]' />
+    <tag k='next_segments' v='62559' />
+    <tag k='nodes' v='[[48.137533, 11.620505], [48.137487, 11.620431], [48.137448, 11.620405], [48.137415, 11.620405], [48.137386, 11.620418], [48.137337, 11.620513]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='780260' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62744' />
+    <tag k='speed' v='40.75942411512336' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='25.0' />
+  </way>
+  <way id='-164345' visible='true'>
+    <nd ref='-480912' />
+    <nd ref='-480913' />
+    <nd ref='-480914' />
+    <nd ref='-480915' />
+    <nd ref='-480916' />
+    <nd ref='-480917' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='25.0' />
+    <tag k='is_forward' v='false' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='16.584085' />
+    <tag k='name' v='Vogelweidestraße' />
+    <tag k='name_id' v='51155' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62748&quot;, &quot;to&quot;: &quot;780250&quot;, &quot;in_angle&quot;: 173, &quot;turn_angle&quot;: 0, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 1, &quot;modifier&quot;: 4}, {&quot;from&quot;: &quot;62748&quot;, &quot;to&quot;: &quot;780251&quot;, &quot;in_angle&quot;: 173, &quot;turn_angle&quot;: 89, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 3, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780250,780251' />
+    <tag k='nodes' v='[[48.13826, 11.619992], [48.138223, 11.619998], [48.1382, 11.620003], [48.138112, 11.620019]]' />
+    <tag k='parts' v='3' />
+    <tag k='previous_segments' v='62712' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='62748' />
+    <tag k='speed' v='24.093729319404716' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='25.0' />
+  </way>
+  <way id='-164348' visible='true'>
+    <nd ref='-480922' />
+    <nd ref='-480923' />
+    <nd ref='-480924' />
+    <nd ref='-480925' />
+    <nd ref='-480926' />
+    <nd ref='-480927' />
+    <nd ref='-480928' />
+    <nd ref='-480929' />
+    <nd ref='-480930' />
+    <nd ref='-480931' />
+    <nd ref='-480932' />
+    <nd ref='-480933' />
+    <nd ref='-480934' />
+    <nd ref='-480935' />
+    <nd ref='-480936' />
+    <nd ref='-480937' />
+    <nd ref='-480938' />
+    <nd ref='-480939' />
+    <nd ref='-480940' />
+    <nd ref='-480941' />
+    <nd ref='-480942' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='489.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='543.825521' />
+    <tag k='name' v='Richard-Strauss-Tunnel' />
+    <tag k='name_id' v='134630' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780270&quot;, &quot;to&quot;: &quot;62735&quot;, &quot;in_angle&quot;: 343, &quot;turn_angle&quot;: 19, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 4, &quot;modifier&quot;: 5}]' />
+    <tag k='next_segments' v='62735' />
+    <tag k='nodes' v='[[48.137461, 11.620562], [48.137452, 11.62037], [48.137428, 11.62002], [48.137162, 11.617555], [48.137094, 11.617228], [48.136967, 11.616813], [48.136852, 11.616432], [48.136792, 11.616111], [48.136755, 11.615764], [48.136764, 11.615437], [48.136813, 11.615237], [48.136893, 11.61512], [48.136985, 11.615056], [48.137202, 11.615001], [48.137589, 11.614922], [48.137979, 11.614753]]' />
+    <tag k='parts' v='15' />
+    <tag k='previous_segments' v='780269' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='780270' />
+    <tag k='speed' v='40.1349439483183' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='489.0' />
+  </way>
+  <way id='-164354' visible='true'>
+    <nd ref='-480962' />
+    <nd ref='-480963' />
+    <nd ref='-480964' />
+    <nd ref='-480965' />
+    <nd ref='-480966' />
+    <nd ref='-480967' />
+    <nd ref='-480968' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='274.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='false' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='113.924807' />
+    <tag k='name' v='' />
+    <tag k='name_id' v='0' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62750&quot;, &quot;to&quot;: &quot;780297&quot;, &quot;in_angle&quot;: 270, &quot;turn_angle&quot;: -90, &quot;duration&quot;: 5, &quot;weight&quot;: 5, &quot;type&quot;: 8, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;62750&quot;, &quot;to&quot;: &quot;780298&quot;, &quot;in_angle&quot;: 270, &quot;turn_angle&quot;: 90, &quot;duration&quot;: 2, &quot;weight&quot;: 2, &quot;type&quot;: 8, &quot;modifier&quot;: 2}]' />
+    <tag k='next_segments' v='780298,780297' />
+    <tag k='nodes' v='[[48.13826, 11.619992], [48.138254, 11.61987], [48.138244, 11.619647], [48.138244, 11.619595], [48.138248, 11.618619], [48.138248, 11.618458]]' />
+    <tag k='parts' v='5' />
+    <tag k='previous_segments' v='62712,780249' />
+    <tag k='rate' v='0' />
+    <tag k='segment_id' v='62750' />
+    <tag k='speed' v='15.0' />
+    <tag k='speed_class' v='1' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='548.0' />
+  </way>
+  <way id='-164357' visible='true'>
+    <nd ref='-480973' />
+    <nd ref='-480974' />
+    <nd ref='-480975' />
+    <nd ref='-480976' />
+    <nd ref='-480977' />
+    <nd ref='-480978' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='18.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='19.959509' />
+    <tag k='name' v='Leuchtenbergring' />
+    <tag k='name_id' v='107640' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62754&quot;, &quot;to&quot;: &quot;62562&quot;, &quot;in_angle&quot;: 184, &quot;turn_angle&quot;: -98, &quot;duration&quot;: 6, &quot;weight&quot;: 6, &quot;type&quot;: 3, &quot;modifier&quot;: 6}, {&quot;from&quot;: &quot;62754&quot;, &quot;to&quot;: &quot;62563&quot;, &quot;in_angle&quot;: 184, &quot;turn_angle&quot;: -4, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62563,62562' />
+    <tag k='nodes' v='[[48.136948, 11.614794], [48.136889, 11.614788], [48.136872, 11.614786], [48.136852, 11.614784], [48.136769, 11.614775]]' />
+    <tag k='parts' v='4' />
+    <tag k='previous_segments' v='780236,62734' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62754' />
+    <tag k='speed' v='40.02777628447674' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='18.0' />
+  </way>
+  <way id='-164358' action='modify' visible='true'>
+    <nd ref='-480979' />
+    <nd ref='-480980' />
+    <nd ref='-480981' />
+    <nd ref='-480982' />
+    <nd ref='-480983' />
+    <tag k='component_id' v='354' />
+    <tag k='duration' v='110.0' />
+    <tag k='is_forward' v='true' />
+    <tag k='is_startpoint' v='true' />
+    <tag k='is_tiny' v='false' />
+    <tag k='lanes' v='1' />
+    <tag k='length' v='123.446397' />
+    <tag k='name' v='Einsteinstraße' />
+    <tag k='name_id' v='2005' />
+    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;62755&quot;, &quot;to&quot;: &quot;62634&quot;, &quot;in_angle&quot;: 259, &quot;turn_angle&quot;: 98, &quot;duration&quot;: 3, &quot;weight&quot;: 3, &quot;type&quot;: 3, &quot;modifier&quot;: 2}, {&quot;from&quot;: &quot;62755&quot;, &quot;to&quot;: &quot;62635&quot;, &quot;in_angle&quot;: 259, &quot;turn_angle&quot;: 5, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 18, &quot;modifier&quot;: 4}]' />
+    <tag k='next_segments' v='62635,62634' />
+    <tag k='nodes' v='[[48.136948, 11.614794], [48.136941, 11.614654], [48.136875, 11.613778], [48.13685, 11.61357], [48.136835, 11.613455], [48.136802, 11.613291], [48.136785, 11.613152]]' />
+    <tag k='parts' v='6' />
+    <tag k='previous_segments' v='780236,62734' />
+    <tag k='rate' v='1' />
+    <tag k='segment_id' v='62755' />
+    <tag k='speed' v='40.47431335723797' />
+    <tag k='speed_class' v='2' />
+    <tag k='type' v='segment' />
+    <tag k='weight' v='110.0' />
+  </way>
+</osm>

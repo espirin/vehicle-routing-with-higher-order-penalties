@@ -1,4 +1,4 @@
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Set
 
 from ortools.constraint_solver import pywrapcp, routing_enums_pb2
 
@@ -10,10 +10,10 @@ class LaneletsOptimiser:
     def __init__(self, lanelets: List[Lanelet], matrix: Dict[str, Dict[str, int]],
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,
                  first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy,
-                 max_optimisation_duration: int, connections: Dict):
+                 max_optimisation_duration: int, connections: Set, check_topology: bool = True):
         self.lanelets = lanelets
         self.matrix: Dict[str, Dict[str, int]] = matrix
-        self.connections: Dict = connections
+        self.connections: Set = connections
 
         # Create routing model
         self.manager = pywrapcp.RoutingIndexManager(len(self.lanelets), 1, [0],
@@ -29,7 +29,7 @@ class LaneletsOptimiser:
 
             from_lanelet = self.lanelets[from_element_index]
             to_lanelet = self.lanelets[to_element_index]
-            return from_lanelet.get_cost_to(to_lanelet, matrix, self.connections)
+            return from_lanelet.get_cost_to(to_lanelet, matrix, self.connections, check_topology)
 
         transit_callback_index = self.routing.RegisterTransitCallback(distance_callback)
         self.routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)

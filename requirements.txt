@@ -7,3 +7,5 @@ lxml
 notebook
 mapboxgl
 python-dotenv
+matplotlib
+numpy

@@ -14,7 +14,9 @@ class ConnectionsOptimiser:
                  matrix: Dict[str, Dict[str, int]],
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,
                  first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy,
-                 max_optimisation_duration: int):
+                 max_optimisation_duration: int,
+                 straight_non_straight_maneuver_penalty=600,
+                 non_straight_straight_maneuver_penalty=200):
         self.connections: List[CompleteConnection] = connections
         self.disjunctions: List[List[int]] = disjunctions
         self.matrix: Dict[str, Dict[str, int]] = matrix
@@ -33,13 +35,16 @@ class ConnectionsOptimiser:
 
             from_connection = self.connections[from_element_index]
             to_connection = self.connections[to_element_index]
-            return from_connection.get_cost_to(to_connection, self.matrix)
+            return from_connection.get_cost_to(to_connection,
+                                               self.matrix,
+                                               straight_non_straight_maneuver_penalty,
+                                               non_straight_straight_maneuver_penalty)
 
         transit_callback_index = self.routing.RegisterTransitCallback(distance_callback)
         self.routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)
 
         # Add disjunctions
-        for pack in disjunctions:
+        for pack in self.disjunctions:
             self.routing.AddDisjunction([self.manager.NodeToIndex(i) for i in pack],
                                         OPTIMISER_INFINITY,
                                         1)

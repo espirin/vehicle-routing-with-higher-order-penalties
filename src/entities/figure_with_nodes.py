@@ -12,12 +12,13 @@ class FigureWithNodes(ABC):
 
     def __init__(self, nodes: List[Node]):
         self.nodes = nodes
+        self.original_nodes = nodes
 
     def get_length(self) -> float:
-        utm_zone_number = latlon_to_zone_number(self.nodes[0].position.latlon.lat,
-                                                self.nodes[0].position.latlon.lon)
+        utm_zone_number = latlon_to_zone_number(self.original_nodes[0].position.latlon.lat,
+                                                self.original_nodes[0].position.latlon.lon)
         nodes = []
-        for node in self.nodes:
+        for node in self.original_nodes:
             utm = node.position.get_utm_with_forced_zone(utm_zone_number)
             nodes.append([utm.north, utm.east])
 
