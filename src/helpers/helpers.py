@@ -60,3 +60,20 @@ def create_straights(order: List[Lanelet], rp: RoutingProblem) -> List[float]:
         straights.append(current_straight)
 
     return straights
+
+
+def format_x_graph_order(order) -> List[Lanelet]:
+    cut_x_graph_order = order[1:-1]
+    lanelets_order = []
+
+    for maneuver in cut_x_graph_order:
+        lanelets_order.append(maneuver.lanelet_from)
+        lanelets_order.append(maneuver.lanelet_to)
+
+    shortened_x_graph_order = []
+    for lanelet in lanelets_order:
+        if len(shortened_x_graph_order) > 0 and shortened_x_graph_order[-1].segment.id == lanelet.segment.id:
+            continue
+        shortened_x_graph_order.append(lanelet)
+
+    return shortened_x_graph_order
