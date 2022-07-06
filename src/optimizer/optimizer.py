@@ -46,12 +46,18 @@ class Optimizer(ABC):
     def distance_callback(self, from_index, to_index) -> int:
         pass
 
-    def optimize(self) -> Tuple[List, Dict[str, int]]:
+    def optimize(self, return_dict: Dict = None, proc_number: int = None) -> Tuple[List, Dict[str, int]]:
         assignment = self.routing.SolveWithParameters(self.search_parameters)
         if self.routing.status() != 1:
             raise Exception(f"Routing failed. Routing status {self.routing.status()}")
         optimal_order = self.format_solution(assignment)
         optimisation_history = self.monitor.optimization_history
+
+        if return_dict is not None:
+            return_dict[proc_number] = {
+                "order": optimal_order,
+                "history": optimisation_history
+            }
 
         return optimal_order, optimisation_history
 

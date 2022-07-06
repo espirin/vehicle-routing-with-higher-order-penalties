@@ -19,8 +19,8 @@ class EBGOptimizer(Optimizer):
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,
                  first_solution_strategy: routing_enums_pb2.FirstSolutionStrategy,
                  max_optimisation_duration: int,
-                 connections: Optional[Set[Tuple[Lanelet]]],
-                 check_topology: bool):
+                 check_topology: bool,
+                 connections: Optional[Set[Tuple[Lanelet]]] = None):
         super().__init__(nodes, matrix, local_search_metaheuristic, first_solution_strategy, max_optimisation_duration)
 
         # EBG-specific attributes
