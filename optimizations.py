@@ -5,7 +5,7 @@ from ortools.constraint_solver.routing_enums_pb2 import LocalSearchMetaheuristic
 
 from src.optimiser.lane_topology_optimiser import ConnectionsOptimiser
 from src.optimiser.lanelets_optimiser import LaneletsOptimiser
-from src.routing_problem.connections.complete import CompleteConnection, FirstConnection, LastConnection, SelfConnection
+from src.routing_problem.connections.complete import XGraphNode, FirstXGraphNode, LastXGraphNode, SelfXGraphNode
 from src.routing_problem.connections.lanelet import LaneletConnection
 from src.routing_problem.creator.creator import create_routing_problem
 from src.routing_problem.lanelet import FirstLanelet, LastLanelet
@@ -116,7 +116,7 @@ def optimize_x_graph(max_optimisation_duration: int,
     for segment in routing_problem.segments:
         maneuvers.update(segment.next_maneuvers)
 
-    complete_connections: List[CompleteConnection] = [FirstConnection()]
+    complete_connections: List[XGraphNode] = [FirstXGraphNode()]
     disjunctions: List[List[int]] = []
 
     for lanelet_to in routing_problem.lanelets:
@@ -129,16 +129,16 @@ def optimize_x_graph(max_optimisation_duration: int,
             if (segment_from.id, segment_to.id) in maneuvers:
                 maneuver = maneuvers[(segment_from.id, segment_to.id)]
 
-                complete_connections.append(CompleteConnection(lanelet_from=lanelet_from,
-                                                               lanelet_to=lanelet_to,
-                                                               maneuver=maneuver))
+                complete_connections.append(XGraphNode(lanelet_from=lanelet_from,
+                                                       lanelet_to=lanelet_to,
+                                                       maneuver=maneuver))
                 disjunctions[-1].append(len(complete_connections) - 1)
 
         if len(disjunctions[-1]) == 0:
             disjunctions = disjunctions[:-1]
-            complete_connections.append(SelfConnection(lanelet_to))
+            complete_connections.append(SelfXGraphNode(lanelet_to))
 
-    complete_connections.append(LastConnection())
+    complete_connections.append(LastXGraphNode())
 
     with open("data/matrix.json") as f:
         matrix = json.load(f)

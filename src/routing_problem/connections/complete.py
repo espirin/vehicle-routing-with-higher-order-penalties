@@ -5,7 +5,7 @@ from src.routing_problem.maneuver.maneuver import Maneuver
 from src.routing_problem.maneuver.modifier import ManeuverModifier
 
 
-class CompleteConnection:
+class XGraphNode:
     def __init__(self, lanelet_from: Lanelet, lanelet_to: Lanelet, maneuver: Optional[Maneuver]):
         self.lanelet_from: Lanelet = lanelet_from
         self.lanelet_to: Lanelet = lanelet_to
@@ -17,7 +17,7 @@ class CompleteConnection:
                     matrix: Dict[str, Dict[str, int]],
                     straight_non_straight_maneuver_penalty: int,
                     non_straight_straight_maneuver_penalty: int):
-        if isinstance(connection, LastConnection):
+        if isinstance(connection, LastXGraphNode):
             return 0
 
         if self.lanelet_to.segment.id == connection.lanelet_from.segment.id and self.maneuver is not None:
@@ -35,12 +35,12 @@ class CompleteConnection:
             return matrix[self.lanelet_to.segment.id][connection.lanelet_from.segment.id]
 
 
-class SelfConnection(CompleteConnection):
+class SelfXGraphNode(XGraphNode):
     def __init__(self, lanelet: Lanelet):
         super().__init__(lanelet, lanelet, maneuver=None)
 
 
-class LastConnection(CompleteConnection):
+class LastXGraphNode(XGraphNode):
     def __init__(self):
         super().__init__(None, None, None)
 
@@ -52,7 +52,7 @@ class LastConnection(CompleteConnection):
         return 0
 
 
-class FirstConnection(CompleteConnection):
+class FirstXGraphNode(XGraphNode):
     def __init__(self):
         super().__init__(None, None, None)
 

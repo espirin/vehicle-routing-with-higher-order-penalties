@@ -4,12 +4,12 @@ from ortools.constraint_solver import routing_enums_pb2
 
 from src.config.config import OPTIMISER_INFINITY
 from src.optimizer.optimizer import Optimizer
-from src.routing_problem.connections.complete import CompleteConnection
+from src.routing_problem.connections.complete import XGraphNode
 
 
 class XGraphOptimizer(Optimizer):
     def __init__(self,
-                 nodes: List[CompleteConnection],
+                 nodes: List[XGraphNode],
                  disjunctions: List[List[int]],
                  matrix: Dict[str, Dict[str, int]],
                  local_search_metaheuristic: routing_enums_pb2.LocalSearchMetaheuristic,

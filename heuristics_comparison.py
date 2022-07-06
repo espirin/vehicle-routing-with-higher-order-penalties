@@ -5,7 +5,7 @@ from typing import List
 from ortools.constraint_solver.routing_enums_pb2 import FirstSolutionStrategy, LocalSearchMetaheuristic
 
 from src.optimiser.lane_topology_optimiser import ConnectionsOptimiser
-from src.routing_problem.connections.complete import CompleteConnection, LastConnection, FirstConnection
+from src.routing_problem.connections.complete import XGraphNode, LastXGraphNode, FirstXGraphNode
 from src.routing_problem.creator.creator import create_routing_problem
 from src.routing_problem.routing_problem import RoutingProblem
 
@@ -22,7 +22,7 @@ def optimize(solution_strategy, first_solution_strategy, duration):
     for segment in routing_problem.segments:
         maneuvers.update(segment.next_maneuvers)
 
-    complete_connections: List[CompleteConnection] = [FirstConnection()]
+    complete_connections: List[XGraphNode] = [FirstXGraphNode()]
     disjunctions: List[List[int]] = []
 
     for lanelet_to in routing_problem.lanelets:
@@ -37,12 +37,12 @@ def optimize(solution_strategy, first_solution_strategy, duration):
                 maneuver = maneuvers[(segment_from.id, segment_to.id)] if (segment_from.id,
                                                                            segment_to.id) in maneuvers else None
 
-                complete_connections.append(CompleteConnection(lanelet_from=lanelet_from,
-                                                               lanelet_to=lanelet_to,
-                                                               maneuver=maneuver))
+                complete_connections.append(XGraphNode(lanelet_from=lanelet_from,
+                                                       lanelet_to=lanelet_to,
+                                                       maneuver=maneuver))
                 disjunctions[-1].append(len(complete_connections) - 1)
 
-    complete_connections.append(LastConnection())
+    complete_connections.append(LastXGraphNode())
 
     optimiser = ConnectionsOptimiser(connections=complete_connections,
                                      disjunctions=disjunctions,
