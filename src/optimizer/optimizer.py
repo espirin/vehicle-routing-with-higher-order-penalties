@@ -58,8 +58,8 @@ class Optimizer(ABC):
                 "order": optimal_order,
                 "history": optimisation_history
             }
-
-        return optimal_order, optimisation_history
+        else:
+            return optimal_order, optimisation_history
 
     def format_solution(self, assignment) -> List:
         index = self.routing.Start(0)

@@ -33,7 +33,7 @@ def measure_resources_usage(function, args, return_dict: Dict = None, proc_num: 
         monitor = ResourcesMonitor()
         mem_thread = executor.submit(monitor.measure_usage)
         try:
-            fn_thread = executor.submit(function, args=args)
+            fn_thread = executor.submit(function, args=args + (return_dict, proc_num))
             _ = fn_thread.result()
         finally:
             monitor.keep_measuring = False

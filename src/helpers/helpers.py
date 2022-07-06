@@ -1,5 +1,9 @@
-from typing import List, Dict
+from typing import List, Dict, Optional, Set, Tuple
 
+from ortools.constraint_solver.routing_enums_pb2 import FirstSolutionStrategy, LocalSearchMetaheuristic
+
+from src.optimizer.ebg_optimizer import EBGOptimizer
+from src.optimizer.x_graph_optimizer import XGraphOptimizer
 from src.routing_problem.lanelet import Lanelet
 from src.routing_problem.maneuver.modifier import ManeuverModifier
 from src.routing_problem.routing_problem import RoutingProblem
@@ -77,3 +81,42 @@ def format_x_graph_order(order) -> List[Lanelet]:
         shortened_x_graph_order.append(lanelet)
 
     return shortened_x_graph_order
+
+
+def optimize_ebg(nodes: List,
+                 matrix: Dict[str, Dict[str, int]],
+                 local_search_metaheuristic: LocalSearchMetaheuristic,
+                 first_solution_strategy: FirstSolutionStrategy,
+                 max_optimisation_duration: int,
+                 check_topology: bool,
+                 connections: Optional[Set[Tuple[Lanelet]]],
+                 return_dict: Dict = None,
+                 proc_number: int = None):
+    EBGOptimizer(nodes=nodes,
+                 matrix=matrix,
+                 local_search_metaheuristic=local_search_metaheuristic,
+                 first_solution_strategy=first_solution_strategy,
+                 max_optimisation_duration=max_optimisation_duration,
+                 check_topology=check_topology,
+                 connections=connections).optimize(return_dict, proc_number)
+
+
+def optimize_x_graph(nodes: List,
+                     matrix: Dict[str, Dict[str, int]],
+                     disjunctions: List[List[int]],
+                     local_search_metaheuristic: LocalSearchMetaheuristic,
+                     first_solution_strategy: FirstSolutionStrategy,
+                     max_optimisation_duration: int,
+                     straight_non_straight_maneuver_penalty: int,
+                     non_straight_straight_maneuver_penalty: int,
+                     return_dict: Dict = None,
+                     proc_number: int = None):
+    XGraphOptimizer(nodes=nodes,
+                    matrix=matrix,
+                    disjunctions=disjunctions,
+                    local_search_metaheuristic=local_search_metaheuristic,
+                    first_solution_strategy=first_solution_strategy,
+                    max_optimisation_duration=max_optimisation_duration,
+                    straight_non_straight_maneuver_penalty=straight_non_straight_maneuver_penalty,
+                    non_straight_straight_maneuver_penalty=non_straight_straight_maneuver_penalty).optimize(return_dict,
+                                                                                                            proc_number)
