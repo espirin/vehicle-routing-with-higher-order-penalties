@@ -25,6 +25,8 @@ class RoutingProblem(Serialisable):
         # Generated attributes
         self.center: List[float] = self.calculate_center_coordinates(segments)
         self.maneuvers: Dict[Tuple[str, str], Maneuver] = self.create_maneuvers()
+        self.average_branching_factor: float = self.calculate_average_branching_factor()
+        self.nbg_nodes_number: int = self.calculate_nbg_nodes_number()
 
     def to_json(self):
         return [lanelet.to_json() for lanelet in self.lanelets]
@@ -73,3 +75,19 @@ class RoutingProblem(Serialisable):
                             style=satellite_style)
 
         return viz.show()
+
+    def calculate_average_branching_factor(self) -> float:
+        branches = 0
+        for lanelet in self.lanelets:
+            for next_segment in lanelet.segment.next_segments:
+                branches += len(next_segment.lanelets)
+
+        return branches / len(self.lanelets)
+
+    def calculate_nbg_nodes_number(self) -> int:
+        nodes_count = 0
+        for lanelet in self.lanelets:
+            for _ in lanelet.segment.nodes:
+                nodes_count += 1
+
+        return nodes_count
