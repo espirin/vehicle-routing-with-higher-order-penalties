@@ -1,6 +1,6 @@
 # Vehicle routing with higher order penalties
 
-This repository contains the thesis and a Jupyter notebook showcasing its results.
+This repository contains the thesis and a [Jupyter notebook](thesis.ipynb) showcasing its results.
 
 ### Abstract
 
