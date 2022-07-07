@@ -1,5 +1,7 @@
 # Vehicle routing with higher order penalties
 
+![pylint workflow](https://github.com/espirin/vehicle-routing-with-higher-order-penalties/actions/workflows/pylint.yml/badge.svg)
+
 This repository contains the thesis and a [Jupyter notebook](thesis.ipynb) showcasing its results.
 
 ### Abstract
