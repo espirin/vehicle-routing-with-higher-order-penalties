@@ -26,7 +26,7 @@ class OSRMInterface:
             "origins": sources,
             "destinations": destinations,
             "osrm_file_path": osrm_file_path
-        }, timeout=1).json()
+        }, timeout=3).json()
 
     @staticmethod
     def request_route(routing_segments: List[Segment], osrm_file_path: str) -> Dict:

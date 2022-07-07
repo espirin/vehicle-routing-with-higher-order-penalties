@@ -873,12 +873,6 @@
   <node id='-478948' visible='true' lat='48.138147857' lon='11.62022338573' />
   <node id='-478949' visible='true' lat='48.13814186838' lon='11.62015751091' />
   <node id='-478950' visible='true' lat='48.13812987896' lon='11.62001563622' />
-  <node id='-478951' visible='true' lat='48.13829025114' lon='11.62287699242' />
-  <node id='-478952' visible='true' lat='48.13828052302' lon='11.62297330084' />
-  <node id='-478953' visible='true' lat='48.13826890279' lon='11.6230206118' />
-  <node id='-478954' visible='true' lat='48.13824785605' lon='11.6230454169' />
-  <node id='-478955' visible='true' lat='48.13821690195' lon='11.62305745462' />
-  <node id='-478956' visible='true' lat='48.13811233935' lon='11.62307225127' />
   <node id='-478957' visible='true' lat='48.1380361248' lon='11.62288099349' />
   <node id='-478958' visible='true' lat='48.13793012475' lon='11.62256399341' />
   <node id='-478959' visible='true' lat='48.13792926127' lon='11.62256169952' />
@@ -5572,34 +5566,6 @@
     <tag k='speed_class' v='1' />
     <tag k='type' v='segment' />
     <tag k='weight' v='192.0' />
-  </way>
-  <way id='-163962' visible='true'>
-    <nd ref='-478951' />
-    <nd ref='-478952' />
-    <nd ref='-478953' />
-    <nd ref='-478954' />
-    <nd ref='-478955' />
-    <nd ref='-478956' />
-    <tag k='component_id' v='1542' />
-    <tag k='duration' v='30.0' />
-    <tag k='is_forward' v='true' />
-    <tag k='is_startpoint' v='true' />
-    <tag k='is_tiny' v='true' />
-    <tag k='lanes' v='1' />
-    <tag k='length' v='31.881697000000003' />
-    <tag k='name' v='Einsteinstraße' />
-    <tag k='name_id' v='2005' />
-    <tag k='next_maneuvers' v='[{&quot;from&quot;: &quot;780262&quot;, &quot;to&quot;: &quot;780264&quot;, &quot;in_angle&quot;: 174, &quot;turn_angle&quot;: 61, &quot;duration&quot;: 0, &quot;weight&quot;: 0, &quot;type&quot;: 8, &quot;modifier&quot;: 2}]' />
-    <tag k='next_segments' v='780264' />
-    <tag k='nodes' v='[[48.138308, 11.622881], [48.138298, 11.62298], [48.138284, 11.623037], [48.138256, 11.62307], [48.13822, 11.623084], [48.138114, 11.623099]]' />
-    <tag k='parts' v='5' />
-    <tag k='previous_segments' v='' />
-    <tag k='rate' v='1' />
-    <tag k='segment_id' v='780262' />
-    <tag k='speed' v='38.41736172324829' />
-    <tag k='speed_class' v='1' />
-    <tag k='type' v='segment' />
-    <tag k='weight' v='30.0' />
   </way>
   <way id='-163963' action='modify' visible='true'>
     <nd ref='-478957' />
