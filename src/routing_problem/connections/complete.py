@@ -24,15 +24,11 @@ class XGraphNode:
             if self.maneuver.modifier == ManeuverModifier.Straight:
                 if connection.maneuver.modifier == ManeuverModifier.Straight:
                     return 0
-                else:
-                    return straight_non_straight_maneuver_penalty
-            else:
-                if connection.maneuver.modifier == ManeuverModifier.Straight:
-                    return non_straight_straight_maneuver_penalty
-                else:
-                    return 0
-        else:
-            return matrix[self.lanelet_to.segment.id][connection.lanelet_from.segment.id]
+                return straight_non_straight_maneuver_penalty
+            if connection.maneuver.modifier == ManeuverModifier.Straight:
+                return non_straight_straight_maneuver_penalty
+            return 0
+        return matrix[self.lanelet_to.segment.id][connection.lanelet_from.segment.id]
 
 
 class SelfXGraphNode(XGraphNode):

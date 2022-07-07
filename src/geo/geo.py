@@ -27,7 +27,8 @@ class LatLon(Coordinates):
 
         if lat is not None and lon is not None and (utm is not None or zone_latlon is not None):
             raise Exception("Please provide either lat, lon or utm and zone_latlon")
-        elif lat is not None and lon is not None:
+
+        if lat is not None and lon is not None:
             self.lat = lat
             self.lon = lon
         elif utm is not None and zone_latlon is not None:
@@ -77,7 +78,8 @@ class UTM(Coordinates):
 
         if north is not None and east is not None and zone_latlon is not None:
             raise Exception("Please provide north-east or latlon, not both")
-        elif north is not None and east is not None:
+
+        if north is not None and east is not None:
             self.north = north
             self.east = east
         elif zone_latlon is not None:
@@ -124,9 +126,11 @@ class Position(Serialisable):
 
         if latlon is not None and utm is not None:
             raise Exception("Please provide only type of coordinates")
-        elif latlon is None and utm is None:
+
+        if latlon is None and utm is None:
             raise Exception("Please provide one type of coordinates")
-        elif latlon is not None:
+
+        if latlon is not None:
             self.latlon = latlon
             self.update_utm()
         elif utm is not None and zone_latlon is not None:
@@ -167,7 +171,7 @@ class Position(Serialisable):
             self.latlon.update(self.utm)
 
     def get_utm_with_forced_zone(self, zone_number: int) -> UTM:
-        east, north, *rest = from_latlon(self.latlon.lat, self.latlon.lon, force_zone_number=zone_number)
+        east, north, *_ = from_latlon(self.latlon.lat, self.latlon.lon, force_zone_number=zone_number)
         return UTM(north=north, east=east)
 
 
@@ -180,7 +184,7 @@ class Node(Serialisable):
 
     def __init__(self, position: Position, attributes: Dict = None):
         if attributes is None:
-            attributes = dict()
+            attributes = {}
         self.position = position
         self.attributes = attributes
 

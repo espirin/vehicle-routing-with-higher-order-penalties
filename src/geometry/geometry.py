@@ -51,7 +51,8 @@ def cut_line(line: LineString, distance: float):
     # Cut a line in two at a given distance from its starting point
     if distance <= 0.0:
         return None, line
-    elif distance >= line.length:
+
+    if distance >= line.length:
         return line, None
 
     coords = list(line.coords)
@@ -62,6 +63,8 @@ def cut_line(line: LineString, distance: float):
         if pd > distance:
             cp = line.interpolate(distance)
             return LineString(coords[:i] + [(cp.x, cp.y)]), LineString([(cp.x, cp.y)] + coords[i:])
+
+    return None
 
 
 def shorten_line(nodes: List[Node], distance: float, cut_beginning: bool) -> List[Node]:

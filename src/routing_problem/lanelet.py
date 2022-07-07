@@ -60,8 +60,7 @@ class Lanelet(FigureWithNodes, Serialisable):
             if lanelet.segment.id in self.segment.next_segment_ids:
                 if (self, lanelet) in lanelet_connections:
                     return 0
-                else:
-                    return OPTIMISER_INFINITY
+                return OPTIMISER_INFINITY
 
             # If not, check if it's the same segment
             if self.segment.id == lanelet.segment.id:

@@ -21,7 +21,7 @@ class RoutingProblemParser:
         with open(self.path) as f:
             source = f.read()
 
-        nodes, ways = find_osm_nodes_and_ways(source)
+        _, ways = find_osm_nodes_and_ways(source)
         segments = self.create_segments(ways)
         self.check_geometry(segments)
         self.add_references(segments)
@@ -94,7 +94,7 @@ class RoutingProblemParser:
 
     @staticmethod
     def parse_next_maneuvers(next_maneuvers: Dict) -> Dict[Tuple[str, str], Maneuver]:
-        parsed_maneuvers = dict()
+        parsed_maneuvers = {}
         for maneuver in next_maneuvers:
             maneuver_type = ManeuverType(maneuver['type'])
             modifier = ManeuverModifier(maneuver['modifier'])

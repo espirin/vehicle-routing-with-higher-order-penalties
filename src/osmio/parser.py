@@ -9,8 +9,8 @@ def find_osm_nodes_and_ways(source: str) -> Tuple[Dict[int, Node], Dict[int, Dic
 
     tree = xml.fromstring(source)
 
-    nodes = dict()
-    ways = dict()
+    nodes = {}
+    ways = {}
     for element in tree:
         # Nodes
         if element.tag == "node":
@@ -23,7 +23,7 @@ def find_osm_nodes_and_ways(source: str) -> Tuple[Dict[int, Node], Dict[int, Dic
         # Ways
         elif element.tag == "way":
             element_id = int(element.attrib["id"])
-            ways[element_id] = {'nodes': [], 'attributes': dict()}
+            ways[element_id] = {'nodes': [], 'attributes': {}}
             for child in element:
                 if child.tag == "nd":
                     child_id = int(child.attrib["ref"])

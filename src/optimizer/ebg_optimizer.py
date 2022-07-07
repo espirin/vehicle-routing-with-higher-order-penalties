@@ -31,9 +31,10 @@ class EBGOptimizer(Optimizer):
         from_element_index = self.manager.IndexToNode(from_index)
         to_element_index = self.manager.IndexToNode(to_index)
 
-        from_node = self.nodes[from_element_index]
-        to_node = self.nodes[to_element_index]
-        return from_node.get_cost_to(to_node,
-                                     self.matrix,
-                                     self.connections,
-                                     self.check_topology)
+        from_maneuver = self.nodes[from_element_index]
+        to_maneuver = self.nodes[to_element_index]
+
+        return from_maneuver.get_cost_to(to_maneuver,
+                                         self.matrix,
+                                         self.connections,
+                                         self.check_topology)

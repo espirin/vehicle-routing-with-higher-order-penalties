@@ -10,7 +10,7 @@ class RoutingMonitor:
         self.best_objective: float = float("inf")
         self.start_time: datetime = datetime.now()
         self.last_reading_time: Optional[datetime] = None
-        self.optimization_history: Dict[str, int] = dict()
+        self.optimization_history: Dict[str, int] = {}
 
     def __call__(self):
         # Update best result

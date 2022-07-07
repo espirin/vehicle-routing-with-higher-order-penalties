@@ -58,7 +58,7 @@ class RoutingProblem(Serialisable):
                 lanelet.nodes = shorten_line(lanelet.nodes, 1, cut_beginning=False)
 
     def create_maneuvers(self) -> Dict[Tuple[str, str], Maneuver]:
-        maneuvers = dict()
+        maneuvers = {}
         for segment in self.segments:
             maneuvers.update(segment.next_maneuvers)
 
